@@ -1,21 +1,3 @@
-"""
-3 hot drinks:
-Espresso
-    price: 1.50$
-    50ml of hot water
-    18g of coffee
-Latte
-    price: 2.50$
-    200ml of hot water
-    24g of coffee
-    150ml of milk
-Cappuccino
-    price: 3.00$
-    250ml of hot water
-    24g of coffee
-    100ml of milk
-"""
-
 
 class Config:
 
@@ -32,7 +14,7 @@ class Config:
         },
         "latte": {
             "ingredients": {
-                "water": 2000,
+                "water": 200,
                 "milk": 150,
                 "coffee": 24,
             },
