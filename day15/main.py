@@ -15,10 +15,11 @@ class CoffeeMachine:
         print('beep! machine is running!')
         while True:
             self.get_user_input()
-            if not self.check_resources() or not self.put_coins():
+            # Check resources, then insert coins. If enough, make the coffee.
+            if not self.check_resources() or not self.insert_coins():
                 continue
-
-            self.make_coffee()
+            else:
+                self.make_coffee()
 
     def turn_off(self):
         self.state = False
@@ -62,7 +63,7 @@ class CoffeeMachine:
             return False
         return True
 
-    def put_coins(self):
+    def insert_coins(self):
         quarters = int(input('Insert Quarters (0,25$)'))
         dimes = int(input('Insert Dimes (0,10$)'))
         nickles = int(input('Insert Nickles (0,05$)'))
