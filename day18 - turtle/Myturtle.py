@@ -61,3 +61,5 @@ class MyTurtle:
             moving_object.pencolor(MyTurtle.random_colour())
             moving_object.circle(80)
             moving_object.left(360/number_of_circles)
+
+print(MyTurtle.random_colour())
