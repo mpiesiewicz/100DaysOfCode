@@ -1,10 +1,10 @@
 from turtle import Turtle, Screen
-import time
+from Config import Config
 
 
 class Snake:
 
-    def __init__(self, screen, speed=0.5):
+    def __init__(self, screen, speed=Config.SNAKES_SPEED):
         self.speed = speed
         self.snake_list = []
         self.new_piece = None
@@ -22,16 +22,17 @@ class Snake:
         self.head = self.snake_list[0]
 
     def go_snake_go(self):
-        self.screen.update()
-        # self.change_direction()
-        time.sleep(self.speed)
+        # self.screen.update()
+        # time.sleep(self.speed)
 
         for seg_num in range(len(self.snake_list) - 1, 0, -1):
             new_x = self.snake_list[seg_num - 1].xcor()
             new_y = self.snake_list[seg_num - 1].ycor()
             self.snake_list[seg_num].goto(new_x, new_y)
+            self.snake_list[seg_num].setheading(self.head.heading())
+            # self.screen.update()
 
-        # self.snake_list[0].setheading(random.choice([0, 90, 180, 270]))
+        self.change_direction()
         self.head.forward(20)
 
     def change_direction(self):
@@ -56,3 +57,8 @@ class Snake:
     def left(self):
         if self.head.heading() != 0:
             self.head.setheading(180)
+
+    def eat(self):
+        print('nom nom nom')
+
+
