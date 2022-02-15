@@ -14,6 +14,6 @@ class Food(Turtle):
         self.refresh()
 
     def refresh(self):
-        random_x = random.randint(-Config.SCREEN_WIDTH/2, Config.SCREEN_WIDTH/2)
-        random_y = random.randint(-Config.SCREEN_HEIGHT/2, Config.SCREEN_HEIGHT/2)
+        random_x = random.randint(-Config.SCREEN_WIDTH/2+20, Config.SCREEN_WIDTH/2-20)
+        random_y = random.randint(-Config.SCREEN_HEIGHT/2+20, Config.SCREEN_HEIGHT/2-20)
         self.goto(random_x, random_y)

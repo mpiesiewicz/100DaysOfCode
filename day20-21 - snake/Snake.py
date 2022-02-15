@@ -4,6 +4,8 @@ from Config import Config
 
 class Snake:
 
+    STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
+
     def __init__(self, screen, speed=Config.SNAKES_SPEED):
         self.speed = speed
         self.snake_list = []
@@ -13,24 +15,27 @@ class Snake:
         self.head = None
 
     def initialize(self):
-        for i in range(3):
-            self.new_piece = Turtle('turtle')
-            self.new_piece.color('white')
-            self.new_piece.penup()
-            self.new_piece.setposition(i*(-20), 0)
-            self.snake_list.append(self.new_piece)
+        for position in self.STARTING_POSITIONS:
+            self.extend_the_snake(position)
         self.head = self.snake_list[0]
 
-    def go_snake_go(self):
-        # self.screen.update()
-        # time.sleep(self.speed)
+    def extend_the_snake(self, position):
+        self.new_piece = Turtle('turtle')
+        self.new_piece.color('white')
+        self.new_piece.penup()
+        if self.head is not None:
+            last_piece_heading = self.snake_list[-1].heading()
+            self.new_piece.setheading(last_piece_heading)
+        self.new_piece.goto(position)
+        self.snake_list.append(self.new_piece)
 
+    def move(self):
         for seg_num in range(len(self.snake_list) - 1, 0, -1):
             new_x = self.snake_list[seg_num - 1].xcor()
             new_y = self.snake_list[seg_num - 1].ycor()
+            frontal_seg_heading = self.snake_list[seg_num - 1].heading()
             self.snake_list[seg_num].goto(new_x, new_y)
-            self.snake_list[seg_num].setheading(self.head.heading())
-            # self.screen.update()
+            self.snake_list[seg_num].setheading(frontal_seg_heading)
 
         self.change_direction()
         self.head.forward(20)
@@ -60,5 +65,9 @@ class Snake:
 
     def eat(self):
         print('nom nom nom')
+        self.extend_the_snake(self.snake_list[-1].position())
 
-
+    def tail_bite(self):
+        for segment in self.snake_list[1:]:
+            if self.head.distance(segment) < 10:
+                return True

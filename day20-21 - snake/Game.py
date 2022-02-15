@@ -23,10 +23,11 @@ class SnakeGame:
             # self.scoreboard.show_score()
             self.screen.update()
             time.sleep(Config.SNAKES_SPEED)
-            self.snake.go_snake_go()
+            self.snake.move()
             self.did_snake_eat()
             # print(self.snake.head.distance(self.food))
             self.did_snake_hit_the_wall()
+            self.did_snake_bite_the_tail()
 
         self.screen.exit()
 
@@ -37,6 +38,14 @@ class SnakeGame:
             self.scoreboard.add_score()
 
     def did_snake_hit_the_wall(self):
-        if self.snake.head.xcor() > 500 or self.snake.head.xcor() < -500 or self.snake.head.ycor() > 500 or self.snake.head.ycor() < -500:
+        if self.snake.head.xcor() > Config.SCREEN_WIDTH/2-10 or \
+                self.snake.head.xcor() < -Config.SCREEN_WIDTH/2-10 or \
+                self.snake.head.ycor() > Config.SCREEN_HEIGHT/2-10 or \
+                self.snake.head.ycor() < -Config.SCREEN_HEIGHT/2-10:
+            self.scoreboard.game_over()
+            self.game_is_on = False
+
+    def did_snake_bite_the_tail(self):
+        if self.snake.tail_bite():
             self.scoreboard.game_over()
             self.game_is_on = False
