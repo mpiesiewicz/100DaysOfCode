@@ -3,15 +3,14 @@ from Config import Config
 
 
 class Window:
-
     def __init__(self):
         self.screen = Screen()
 
-    def screen_setup(self):
+    def setup(self):
         self.screen.setup(width=Config.SCREEN_WIDTH,
                           height=Config.SCREEN_HEIGHT)
-        self.screen.bgcolor('black')
-        self.screen.title('snakes, snakes everywhere!')
+        self.screen.bgcolor('white')
+        self.screen.title('Ping Pong dla Madzi <3')
         self.screen.tracer(0)
 
     def update(self):
