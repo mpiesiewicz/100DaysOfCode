@@ -16,10 +16,12 @@ class PongGame:
         self.right_paddle = Paddle((Config.SCREEN_WIDTH / 2 - 20, 0), 'Up', 'Down')
         self.ball = Ball()
         self.scoreboard = Scoreboard()
+        self.counter = Scoreboard()
 
     def play(self):
         self.window.setup()
         self.scoreboard.update()
+        self.counter.countdown()
         while self.game_is_on:
             self.window.update()
             time.sleep(Config.GAME_SPEED)
@@ -33,10 +35,10 @@ class PongGame:
 
     def check_paddle_bounce(self):
         if self.ball.xcor() >= Config.SCREEN_WIDTH/2-37:
-            if self.right_paddle.ycor()-45 <= self.ball.ycor() <= self.right_paddle.ycor()+45:
+            if self.right_paddle.ycor()-50 <= self.ball.ycor() <= self.right_paddle.ycor()+50:
                 self.paddle_bounce()
         if self.ball.xcor() <= -Config.SCREEN_WIDTH/2+37:
-            if self.left_paddle.ycor()-45 <= self.ball.ycor() <= self.left_paddle.ycor()+45:
+            if self.left_paddle.ycor()-50 <= self.ball.ycor() <= self.left_paddle.ycor()+50:
                 self.paddle_bounce()
 
     def paddle_bounce(self):
@@ -56,6 +58,7 @@ class PongGame:
     def next_round(self):
         self.scoreboard.clear()
         self.scoreboard.update()
+        self.counter.countdown()
         self.ball.initialize()
         self.ball.time_speed += 0.1
         self.left_paddle.paddle_speed = self.right_paddle.paddle_speed = self.ball.time_speed/2
