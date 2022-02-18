@@ -3,7 +3,7 @@ import random
 
 class TurtleRace:
 
-    COLOURS = ['black', 'green', 'yellow', 'purple', 'orange', 'pink', 'blue']
+    COLOURS = ["sandybrown", "palegreen", "skyblue", "palevioletred", "royalblue", "orange", "crimson"]
 
     def __init__(self, screen, participants):
         self.screen = screen
