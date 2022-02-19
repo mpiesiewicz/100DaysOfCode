@@ -18,6 +18,7 @@ class Snake:
         for position in self.STARTING_POSITIONS:
             self.extend_the_snake(position)
         self.head = self.snake_list[0]
+        self.change_direction()
 
     def extend_the_snake(self, position):
         self.new_piece = Turtle('turtle')
@@ -64,10 +65,15 @@ class Snake:
             self.head.setheading(180)
 
     def eat(self):
-        print('nom nom nom')
         self.extend_the_snake(self.snake_list[-1].position())
 
     def tail_bite(self):
         for segment in self.snake_list[1:]:
             if self.head.distance(segment) < 10:
                 return True
+
+    def remove(self):
+        # move snake away from the screen
+        for element in self.snake_list:
+            element.goto(Config.SCREEN_WIDTH, Config.SCREEN_HEIGHT)
+

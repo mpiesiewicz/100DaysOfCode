@@ -18,4 +18,4 @@ class Window:
         self.screen.update()
 
     def exit(self):
-        self.screen.exitonclick()
+        self.screen.bye()
