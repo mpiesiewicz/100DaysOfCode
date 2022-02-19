@@ -34,11 +34,11 @@ class Scoreboard(Turtle):
 
     @staticmethod
     def load_high_score():
-        with open('high_score.txt') as file:
+        with open('/home/mpiesiewicz/py/100days/day20-21, 24 - snake game/data/high_score.txt') as file:
             return int(file.read())
 
     def update_high_score(self):
-        with open('high_score.txt', mode='w') as file:
+        with open('/home/mpiesiewicz/py/100days/day20-21, 24 - snake game/data/high_score.txt', mode='w') as file:
             file.write(str(self.score))
 
 
