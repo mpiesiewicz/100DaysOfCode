@@ -1,7 +1,7 @@
-# day 20-21:
+# day 20-21, 24:
 ## _Turtle-Snake game_
 
-Part 20-21 of the 100 days of code Bootcamp:  
+Part 20-21, 24 of the 100 days of code Bootcamp:  
 https://www.udemy.com/course/100-days-of-code/
 
 The aim of the project:
@@ -16,6 +16,7 @@ The aim of the project:
     - Window
     - Config file (that's why it's better than the original one)
  - Has turtles instead of boring squares as elements.
+ - Day 24 - High Score System added!
  - Mindblowing.
 ## How to run
 

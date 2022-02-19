@@ -54,4 +54,3 @@ class Writer(Turtle):
         self.write('GAME OVER!', align='center', font=Config.SCOREBOARD_FONT)
         self.goto(0, -20)
         self.write(f'Do you want to play again? y/n', align='center', font=Config.SCOREBOARD_FONT)
-
