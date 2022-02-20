@@ -41,15 +41,13 @@ class StatesGame:
 
             # exit when user gives up, fill missing states and print them to csv
             if answer_state == 'Exit':
+                missed_states = [state for state in data.state if state not in self.right_guesses]
+                for state in missed_states:
+                    state_data = data[data.state == state]
+                    self.writer.state_write(int(state_data.x), int(state_data.y), state)
                 with open('states_to_learn.txt', mode='w') as file:
-                    file.truncate()
-
-                with open('states_to_learn.txt', mode='a') as file:
-                    for state in data.state:
-                        if state not in self.right_guesses:
-                            state_data = data[data.state == state]
-                            self.writer.state_write(int(state_data.x), int(state_data.y), state)
-                            file.write(state + '\n')
+                    content = '\n'.join(missed_states)
+                    file.write(content)
 
                 self.game_is_on = False
 
