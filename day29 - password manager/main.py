@@ -1,10 +1,13 @@
-from itsdangerous import URLSafeSerializer
 import tkinter
 import tkinter.messagebox
+from tkinter.simpledialog import askstring
 from random import choice, randint, shuffle
 import pandas as pd
 import pyperclip
-
+from itsdangerous import URLSafeSerializer
+import csv
+from tempfile import NamedTemporaryFile
+import shutil
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def generate_password():
@@ -33,6 +36,39 @@ def pass_gen_btn():
     pass_entry.insert(0, new_password)
 
 
+def encrypt_the_file():
+
+    filename = 'data.txt'
+    tempfile = NamedTemporaryFile('w+t', delete=False)
+    encrypt = URLSafeSerializer(secret_key)
+
+    with open(filename, mode='r', newline='\n') as csv_file, tempfile:
+        reader = csv.reader(csv_file)
+        writer = csv.writer(tempfile)
+
+        for row in reader:
+            line = [encrypt.dumps(row)]
+            writer.writerow(line)
+
+    shutil.move(tempfile.name, filename)
+
+
+def decrypt_the_file():
+
+    filename = 'data.txt'
+    tempfile = NamedTemporaryFile('w+t', delete=False)
+    encrypt = URLSafeSerializer(secret_key)
+
+    with open(filename, 'r', newline='\n') as csv_file, tempfile:
+        reader = csv.reader(csv_file, quotechar='"')
+        writer = csv.writer(tempfile, quotechar='"')
+
+        for row in reader:
+            decrypted_row = encrypt.loads(''.join(row))
+            writer.writerow(decrypted_row)
+    shutil.move(tempfile.name, filename)
+
+
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save():
     site = str(web_entry.get())
@@ -43,6 +79,8 @@ def save():
         empty_field_warning = tkinter.messagebox.showwarning(title='Ooops...', message="Please make sure you haven't "
                                                                                        "left any fields empty.")
         return None
+
+    # decrypt_the_file()
 
     data = pd.read_csv('data.txt', sep=';')
 
@@ -70,6 +108,7 @@ def add_to_database(data, new_entry):
     data = data.sort_index()
     data.to_csv('data.txt', sep=';', index=None)
     print(data)
+    encrypt_the_file()
 
 
 def update_database(data, new_entry):
@@ -133,5 +172,9 @@ pass_generate_btn.grid(column=2, row=3, sticky='W')
 # add
 add_btn = tkinter.Button(text='Add', background=BACKGROUND, font=FONT, width=34, command=save)
 add_btn.grid(column=1, row=4, columnspan=2, sticky='W')
+
+secret_key = askstring('Password', 'Provide password: ')
+if not secret_key:
+    exit()
 
 window.mainloop()
