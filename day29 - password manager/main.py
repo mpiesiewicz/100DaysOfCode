@@ -9,9 +9,12 @@ import csv
 from tempfile import NamedTemporaryFile
 import shutil
 
+
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def generate_password():
-    letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+    letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
+               'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P',
+               'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
     numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
@@ -37,7 +40,6 @@ def pass_gen_btn():
 
 
 def encrypt_the_file():
-
     filename = 'data.txt'
     tempfile = NamedTemporaryFile('w+t', delete=False)
     encrypt = URLSafeSerializer(secret_key)
@@ -54,7 +56,6 @@ def encrypt_the_file():
 
 
 def decrypt_the_file():
-
     filename = 'data.txt'
     tempfile = NamedTemporaryFile('w+t', delete=False)
     encrypt = URLSafeSerializer(secret_key)
@@ -64,9 +65,21 @@ def decrypt_the_file():
         writer = csv.writer(tempfile, quotechar='"')
 
         for row in reader:
-            decrypted_row = encrypt.loads(''.join(row))
-            writer.writerow(decrypted_row)
+            try:
+                decrypted_row = encrypt.loads(''.join(row))
+                writer.writerow(decrypted_row)
+            except:
+                print('zle haslo')
+                exit_warning = tkinter.messagebox.showerror(title='Failed', message='Wrong password!')
+                exit()
+
     shutil.move(tempfile.name, filename)
+
+
+def on_closing():
+    if tkinter.messagebox.askokcancel("Quit", "Do you want to quit?"):
+        encrypt_the_file()
+        window.destroy()
 
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
@@ -80,20 +93,18 @@ def save():
                                                                                        "left any fields empty.")
         return None
 
-    # decrypt_the_file()
-
     data = pd.read_csv('data.txt', sep=';')
 
     new_entry = {
         'site': site,
         'login': login,
         'password': password
-                 }
+    }
 
     # check if site/login already in the database
     if ((data['site'] == site) & (data['login'] == login)).any():
         warning = tkinter.messagebox.askokcancel(title='Duplicate!', message='Password for this site and login'
-                                                                                'already exists. Overwrite?.')
+                                                                             'already exists. Overwrite?.')
         if warning:
             update_database(data, new_entry)
     else:
@@ -108,7 +119,6 @@ def add_to_database(data, new_entry):
     data = data.sort_index()
     data.to_csv('data.txt', sep=';', index=None)
     print(data)
-    encrypt_the_file()
 
 
 def update_database(data, new_entry):
@@ -174,7 +184,10 @@ add_btn = tkinter.Button(text='Add', background=BACKGROUND, font=FONT, width=34,
 add_btn.grid(column=1, row=4, columnspan=2, sticky='W')
 
 secret_key = askstring('Password', 'Provide password: ')
-if not secret_key:
+if not secret_key or secret_key is None:
     exit()
+decrypt_the_file()
+
+window.protocol("WM_DELETE_WINDOW", on_closing)
 
 window.mainloop()
