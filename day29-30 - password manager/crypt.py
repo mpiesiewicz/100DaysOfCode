@@ -32,5 +32,5 @@ def serializer(type):
     shutil.move(tempfile.name, filename)
 
 
-# serializer('encrypt')
+serializer('encrypt')
 # serializer('decrypt')

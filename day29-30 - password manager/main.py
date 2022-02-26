@@ -1,5 +1,5 @@
-import tkinter
-from tkinter import Tk, Menu, messagebox, PhotoImage, Canvas, Label, Entry, Button, Toplevel, Text, scrolledtext
+from tkinter import Tk, Menu, messagebox, PhotoImage, Canvas, Label, Entry, Button, Toplevel, Text, scrolledtext, END, \
+    DISABLED
 from tkinter.simpledialog import askstring
 from random import choice, randint, shuffle
 import pandas as pd
@@ -8,6 +8,7 @@ from itsdangerous import URLSafeSerializer, BadSignature
 import csv
 from tempfile import NamedTemporaryFile
 import shutil
+import json
 
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
@@ -37,6 +38,28 @@ def pass_gen_btn():
     new_password = generate_password()
     pass_entry.delete(0, 'end')
     pass_entry.insert(0, new_password)
+
+
+def search_btn():
+    site = str(web_entry.get())
+    with open('data.json', 'r') as data_file:
+        data = json.load(data_file)
+        try:
+            finding = data[site]
+        except KeyError:
+            email_entry.delete(0, 'end')
+            email_entry.insert(0, 'not found')
+            pass_entry.delete(0, 'end')
+            pass_entry.insert(0, 'not found')
+        else:
+            message = f"login: {finding['login']} \n" \
+                      f"pass: {finding['password']}"
+            messagebox.showinfo(title=site, message=message)
+
+            email_entry.delete(0, 'end')
+            email_entry.insert(0, finding['login'])
+            pass_entry.delete(0, 'end')
+            pass_entry.insert(0, finding['password'])
 
 # ---------------------------- ENCRYPTING THE FILE ------------------------------- #
 
@@ -109,39 +132,29 @@ def save():
         messagebox.showwarning(title='Ooops...', message="Please make sure you haven't "
                                                          "left any fields empty.")
         return None
-
-    data = pd.read_csv('data.txt', sep=';')
-
-    new_entry = {
-        'site': site,
-        'login': login,
-        'password': password
-    }
-
-    # check if site/login already in the database
-    if ((data['site'] == site) & (data['login'] == login)).any():
-        warning = messagebox.askokcancel(title='Duplicate!', message='Password for this site and login'
-                                                                             'already exists. Overwrite?.')
-        if warning:
-            update_database(data, new_entry)
     else:
-        add_to_database(data, new_entry)
 
-    restart_fields()
-
-
-def add_to_database(data, new_entry):
-    data.loc[-1] = new_entry
-    data.index = data.index + 1
-    data = data.sort_index()
-    data.to_csv('data.txt', sep=';', index=None)
-    print(data)
+        new_entry = {
+            site: {
+                'login': login,
+                'password': password
+            }
+        }
+        add_to_database(new_entry)
+        restart_fields()
 
 
-def update_database(data, new_entry):
-    rows_to_delete = data[(data['site'] == new_entry['site']) & (data['login'] == new_entry['login'])].index
-    data.drop(rows_to_delete, inplace=True)
-    add_to_database(data, new_entry)
+def add_to_database(new_entry):
+    try:
+        with open('data.json', 'r') as data_file:
+            data = json.load(data_file)
+    except FileNotFoundError:
+        with open('data.json', 'w') as data_file:
+            json.dump(new_entry, data_file, indent=4)
+    else:
+        data.update(new_entry)
+        with open('data.json', 'w') as data_file:
+            json.dump(data, data_file, indent=4)
 
 
 def restart_fields():
@@ -167,13 +180,13 @@ def show_info():
     # text box settings
     message = 'Created by mpiesiewicz \n' \
               'https://github.com/mpiesiewicz\n' \
-              'Credits: Dr. Angela\n'\
+              'Credits: Dr. Angela\n' \
               '100 days of code challenge, day 29\n' \
               'https://www.udemy.com/course/100-days-of-code/\n'
 
     info_text = Text(info_window, height=500, width=500)
-    info_text.insert(tkinter.END, message)
-    info_text.config(state=tkinter.DISABLED)
+    info_text.insert(END, message)
+    info_text.config(state=DISABLED)
     info_text.grid(column=0, row=1)
     info_window.grab_set()
 
@@ -189,9 +202,9 @@ def show_passwords():
     pass_text = scrolledtext.ScrolledText(pass_window, font=FONT, undo=True)
 
     message = pd.read_csv('data.txt', sep=';')
-    pass_text.insert(tkinter.END, message)
+    pass_text.insert(END, message)
 
-    pass_text.config(state=tkinter.DISABLED)
+    pass_text.config(state=DISABLED)
     pass_text.grid(column=0, row=0)
     pass_window.grab_set()
 
@@ -219,9 +232,9 @@ canvas.grid(column=1, row=0)
 web_label = Label(text='Website:', background=BACKGROUND, font=FONT)
 web_label.grid(column=0, row=1)
 
-web_entry = Entry(background=BACKGROUND, font=FONT, width=36)
+web_entry = Entry(background=BACKGROUND, font=FONT, width=24)
 # web_entry.insert(tkinter.END, '.com')
-web_entry.grid(column=1, row=1, columnspan=2, sticky='W')
+web_entry.grid(column=1, row=1, columnspan=1, sticky='W')
 web_entry.focus()
 
 # email/username
@@ -245,6 +258,10 @@ pass_generate_btn.grid(column=2, row=3, sticky='W')
 # add
 add_btn = Button(text='Add', background=BACKGROUND, font=FONT, width=34, command=save)
 add_btn.grid(column=1, row=4, columnspan=2, sticky='W')
+
+# search
+search_btn = Button(text='Search', background=BACKGROUND, font=FONT, width=9, command=search_btn)
+search_btn.grid(column=2, row=1, sticky='W')
 
 # menu
 menubar = Menu(window)
