@@ -1,13 +1,11 @@
-import tkinter
-from tkinter import Tk, Menu, messagebox, PhotoImage, Canvas, Label, Entry, Button, Toplevel, Text, scrolledtext
+from tkinter import Tk, Menu, messagebox, PhotoImage, Canvas, Label, Entry, Button, Toplevel, Text, scrolledtext, END, \
+    DISABLED
 from tkinter.simpledialog import askstring
 from random import choice, randint, shuffle
 import pandas as pd
 import pyperclip
 from itsdangerous import URLSafeSerializer, BadSignature
-import csv
-from tempfile import NamedTemporaryFile
-import shutil
+import json
 
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
@@ -38,31 +36,54 @@ def pass_gen_btn():
     pass_entry.delete(0, 'end')
     pass_entry.insert(0, new_password)
 
+
+def search_btn():
+    site = str(web_entry.get())
+    with open('data.json', 'r') as data_file:
+        data = json.load(data_file)
+        try:
+            finding = data[site]
+        except KeyError:
+            email_entry.delete(0, 'end')
+            email_entry.insert(0, 'not found')
+            pass_entry.delete(0, 'end')
+            pass_entry.insert(0, 'not found')
+        else:
+            message = f"login: {finding['login']} \n" \
+                      f"pass: {finding['password']}"
+            messagebox.showinfo(title=site, message=message)
+
+            email_entry.delete(0, 'end')
+            email_entry.insert(0, finding['login'])
+            pass_entry.delete(0, 'end')
+            pass_entry.insert(0, finding['password'])
+
+
 # ---------------------------- ENCRYPTING THE FILE ------------------------------- #
+def encrypt():
+    crypto = URLSafeSerializer(secret_key)
+
+    with open('data.json', 'r') as data_file:
+        reader = json.load(data_file)
+
+        encrypted_text = crypto.dumps(reader)
+    with open('data.json', 'w') as data_file:
+        data_file.write(encrypted_text)
 
 
-def serializer(action, password):
-    filename = 'data.txt'
-    tempfile = NamedTemporaryFile('w+t', delete=False)
-    crypto = URLSafeSerializer(password)
+def decrypt():
+    crypto = URLSafeSerializer(secret_key)
 
-    with open(filename, mode='r', newline='\n') as csv_file, tempfile:
-        reader = csv.reader(csv_file)
-        writer = csv.writer(tempfile)
-
-        for row in reader:
-            line = str()
-            if action == 'encrypt':
-                line = [crypto.dumps(row)]
-            elif action == 'decrypt':
-                try:
-                    line = crypto.loads(''.join(row))
-                except BadSignature:
-                    messagebox.showerror(title='Failed', message='Wrong password!')
-                    exit()
-            writer.writerow(line)
-
-    shutil.move(tempfile.name, filename)
+    with open('data.json', 'r') as data_file:
+        reader = data_file.read()
+    try:
+        decrypted_text = crypto.loads(reader)
+    except BadSignature:
+        messagebox.showerror(title='Failed', message='Wrong password!')
+        exit()
+    else:
+        with open('data.json', 'w') as data_file:
+            json.dump(decrypted_text, data_file, indent=4)
 
 
 def change_password(change_type=None):
@@ -70,32 +91,34 @@ def change_password(change_type=None):
     secret_key = str()
     while len(secret_key) <= 0:
         secret_key = askstring('Password', 'New Password: ')
-
-    if change_type == 'init':
-        serializer('decrypt', 'pass')
-
     return secret_key
 
 
 def initialize():
     global secret_key
-    with open('data.txt', mode='r', newline='\n') as csv_file:
-        reader = csv.reader(csv_file)
-        number_of_rows = sum(1 for _ in reader) - 1  # minus header
 
-        if number_of_rows == 0:
-            secret_key = change_password('init')
+    try:
+        with open('data.json', 'r') as data_file:
+            if len(data_file.readlines()) == 0:
+                raise FileNotFoundError
+
+    except FileNotFoundError:
+        # json file does not exist, do not attempt to decrypt
+        answer = messagebox.askyesno('Set up password?', 'Do you want to change the default password?')
+        if answer:
+            change_password()
+    else:
+        secret_key = askstring('Password', 'Provide password: ')
+        if not secret_key or secret_key is None:
+            exit()
         else:
-            secret_key = askstring('Password', 'Provide password: ')
-            if not secret_key or secret_key is None:
-                exit()
-            serializer('decrypt', secret_key)
+            decrypt()
 
 
 def on_closing():
     global secret_key
     if messagebox.askokcancel("Quit", "Do you want to quit?"):
-        serializer('encrypt', secret_key)
+        encrypt()
         window.destroy()
 
 
@@ -109,39 +132,29 @@ def save():
         messagebox.showwarning(title='Ooops...', message="Please make sure you haven't "
                                                          "left any fields empty.")
         return None
-
-    data = pd.read_csv('data.txt', sep=';')
-
-    new_entry = {
-        'site': site,
-        'login': login,
-        'password': password
-    }
-
-    # check if site/login already in the database
-    if ((data['site'] == site) & (data['login'] == login)).any():
-        warning = messagebox.askokcancel(title='Duplicate!', message='Password for this site and login'
-                                                                             'already exists. Overwrite?.')
-        if warning:
-            update_database(data, new_entry)
     else:
-        add_to_database(data, new_entry)
 
-    restart_fields()
-
-
-def add_to_database(data, new_entry):
-    data.loc[-1] = new_entry
-    data.index = data.index + 1
-    data = data.sort_index()
-    data.to_csv('data.txt', sep=';', index=None)
-    print(data)
+        new_entry = {
+            site: {
+                'login': login,
+                'password': password
+            }
+        }
+        add_to_database(new_entry)
+        restart_fields()
 
 
-def update_database(data, new_entry):
-    rows_to_delete = data[(data['site'] == new_entry['site']) & (data['login'] == new_entry['login'])].index
-    data.drop(rows_to_delete, inplace=True)
-    add_to_database(data, new_entry)
+def add_to_database(new_entry):
+    try:
+        with open('data.json', 'r') as data_file:
+            data = json.load(data_file)
+    except (FileNotFoundError, ValueError) as error:
+        with open('data.json', 'w') as data_file:
+            json.dump(new_entry, data_file, indent=4)
+    else:
+        data.update(new_entry)
+        with open('data.json', 'w') as data_file:
+            json.dump(data, data_file, indent=4)
 
 
 def restart_fields():
@@ -167,13 +180,13 @@ def show_info():
     # text box settings
     message = 'Created by mpiesiewicz \n' \
               'https://github.com/mpiesiewicz\n' \
-              'Credits: Dr. Angela\n'\
+              'Credits: Dr. Angela\n' \
               '100 days of code challenge, day 29\n' \
               'https://www.udemy.com/course/100-days-of-code/\n'
 
     info_text = Text(info_window, height=500, width=500)
-    info_text.insert(tkinter.END, message)
-    info_text.config(state=tkinter.DISABLED)
+    info_text.insert(END, message)
+    info_text.config(state=DISABLED)
     info_text.grid(column=0, row=1)
     info_window.grab_set()
 
@@ -188,10 +201,14 @@ def show_passwords():
     # scroll text box settings
     pass_text = scrolledtext.ScrolledText(pass_window, font=FONT, undo=True)
 
-    message = pd.read_csv('data.txt', sep=';')
-    pass_text.insert(tkinter.END, message)
+    data = pd.read_json('data.json')
+    data = data.T
 
-    pass_text.config(state=tkinter.DISABLED)
+    message = data.to_string()
+
+    pass_text.insert(END, message)
+
+    pass_text.config(state=DISABLED)
     pass_text.grid(column=0, row=0)
     pass_window.grab_set()
 
@@ -219,9 +236,9 @@ canvas.grid(column=1, row=0)
 web_label = Label(text='Website:', background=BACKGROUND, font=FONT)
 web_label.grid(column=0, row=1)
 
-web_entry = Entry(background=BACKGROUND, font=FONT, width=36)
+web_entry = Entry(background=BACKGROUND, font=FONT, width=24)
 # web_entry.insert(tkinter.END, '.com')
-web_entry.grid(column=1, row=1, columnspan=2, sticky='W')
+web_entry.grid(column=1, row=1, columnspan=1, sticky='W')
 web_entry.focus()
 
 # email/username
@@ -245,6 +262,10 @@ pass_generate_btn.grid(column=2, row=3, sticky='W')
 # add
 add_btn = Button(text='Add', background=BACKGROUND, font=FONT, width=34, command=save)
 add_btn.grid(column=1, row=4, columnspan=2, sticky='W')
+
+# search
+search_btn = Button(text='Search', background=BACKGROUND, font=FONT, width=9, command=search_btn)
+search_btn.grid(column=2, row=1, sticky='W')
 
 # menu
 menubar = Menu(window)
