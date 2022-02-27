@@ -1,7 +1,7 @@
-# day 29:
+# day 29-30:
 ## _Passlock - password manager_
 
-Part 29 of the 100 days of code Bootcamp:  
+Part 29-30 of the 100 days of code Bootcamp:  
 https://www.udemy.com/course/100-days-of-code/
 
 The aim of the project:
@@ -24,7 +24,7 @@ Why is it better than the original one?
 - Contains a nice menu bar and info section
 - Always encrypts the passwords on exit
 
-Passwords are stored in data.txt file, in a much safer format than just a plain text.
+Passwords are stored in data.json file, in a much safer format than just a plain text.
 Passwords are not encrypted, the format is pseudo encrypted, still better than plain text.
 
 Whenever somebody changes the stored form, the program will fail.
@@ -43,3 +43,7 @@ Written in pure python 3.8.10
 - csv
 - tempfile
 - shutil
+
+## Changelog
+v1.1
+data stored in .txt files was changed to json

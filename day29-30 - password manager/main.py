@@ -5,9 +5,6 @@ from random import choice, randint, shuffle
 import pandas as pd
 import pyperclip
 from itsdangerous import URLSafeSerializer, BadSignature
-import csv
-from tempfile import NamedTemporaryFile
-import shutil
 import json
 
 
@@ -61,31 +58,32 @@ def search_btn():
             pass_entry.delete(0, 'end')
             pass_entry.insert(0, finding['password'])
 
+
 # ---------------------------- ENCRYPTING THE FILE ------------------------------- #
+def encrypt():
+    crypto = URLSafeSerializer(secret_key)
+
+    with open('data.json', 'r') as data_file:
+        reader = json.load(data_file)
+
+        encrypted_text = crypto.dumps(reader)
+    with open('data.json', 'w') as data_file:
+        data_file.write(encrypted_text)
 
 
-def serializer(action, password):
-    filename = 'data.txt'
-    tempfile = NamedTemporaryFile('w+t', delete=False)
-    crypto = URLSafeSerializer(password)
+def decrypt():
+    crypto = URLSafeSerializer(secret_key)
 
-    with open(filename, mode='r', newline='\n') as csv_file, tempfile:
-        reader = csv.reader(csv_file)
-        writer = csv.writer(tempfile)
-
-        for row in reader:
-            line = str()
-            if action == 'encrypt':
-                line = [crypto.dumps(row)]
-            elif action == 'decrypt':
-                try:
-                    line = crypto.loads(''.join(row))
-                except BadSignature:
-                    messagebox.showerror(title='Failed', message='Wrong password!')
-                    exit()
-            writer.writerow(line)
-
-    shutil.move(tempfile.name, filename)
+    with open('data.json', 'r') as data_file:
+        reader = data_file.read()
+    try:
+        decrypted_text = crypto.loads(reader)
+    except BadSignature:
+        messagebox.showerror(title='Failed', message='Wrong password!')
+        exit()
+    else:
+        with open('data.json', 'w') as data_file:
+            json.dump(decrypted_text, data_file, indent=4)
 
 
 def change_password(change_type=None):
@@ -93,32 +91,34 @@ def change_password(change_type=None):
     secret_key = str()
     while len(secret_key) <= 0:
         secret_key = askstring('Password', 'New Password: ')
-
-    if change_type == 'init':
-        serializer('decrypt', 'pass')
-
     return secret_key
 
 
 def initialize():
     global secret_key
-    with open('data.txt', mode='r', newline='\n') as csv_file:
-        reader = csv.reader(csv_file)
-        number_of_rows = sum(1 for _ in reader) - 1  # minus header
 
-        if number_of_rows == 0:
-            secret_key = change_password('init')
+    try:
+        with open('data.json', 'r') as data_file:
+            if len(data_file.readlines()) == 0:
+                raise FileNotFoundError
+
+    except FileNotFoundError:
+        # json file does not exist, do not attempt to decrypt
+        answer = messagebox.askyesno('Set up password?', 'Do you want to change the default password?')
+        if answer:
+            change_password()
+    else:
+        secret_key = askstring('Password', 'Provide password: ')
+        if not secret_key or secret_key is None:
+            exit()
         else:
-            secret_key = askstring('Password', 'Provide password: ')
-            if not secret_key or secret_key is None:
-                exit()
-            serializer('decrypt', secret_key)
+            decrypt()
 
 
 def on_closing():
     global secret_key
     if messagebox.askokcancel("Quit", "Do you want to quit?"):
-        serializer('encrypt', secret_key)
+        encrypt()
         window.destroy()
 
 
@@ -148,7 +148,7 @@ def add_to_database(new_entry):
     try:
         with open('data.json', 'r') as data_file:
             data = json.load(data_file)
-    except FileNotFoundError:
+    except (FileNotFoundError, ValueError) as error:
         with open('data.json', 'w') as data_file:
             json.dump(new_entry, data_file, indent=4)
     else:
@@ -201,7 +201,11 @@ def show_passwords():
     # scroll text box settings
     pass_text = scrolledtext.ScrolledText(pass_window, font=FONT, undo=True)
 
-    message = pd.read_csv('data.txt', sep=';')
+    data = pd.read_json('data.json')
+    data = data.T
+
+    message = data.to_string()
+
     pass_text.insert(END, message)
 
     pass_text.config(state=DISABLED)
