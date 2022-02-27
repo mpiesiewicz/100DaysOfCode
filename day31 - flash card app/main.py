@@ -24,22 +24,6 @@ def cards_resize(img, width, height):
     return photo_img
 
 
-def known():
-    global current_card_index
-    to_learn.pop(current_card_index)
-    if len(to_learn) == 0:
-        tkinter.messagebox.showinfo(title='CONGRATS!', message='You know all the words.')
-        on_closing()
-    else:
-        next_card()
-
-
-def on_closing():
-    saved_data = pd.DataFrame(to_learn)
-    saved_data.to_csv('data/words_to_learn.csv', index=False)
-    window.destroy()
-
-
 def data_initialize():
     try:
         data = pd.read_csv('data/words_to_learn.csv')
@@ -54,9 +38,25 @@ def not_known():
     next_card()
 
 
+def known():
+    global current_card_index
+    to_learn.pop(current_card_index)
+    if len(to_learn) == 0:
+        tkinter.messagebox.showinfo(title='CONGRATS!', message='You know all the words.')
+        on_closing()
+    else:
+        next_card()
+
+
 def next_card():
     global flip_timer, current_card, current_card_index
+
+    # prevent drawing the same index again
+    old_index = current_card_index
     current_card_index = random.randint(0, len(to_learn) - 1)
+    while old_index == current_card_index and len(to_learn) != 1:
+        current_card_index = random.randint(0, len(to_learn) - 1)
+
     current_card = to_learn[current_card_index]
 
     window.after_cancel(flip_timer)
@@ -72,6 +72,12 @@ def flip_card():
     canvas.itemconfig(label_word, text=current_card['English'], fill='white')
     canvas.itemconfig(label_language, text='English', fill='white')
     SEEN_CARDS.append(current_card)
+
+
+def on_closing():
+    saved_data = pd.DataFrame(to_learn)
+    saved_data.to_csv('data/words_to_learn.csv', index=False)
+    window.destroy()
 
 
 # Window settings
