@@ -1,12 +1,11 @@
-import requests
 from credentials import \
     KEY, \
     TWILLIO_SID, \
     TWILLIO_TOKEN, \
     TWILLIO_PHONE_NUMBER, \
-    TO_PHONE_NUMBER_2, \
     TO_PHONE_NUMBER
 
+import requests
 from datetime import datetime, timezone, timedelta
 from twilio.rest import Client
 
@@ -57,15 +56,6 @@ if will_rain:
     print(message.status)
 
     client = Client(TWILLIO_SID, TWILLIO_TOKEN)
-
-    # second message
-    message = client.messages \
-        .create(
-            body=f"Weź ☂! Będzie padać o {', '.join(str(x) for x in rain_hours)}",  # pl: it will rain at: rain_hours
-            from_=TWILLIO_PHONE_NUMBER,
-            to=TO_PHONE_NUMBER_2,
-        )
-    print(message.status)
 
 else:
     print("Dziś nie pada.")  # polish: It won't rain today
