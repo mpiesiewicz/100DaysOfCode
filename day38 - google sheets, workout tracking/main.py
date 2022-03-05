@@ -10,7 +10,7 @@ date = datetime.datetime.today().strftime('%d/%m/%Y')
 time = datetime.datetime.now().strftime('%X')
 
 NUTRITIONIX_URL = 'https://trackapi.nutritionix.com'
-EXCERCISE_ENDPOINT = '/v2/natural/exercise'
+EXERCISE_ENDPOINT = '/v2/natural/exercise'
 
 header = {
     'x-app-id': NUTRITIONIX_APPID,
@@ -21,7 +21,7 @@ header = {
 body = {
     'query': input('Enter your activity: ')
 }
-exercise_response = requests.post(url=f"{NUTRITIONIX_URL}{EXCERCISE_ENDPOINT}", headers=header, json=body)
+exercise_response = requests.post(url=f"{NUTRITIONIX_URL}{EXERCISE_ENDPOINT}", headers=header, json=body)
 exercises = exercise_response.json()['exercises'][0]
 print(exercises)
 
