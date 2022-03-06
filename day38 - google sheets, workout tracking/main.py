@@ -5,7 +5,6 @@ from credentials import \
     NUTRITIONIX_APPID, \
     SHEETY_TOKEN
 
-
 date = datetime.datetime.today().strftime('%d/%m/%Y')
 time = datetime.datetime.now().strftime('%X')
 
