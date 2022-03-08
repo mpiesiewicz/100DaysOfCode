@@ -1,16 +1,18 @@
 from flight_data import Sheety
 from flight_search import FlightSearcher
+from users import UserManager
 from notification_manager import NotificationManager
 from credentials import SMTP_GMAIL, \
                         PORT_GMAIL, \
                         MAIL_GMAIL, \
                         PASS_GMAIL, \
-                        RECIPIENTS
+                        SHEETY_TOKEN
 
 
 class DataManager:
     def __init__(self):
-        self.sheety = Sheety()
+        self.sheety = Sheety(SHEETY_TOKEN)
+        self.user_manager = UserManager(SHEETY_TOKEN)
         self.flight_searcher = FlightSearcher()
         self.notification_manager = NotificationManager(sender_smtp=SMTP_GMAIL,
                                                         sender_port=PORT_GMAIL,
@@ -20,7 +22,8 @@ class DataManager:
 
     def run(self):
         self.perform_data_update()
-        self.notification_manager.notify(recipients=RECIPIENTS,
+        recipients = self.user_manager.get_users_addresses()
+        self.notification_manager.notify(recipients=recipients,
                                          content=self.todays_hot_deals)
 
     def perform_data_update(self):

@@ -1,3 +1,8000 @@
 ES,English,Popularity
 de,from,1
 que,what,2
+no,no,3
+a,to,4
+la,the,5
+el,the,6
+y,and,7
+es,is,8
+en,on,9
+lo,it,10
+un,a,11
+por,by,12
+qué,what,13
+me,I,14
+una,a,15
+los,the,16
+se,I know,17
+te,tea,18
+con,with,19
+para,for,20
+está,is,21
+mi,me,22
+pero,but,23
+si,Yes,25
+bien,well,26
+eso,that,27
+su,his,28
+las,the,29
+yo,me,30
+del,the,31
+como,What,32
+aquí,here,33
+tu,you,34
+al,to the,35
+más,plus,36
+le,you,37
+esto,this,38
+todo,everything,39
+ya,already,40
+estoy,I'm,41
+ahora,now,42
+muy,very,43
+ha,ha,44
+esta,is,45
+así,So,46
+vamos,we go,47
+algo,something,48
+hay,there are,49
+bueno,Okay,50
+tengo,I have,51
+él,he,52
+cuando,when,53
+estás,these,54
+sé,he,55
+tú,your,56
+nos,us,57
+nada,nothing,58
+cómo,excuse me,59
+este,East,60
+o,or,61
+he,He.,62
+ser,be,63
+tiene,have,64
+puedo,may l,65
+ella,her,66
+quiero,want,67
+hacer,do,68
+fue,was,69
+gracias,Thank you,70
+vez,time,71
+era,was,72
+soy,am,73
+sólo,alone,74
+todos,everyone,75
+porque,because,76
+son,They are,77
+tienes,have,78
+creo,believe,79
+voy,I go,80
+sabes,know,81
+estaba,I was,82
+puede,can,83
+eres,are,84
+ese,that,85
+usted,you,86
+entonces,then,87
+hola,hello,88
+solo,only,89
+verdad,truth,90
+casa,House,91
+tan,so,92
+quién,whose,93
+sus,their,94
+tiempo,weather,95
+dos,two,96
+esa,this,97
+nunca,never,98
+dónde,where,99
+va,he,100
+oh,Oh,101
+favor,favor,102
+mucho,a lot,103
+mí,my,104
+quieres,you want,105
+siento,I feel,106
+señor,Sir,107
+mejor,better,108
+hace,make,109
+has,HAS.,110
+decir,say,111
+también,as well,112
+sobre,on,113
+dios,God,114
+sin,without,115
+tenemos,have,116
+están,is it so,117
+ti,you,118
+puedes,you can,119
+ver,watch,120
+hombre,man,121
+vida,lifetime,122
+alguien,someone,123
+cosas,stuff,124
+siempre,forever,125
+hasta,until,126
+ahí,there,127
+ir,to go,128
+años,years,129
+antes,before,130
+estar,be,131
+ni,neither,132
+poco,little bit,133
+día,day,134
+uno,one,135
+noche,evening,136
+hecho,done,137
+mis,MIS,138
+estamos,we're,139
+otra,other,140
+acuerdo,agreement,141
+trabajo,job,142
+nosotros,us,143
+parece,It seems,144
+gente,people,145
+sea,be,146
+padre,dad,147
+mira,sight,148
+mismo,same,149
+dijo,said,150
+nadie,no one,151
+quiere,wants,152
+podría,might,153
+hablar,speak,154
+vas,you go,155
+ellos,they,156
+sr.,Mr.,157
+tal,such,158
+pasa,happens,159
+fuera,outside,160
+después,then,161
+han,they have,162
+desde,from,163
+dinero,money,164
+mundo,world,165
+claro,Clear,166
+momento,moment,167
+les,them,168
+tener,have,169
+estado,condition,170
+otro,other,171
+había,there was,172
+mañana,morning,173
+tenía,I had,174
+madre,mother,175
+vale,okay,176
+lugar,place,177
+haciendo,making,178
+donde,where,179
+seguro,sure,180
+sabe,knows,181
+podemos,can,182
+tus,your,183
+espera,waiting,184
+nuevo,new,185
+sido,been,186
+cosa,thing,187
+hijo,child,188
+allí,there,189
+menos,less,190
+tipo,type,191
+amigo,friend,192
+gran,big,193
+nuestro,our,194
+mujer,woman,195
+mamá,mom,196
+luego,later,197
+papá,dad,198
+días,days,199
+dice,it says,200
+hoy,today,201
+tres,three,202
+buena,good,203
+necesito,needed,204
+dije,said,205
+oye,hears,206
+gusta,like,207
+quería,wanted,208
+será,be,209
+haber,to have,210
+parte,part,211
+todas,all,212
+crees,you think,213
+buen,good,214
+conmigo,with me,215
+nombre,Name,216
+mierda,shit,217
+nuestra,our,218
+mal,evil,219
+debe,should,220
+realmente,Really,221
+estas,are,222
+aún,yet,223
+mío,Own,224
+toda,all,225
+hacerlo,do it,226
+cada,every,227
+visto,viewed,228
+importa,import,229
+contigo,with you,230
+tienen,have,231
+hemos,we have,232
+razón,reason,233
+alguna,some,234
+tanto,so much,235
+saber,to know,236
+hizo,did,237
+veces,times,238
+serio,I laughed,239
+ven,come,240
+idea,idea,241
+eh,Hey,242
+tarde,afternoon,243
+problema,trouble,244
+hora,hour,245
+cierto,certain,246
+dicho,saying,247
+quien,who,248
+demasiado,too,249
+amor,love,250
+entre,Come in,251
+ve,go,252
+pasado,past,253
+familia,family,254
+estos,these,255
+policía,police,256
+debería,should,257
+ustedes,your,258
+chica,girl,259
+esos,those,260
+chicos,Boys,261
+cuenta,bill,262
+haces,you do,263
+todavía,yet,264
+salir,leave,265
+algún,some,266
+vaya,Wow,267
+unos,some,268
+veo,I see,269
+amigos,friends,270
+hermano,brother,271
+pensé,I thought,272
+sabía,I knew,273
+cabeza,head,274
+ah,ah,275
+cariño,Dear,276
+digo,say,277
+van,go,278
+hombres,mens,279
+buenas,good,280
+somos,are,281
+cualquier,any,282
+forma,shape,283
+mientras,While,284
+lado,side,285
+debo,I must,286
+sería,would,287
+caso,case,288
+pueden,they can,289
+pasó,I pass,290
+primera,first,291
+genial,great,292
+chico,guy,293
+supuesto,assumption,294
+hice,I did,295
+pues,well,296
+adiós,bye,297
+muchas,many,298
+personas,people,299
+señora,Lady,300
+volver,return,301
+esas,those,302
+quizá,maybe,303
+contra,against,304
+camino,way,305
+durante,during,306
+hablando,speaking,307
+manera,way,308
+muerto,dead,309
+persona,person,310
+rápido,Quick,311
+cuál,which one,312
+ayuda,help,313
+historia,history,314
+iba,I was going,315
+supongo,I suppose,316
+nueva,new,317
+entiendo,I get it,318
+dentro,inside,319
+casi,almost,320
+puerta,door,321
+ves,you see,322
+pasar,pass,323
+primero,First,324
+significa,it means,325
+semana,week,326
+hacia,toward,327
+quizás,maybe,328
+espero,wait,329
+juntos,together,330
+año,year,331
+niños,children,332
+pronto,early,333
+tío,uncle,334
+suerte,luck,335
+ciudad,town,336
+siquiera,even,337
+feliz,happy,338
+venir,come,339
+hija,daughter,340
+gustaría,would like,341
+minutos,minutes,342
+cuánto,how much,343
+os,you,344
+hey,Hey,345
+muerte,death,346
+dejar,let,347
+realidad,reality,348
+deja,let,349
+problemas,problems,350
+vi,saw,351
+da,gives,352
+importante,important,353
+dijiste,said,354
+corazón,heart,355
+miedo,afraid,356
+jefe,boss,357
+agua,Water,358
+haré,I will do,359
+justo,just,360
+horas,hours,361
+poder,can,362
+buenos,good ones,363
+esposa,wife,364
+manos,hands,365
+debes,you should,366
+viene,comes,367
+venga,come on,368
+nuestros,our,369
+ojos,eyes,370
+adelante,go ahead,371
+encontrar,find,372
+mano,hand,373
+cinco,five,374
+niño,child,375
+ninguna,none,376
+otros,others,377
+cara,expensive,378
+cuidado,watch out,379
+bajo,under,380
+cerca,near,381
+viejo,old,382
+déjame,let me,383
+noches,nights,384
+bastante,Quite,385
+fin,finish,386
+tomar,drink,387
+único,unique,388
+misma,one.,389
+escucha,listen,390
+ningún,No.,391
+suficiente,enough,392
+punto,point,393
+cuándo,when,394
+sigue,follow,395
+haya,is,396
+equipo,equipment,397
+grande,big,398
+necesita,needs to,399
+llegar,reach,400
+incluso,even,401
+algunos,Some,402
+doctor,doctor,403
+difícil,hard,404
+aunque,even though,405
+hubiera,had,406
+primer,first,407
+coche,car,408
+hago,do,409
+clase,class,410
+cuatro,four,411
+mas,more,412
+dices,You say,413
+pequeño,small,414
+llama,call,415
+toma,taking,416
+hiciste,did,417
+allá,there,418
+última,last.,419
+arriba,above,420
+tierra,land,421
+guerra,war,422
+pensar,to think,423
+pueda,can.,424
+igual,same,425
+loco,mad,426
+sangre,blood,427
+mujeres,women,428
+vuelta,lap,429
+fui,I was,430
+trabajar,to work,431
+tenido,Dyed,432
+juego,play,433
+deberías,you should,434
+cuerpo,body,435
+e,and,436
+algunas,some,437
+entrar,get in,438
+cree,CREE.,439
+podía,I could,440
+debemos,must,441
+oportunidad,chance,442
+teléfono,telephone,443
+necesitamos,we need,444
+final,final,445
+listo,clever,446
+fiesta,party,447
+muchos,Many,448
+estabas,You were there,449
+quieren,They want.,450
+vete,go away,451
+auto,car,452
+dar,give,453
+vivir,to live,454
+posible,possible,455
+ok,okay,456
+hermana,sister,457
+número,number,458
+meses,months,459
+exactamente,exactly,460
+culpa,guilt,461
+abajo,down,462
+escuela,school,463
+ido,gone,464
+fuerte,strong,465
+diciendo,saying,466
+habla,talks,467
+esté,East,468
+ello,it,469
+pregunta,question,470
+chicas,girls,471
+eran,they were,472
+unas,nail,473
+pasando,going,474
+atrás,behind,475
+malo,bad,476
+capitán,captain,477
+sra.,Ms.,478
+bebé,baby,479
+segundo,second,480
+sabemos,we know,481
+mayor,higher,482
+comida,food,483
+morir,To die,484
+conozco,know,485
+dame,give to me,486
+fácil,easy,487
+comer,eat,488
+vino,came,489
+lista,ready,490
+haga,make,491
+necesitas,you need,492
+hijos,sons,493
+probablemente,probably,494
+padres,fathers,495
+habitación,bedroom,496
+creer,to believe,497
+pensando,thinking,498
+fueron,They were,499
+dime,tell me,500
+trata,treats,501
+buscando,searching,502
+tuve,I had,503
+tampoco,either,504
+amo,love,505
+joven,young man,506
+podrías,could you,507
+sola,alone,508
+par,pair,509
+única,only,510
+hacen,do,511
+seguir,"follow, continue",512
+dr.,DR,513
+simplemente,simply,514
+dicen,they say,515
+medio,"means, medium",516
+puta,bitch,517
+saben,Saben.,518
+sentido,sense,519
+hagas,you do,520
+segura,safe,521
+esperar,expect,522
+lejos,far,523
+arma,weapon,524
+alto,high,525
+pequeña,little,526
+dólares,Dollars,527
+seis,six,528
+estaban,They were,529
+seguridad,security,530
+maldita,damned,531
+estuvo,he was,532
+preocupes,worry,533
+palabra,word,534
+esperando,waiting,535
+queda,remains,536
+oficina,office,537
+matar,kill,538
+iré,I will go,539
+cama,bed,540
+además,what's more,541
+último,latest,542
+oído,hearing,543
+habría,there would be,544
+estará,will be,545
+dio,it gave,546
+recuerdo,I remember,547
+siendo,being,548
+acerca,about,549
+tenga,have,550
+luz,light,551
+correcto,Right,552
+ud.,You.,553
+demonios,got damn,554
+nuestras,ours,555
+verte,to see you,556
+dormir,to sleep,557
+sitio,site,558
+ayudar,to help,559
+conseguir,get,560
+di,gave,561
+marido,husband,562
+paz,peace,563
+idiota,moron,564
+plan,plan,565
+dado,dice,566
+cuanto,how much,567
+peor,worse,568
+murió,died,569
+pueblo,town,570
+vivo,alive,571
+venido,I come,572
+john,John.,573
+basta,Enough,574
+paso,He passed,575
+deberíamos,we should,576
+música,music,577
+diga,SIGE.,578
+minuto,minute,579
+anoche,last night,580
+llamar,to call,581
+piensa,think,582
+país,country,583
+digas,you say,584
+rey,King,585
+perdón,forgiveness,586
+mucha,a lot,587
+falta,lack,588
+pienso,I think,589
+diablos,Devils,590
+perdido,lost,591
+niña,little girl,592
+señorita,Miss,593
+diez,ten,594
+lleva,carry,595
+hospital,hospital,596
+grandes,big,597
+maldito,damned,598
+otras,Others,599
+llamado,called,600
+hacemos,we make,601
+llevar,carry,602
+fuego,fire,603
+aqui,here,604
+tuvo,had,605
+poner,place,606
+calle,Street,607
+acaba,just,608
+prueba,proof,609
+increíble,amazing,610
+real,real,611
+libro,book,612
+orden,order,613
+semanas,weeks,614
+especial,special,615
+mía,mine,616
+café,coffee,617
+duro,Lasted,618
+empezar,begin,619
+afuera,outside,620
+queremos,we want,621
+perro,dog,622
+cielo,Darling,623
+jack,Jack,624
+puesto,Market Stall,625
+viaje,travel,626
+detrás,behind,627
+cuarto,quarter,628
+querida,Dear,629
+haría,would do,630
+preguntas,questions,631
+piensas,You think,632
+querido,Dear,633
+libre,free,634
+buscar,search for,635
+cual,which,636
+diré,I'll say,637
+suena,dream,638
+jugar,play,639
+cambio,change,640
+película,film,641
+millones,millions,642
+habrá,there will be,643
+llamada,call,644
+resto,rest,645
+vemos,we see,646
+extraño,strange,647
+mala,bad,648
+presidente,President,649
+srta.,Ms.,650
+irme,go,651
+ropa,clothing,652
+perder,to lose,653
+vuelve,returns,654
+agente,agent,655
+palabras,words,656
+información,information,657
+raro,weird,658
+hará,he will do,659
+entiendes,you understand,660
+éste,East,661
+trabajando,working,662
+tratando,trying,663
+general,general,664
+trato,treatment,665
+usar,use,666
+perfecto,perfect,667
+derecho,right,668
+modo,mode,669
+ayer,Yesterday,670
+conoces,you know,671
+demás,the rest,672
+quieras,want.,673
+podríamos,we could,674
+noticias,news,675
+asesino,assassin,676
+encontrado,Found,677
+control,control,678
+odio,hate,679
+frente,forehead,680
+sexo,sex,681
+decirle,tell him.,682
+estaré,I will be,683
+divertido,funny,684
+armas,weapons,685
+recuerdas,remember,686
+amiga,friend,687
+grupo,group,688
+asunto,business,689
+acabo,finished,690
+mensaje,message,691
+encima,above,692
+atención,attention,693
+diferente,different,694
+uh,Uh,695
+cállate,shut,696
+daño,damage,697
+sucede,happens,698
+cambiar,change,699
+siguiente,following,700
+sino,otherwise,701
+the,The.,702
+seas,Seas.,703
+médico,doctor,704
+boca,mouth,705
+dejó,let,706
+error,error,707
+jamás,Never,708
+largo,length,709
+pena,pain,710
+voz,voice,711
+futuro,future,712
+siente,Feel,713
+secreto,secret,714
+baño,bath,715
+mil,one thousand,716
+decirte,tell you,717
+sam,Sam.,718
+pensaba,thought,719
+novia,bride,720
+propia,own,721
+sueño,sleep,722
+haz,make,723
+fuerza,force,724
+deben,they should,725
+supone,Suppose,726
+estábamos,We were,727
+ambos,both of them,728
+ay,Oh,729
+estuve,was,730
+encontré,I found,731
+vuelto,turned,732
+dolor,pain,733
+dile,tell him,734
+encanta,loves,735
+edad,age,736
+darle,give him,737
+pie,foot,738
+negro,black,739
+ganar,to earn,740
+york,york,741
+aire,air,742
+lamento,lament,743
+verlo,see him,744
+asesinato,murder,745
+vio,he saw,746
+adónde,where to,747
+llegado,arrived,748
+disculpe,excuse me,749
+s,S.,750
+cita,appointment,751
+estaría,It would,752
+fuiste,you were,753
+sistema,system,754
+gusto,taste,755
+pobre,poor,756
+negocio,business,757
+mente,mind,758
+tuyo,yours,759
+campo,countryside,760
+mire,Look,761
+situación,situation,762
+tras,after,763
+hotel,hotel,764
+vosotros,you all,765
+funciona,it works,766
+foto,Photo,767
+abogado,attorney,768
+loca,crazy,769
+propio,own self,770
+alrededor,around,771
+próxima,Next,772
+terminado,finished,773
+hablas,speak,774
+pagar,to pay,775
+mató,killed,776
+llamo,I call,777
+personal,personal,778
+sientes,you feel,779
+ocurre,occurred,780
+ésta,is,781
+recuerda,remember,782
+mitad,half,783
+quiera,want,784
+pelo,hair,785
+tenías,You had,786
+viste,dresses,787
+oficial,official,788
+llegó,I arrive,789
+compañía,company,790
+relación,relationship,791
+conoce,known,792
+pase,happens,793
+montón,heap,794
+mejores,top,795
+creí,I believed.,796
+cena,Dinner,797
+sentir,feel,798
+través,through,799
+accidente,accident,800
+i,I.,801
+ellas,they,802
+caja,cash register,803
+tranquilo,quiet,804
+bonito,nice,805
+eras,ages,806
+asi,So,807
+pudo,he could,808
+vive,it lives,809
+vista,view,810
+estúpido,stupid,811
+línea,line,812
+caballeros,gentlemen,813
+haremos,will,814
+dan,Dan.,815
+quédate,stay,816
+tienda,shop,817
+comprar,to buy,818
+entendido,understood,819
+centro,center,820
+salvo,except,821
+mes,month,822
+joe,Joe.,823
+sol,Sun,824
+tonto,fool,825
+hambre,hunger,826
+michael,Michael,827
+mesa,desk,828
+respuesta,answer,829
+completamente,completely,830
+david,David,831
+carta,letter,832
+totalmente,completely,833
+imposible,impossible,834
+pruebas,tests,835
+novio,boyfriend,836
+normal,normal,837
+gustan,like,838
+frank,Frank.,839
+pude,I could,840
+charlie,Charlie.,841
+traje,suit,842
+dirección,address,843
+siete,seven,844
+dijeron,they said,845
+placer,pleasure,846
+sean,Sean.,847
+tendrá,will have,848
+barco,ship,849
+blanco,White,850
+tom,Tom.,851
+profesor,Professor,852
+servicio,service,853
+muchacho,young guy,854
+reunión,meeting,855
+dejado,left,856
+ley,law,857
+quisiera,I would like,858
+hubo,was,859
+george,George.,860
+programa,Program,861
+carrera,career,862
+cumpleaños,birthday,863
+muchachos,Boys,864
+culo,ass,865
+canción,song,866
+hermosa,beautifull,867
+universidad,college,868
+boda,wedding,869
+decirme,tell me,870
+cualquiera,anyone,871
+tengas,You have,872
+hacía,toward,873
+estés,Bene,874
+sala,Hall,875
+llevo,I wear,876
+decisión,decision,877
+espere,Wait,878
+don,Don,879
+necesario,necessary,880
+sal,Salt,881
+entra,enters,882
+prisa,rush,883
+carajo,Carajo.,884
+embargo,embargo,885
+interesante,interesting,886
+tendrás,you will have,887
+escuchar,hear,888
+abuela,Grandma,889
+hicieron,they made,890
+detective,detective,891
+horrible,horrible,892
+suelo,ground,893
+fotos,photos,894
+cárcel,jail,895
+acá,here,896
+io,io.,897
+mike,Mike.,898
+siéntate,Sit down,899
+decía,He said,900
+intentando,trying,901
+vámonos,Let's go,902
+maldición,curse,903
+silencio,be quiet,904
+muerta,dead,905
+capaz,capable,906
+salió,he left,907
+club,club,908
+terminar,end up,909
+temo,fear,910
+broma,joke,911
+gobierno,government,912
+prometo,I promise,913
+cámara,camera,914
+media,half,915
+terrible,terrible,916
+llamó,I call,917
+regalo,present,918
+amable,nice,919
+dulce,sweet,920
+muertos,dead,921
+querías,You wanted,922
+ataque,attack,923
+das,you give,924
+navidad,Christmas,925
+negocios,business,926
+pudiera,I could,927
+ocho,eight,928
+avión,airplane,929
+investigación,research,930
+acabó,just,931
+juro,Juro.,932
+mantener,keep,933
+ejército,army,934
+papel,paper,935
+partes,Parties,936
+ten,Ten.,937
+gracioso,funny,938
+diría,would say,939
+principio,beginning,940
+delante,in front,941
+teniente,lieutenant,942
+deseo,desire,943
+vayas,Vayas.,944
+nave,ship,945
+sale,comes out,946
+basura,trash,947
+vine,came,948
+contacto,Contact,949
+esposo,husband,950
+tren,train,951
+encontramos,we find,952
+dale,Go ahead,953
+verdadero,real,954
+tuya,yours,955
+alma,soul,956
+hazlo,do it,957
+disculpa,sorry,958
+junto,together,959
+anda,Anda,960
+tendré,I will have,961
+matrimonio,marriage,962
+saberlo,Know it,963
+locura,craziness,964
+oro,gold,965
+permiso,permit,966
+director,director,967
+peligro,danger,968
+libertad,Liberty,969
+alegro,glad,970
+baja,short,971
+tendremos,we will have,972
+derecha,right,973
+encuentra,find,974
+pies,feet,975
+segunda,second,976
+maravilloso,marvelous,977
+espacio,space,978
+rato,a while,979
+abuelo,Grandpa,980
+esperaba,I expected,981
+mirando,looking,982
+salud,Health,983
+sorpresa,surprise,984
+ninguno,neither,985
+miren,Look,986
+triste,sad,987
+aun,yet,988
+pensado,thought-out,989
+maestro,teacher,990
+según,according,991
+infierno,hell,992
+podrían,could,993
+tipos,types,994
+tía,aunt,995
+crimen,crime,996
+conocido,known,997
+consejo,tip,998
+ante,in view of,999
+iglesia,church,1000
+intento,tried,1001
+mayoría,most,1002
+doy,give,1003
+peter,Peter,1004
+hicimos,we did,1005
+escena,scene,1006
+piso,flat,1007
+señal,sign,1008
+honor,honor,1009
+llamas,calls,1010
+abre,opens,1011
+cerebro,brain,1012
+veras,you will see,1013
+viendo,watching,1014
+pone,places,1015
+pregunto,I ask,1016
+cocina,kitchen,1017
+vestido,dress,1018
+inteligente,smart,1019
+vieja,old,1020
+caballo,horse,1021
+vienen,they come,1022
+vidas,Lives,1023
+bar,Pub,1024
+corte,court,1025
+sucedió,It happened,1026
+adentro,inside,1027
+drogas,Drugs,1028
+enseguida,right away,1029
+busca,search,1030
+agradable,nice,1031
+carne,meat,1032
+parecía,looked like,1033
+departamento,Department,1034
+lindo,cute,1035
+mar,sea,1036
+duda,doubt,1037
+edificio,edifice,1038
+conocer,know,1039
+cargo,post,1040
+víctima,victim,1041
+luna,Moon,1042
+energía,Energy,1043
+frío,cold,1044
+hablo,talked,1045
+baile,dance,1046
+trabaja,works,1047
+misión,mission,1048
+listos,ready,1049
+ayudarte,help you,1050
+izquierda,left,1051
+paul,Paul,1052
+beber,to drink,1053
+deje,leave,1054
+finalmente,Finally,1055
+simple,simple,1056
+daré,I will give,1057
+sabías,You knew,1058
+puedas,can,1059
+puso,put,1060
+creía,He believed.,1061
+regresar,to return,1062
+llega,arrives,1063
+entender,understand,1064
+sacar,take,1066
+cambiado,changed,1067
+trae,Bring,1068
+hermoso,handsome,1069
+opinión,opinion,1070
+verás,you will see,1071
+linda,pretty,1072
+apenas,barely,1073
+segundos,seconds,1074
+cerveza,beer,1075
+harás,you will do,1076
+estuviera,I was,1077
+creen,Creen.,1078
+oír,hear,1079
+tendría,would have,1080
+cuántos,how many,1081
+hablado,spoken,1082
+hablamos,We speak,1083
+reina,Queen,1084
+temprano,early,1085
+tema,theme,1086
+prisión,prison,1087
+porqué,because,1088
+vuelva,Return,1089
+público,public,1090
+ocurrió,occurred,1091
+veré,I will see,1092
+salvar,save,1093
+partido,match,1094
+bonita,pretty,1095
+joder,fuck,1096
+causa,cause,1097
+caliente,hot,1098
+sargento,sergeant,1099
+cenar,have dinner,1100
+compañero,companion,1101
+llevó,I wear,1102
+banco,Bank,1103
+existe,exists,1104
+ben,Ben.,1105
+zona,zone,1106
+destino,destination,1107
+base,base,1108
+solía,used to,1109
+cliente,client,1110
+irse,leave,1111
+perra,female dog,1112
+james,James,1113
+encuentro,meeting,1114
+encontró,he found,1115
+pelea,Fight,1116
+san,saint,1117
+norte,North,1118
+quise,I wanted,1119
+coronel,colonel,1120
+apuesto,handsome,1121
+peligroso,dangerous,1122
+viva,live,1123
+max,Max.,1124
+vienes,you come,1125
+necesitan,Need,1126
+té,tea,1127
+excepto,except,1128
+juicio,judgment,1129
+podamos,We can,1130
+llave,wrench,1131
+equivocado,wrong,1132
+posición,position,1133
+trasero,rear,1134
+irnos,weaken,1135
+espalda,back,1136
+excelente,Excellent,1137
+éxito,success,1138
+modos,modes,1139
+ventana,window,1140
+veamos,let's see,1141
+especie,species,1142
+teníamos,we had,1143
+diferencia,difference,1144
+formas,shapes,1145
+pedir,ask for,1146
+últimos,last.,1147
+escúchame,listen to me,1148
+ejemplo,example,1149
+ése,that,1150
+radio,radio,1151
+lee,read,1152
+calma,Calm down,1153
+hogar,home,1154
+volveré,I will be back,1155
+fondo,background,1156
+humano,human,1157
+henry,Henry,1158
+tí,you,1159
+iremos,we'll go,1160
+unidos,joined,1161
+habían,They had,1162
+jesús,Jesus,1163
+planeta,planet,1164
+verme,see me,1165
+respecto,respect,1166
+regreso,Return,1167
+debido,due,1168
+seré,I will be,1169
+tenían,They had,1170
+leer,read,1171
+parar,stop,1172
+lleno,full,1173
+dejé,leave,1174
+respeto,I respect,1175
+debajo,below,1176
+harry,Harry.,1177
+escribir,to write,1178
+estación,station,1179
+pidió,requested,1180
+alta,high,1181
+pista,clue,1182
+estrella,star,1183
+enfermo,sick,1184
+duele,it hurt,1185
+sueños,Dreams,1186
+veremos,we will see,1187
+miles,Thousands,1188
+darme,give me,1189
+órdenes,Orders,1190
+ocupado,occupied,1191
+sigues,are you still,1192
+corre,runs,1193
+podido,I have,1194
+dejes,Leaves,1195
+nivel,level,1196
+habéis,You have,1197
+experiencia,experience,1198
+darte,to give you,1199
+salida,Exit,1200
+decirlo,To say it,1201
+confiar,trust,1202
+hacerte,Make yourself,1203
+necesitaba,needed,1204
+hermanos,siblings,1205
+zapatos,shoes,1206
+color,Colour,1207
+vistazo,glance,1208
+nena,Chick,1209
+tratar,treat,1210
+parecer,seem,1211
+juez,judge,1212
+próximo,next,1213
+paciente,patient,1214
+hayas,Hayas,1215
+bolsa,bag,1216
+arte,art,1217
+mary,Mary.,1218
+jugando,Playing,1219
+llevas,Wearing,1220
+alegra,happy,1221
+bailar,dance,1222
+diablo,Devil,1223
+oí,I heard,1224
+sepa,sepa,1225
+estarás,You will be there,1226
+sur,south,1227
+banda,band,1228
+aprender,learn,1229
+precio,price,1230
+completo,full,1231
+santo,holy,1232
+culpable,guilty,1233
+ganas,desire,1234
+tuvimos,We had,1235
+you,You,1236
+verla,see.,1237
+volvió,went back,1238
+libros,books,1239
+ojo,eye,1240
+serán,will be,1241
+cielos,Heavens,1242
+matado,killed,1243
+azul,blue,1244
+diferentes,different,1245
+irte,leave,1246
+ia,ia.,1247
+comandante,commander,1248
+acción,action,1249
+reglas,rules,1250
+obra,construction site,1251
+esperanza,hope,1252
+cuestión,question,1253
+molesta,annoying,1254
+teniendo,having,1255
+bill,Bill.,1256
+informe,report,1257
+jimmy,Jimmy,1258
+río,River,1259
+bienvenido,Welcome,1260
+abrir,to open,1261
+tocar,to touch,1262
+bob,Bob,1263
+contar,tell,1264
+sigo,I follow,1265
+interior,inside,1266
+apartamento,apartment,1267
+vea,see,1268
+estados,state,1269
+estáis,Stays,1270
+preocupa,worries,1271
+tomó,I take,1272
+principal,principal,1273
+empieza,starts,1274
+londres,London,1275
+empezó,it started,1276
+vayan,go,1277
+jim,Jim.,1278
+llaman,call.,1279
+ojalá,if only,1280
+perdona,forgives,1281
+vuelvo,I come back,1282
+golpe,blow,1283
+quedarme,stay,1284
+llamaré,I'll call,1285
+acabado,finish,1286
+estilo,style,1287
+nueve,nine,1288
+definitivamente,definitely,1289
+quedar,stay,1290
+cartas,letters,1291
+bomba,bomb,1292
+guardia,guard,1293
+pistola,gun,1294
+probar,try out,1295
+majestad,majesty,1296
+traer,to bring,1297
+marcha,March,1298
+pareces,you look like,1299
+común,common,1300
+aquel,that,1301
+hacerle,do,1302
+vuelo,flight,1303
+nota,note,1304
+danny,Danny,1305
+humanos,humans,1306
+estaremos,we will be,1307
+valor,value,1308
+suyo,yours,1309
+objetivo,target,1310
+repente,Suddenly,1311
+debía,should,1312
+rojo,Red,1313
+bromeando,joking,1314
+irá,go to,1315
+entrada,entry,1316
+doble,double,1317
+dejaré,I will leave,1318
+evitar,avoid,1319
+máquina,machine,1320
+cuello,neck,1321
+conocí,I met,1322
+tiempos,time,1323
+tome,take,1324
+nick,nick,1325
+animales,animals,1326
+alex,Alex.,1327
+acaso,perhaps,1328
+tuviera,I had,1329
+pareja,couple,1330
+verano,summer,1331
+escuché,listen,1332
+ama,AMA.,1333
+serás,you will,1334
+mentira,lie,1335
+tarjeta,card,1336
+hagan,do,1337
+perdí,I missed,1338
+correr,run,1339
+steve,Steve.,1340
+traído,brought,1341
+llegue,I arrived,1342
+preparado,prepared,1343
+haberlo,To have it,1344
+tony,Tony,1345
+usa,uses,1346
+intentar,try,1347
+ayudarme,help me,1348
+flores,flowers,1349
+dando,giving,1350
+vos,you,1351
+opción,option,1352
+isla,Island,1353
+cierra,closing,1354
+piel,skin,1355
+enemigo,enemy,1356
+dejo,left,1357
+exacto,exactly,1358
+imbécil,fool,1359
+jóvenes,youths,1360
+pedido,order,1361
+larga,long,1362
+entiende,understands,1363
+justicia,Justice,1364
+nuevos,new,1365
+obviamente,obviously,1366
+despierta,awake,1367
+pido,I ask,1368
+calor,heat,1369
+luces,lights,1370
+refiero,Refero.,1371
+fuimos,we went,1372
+batalla,battle,1373
+déjalo,leave it alone,1374
+intenta,try,1375
+sarah,Sarah.,1376
+fantástico,fantastic,1377
+brazo,arm,1378
+absolutamente,absolutely,1379
+llena,full,1380
+hacerme,do,1381
+salga,out,1382
+recordar,remember,1383
+escapar,escape,1384
+bosque,Forest,1385
+gay,gay,1386
+señores,Sirs,1387
+quedan,stay,1388
+piernas,legs,1389
+visita,visit,1390
+parís,Paris,1391
+usando,using,1392
+ganado,livestock,1393
+movimiento,movement,1394
+blanca,White,1395
+rico,rich,1396
+inocente,innocent,1397
+pesar,weigh,1398
+absoluto,absolute,1399
+vacaciones,holidays,1400
+um,Um.,1401
+mismos,same.,1402
+tomado,taken,1403
+habías,You had,1404
+planes,plans,1405
+cine,movies,1406
+toca,touched.,1407
+brillante,shiny,1408
+confianza,trust,1409
+vuestra,your,1410
+nombres,Names,1411
+especialmente,especially,1412
+fbi,FBI.,1413
+embarazada,pregnant,1414
+esperen,Wait,1415
+pantalones,pants,1416
+defensa,defending,1417
+terminó,finished,1418
+salido,stepped out,1419
+estupendo,great,1420
+jane,Jane.,1421
+presión,Pressure,1422
+inmediatamente,immediately,1423
+testigo,witness,1424
+deberían,should,1425
+olvidado,forgotten,1426
+soldados,Soldiers,1427
+resulta,result,1428
+tommy,Tommy,1429
+depende,depends,1430
+motivo,reason,1431
+inglés,English,1432
+suya,hers,1433
+estudio,study,1434
+acabar,finish,1435
+sentimientos,feelings,1436
+tomando,taking,1437
+dieron,Given,1438
+parecen,they look like,1439
+llaves,keys,1440
+perros,dogs,1441
+propósito,purpose,1442
+noticia,News,1443
+partir,leaving,1444
+vuestro,your,1445
+metros,meters,1446
+santa,Santa,1447
+quedarse,to stay,1448
+clientes,customers,1449
+podrá,can.,1450
+cuántas,how many,1451
+ridículo,ridiculous,1452
+damas,ladies,1453
+estuviste,you were,1454
+tranquila,quiet,1455
+operación,operation,1456
+come,eat,1457
+empresa,business,1458
+ayúdame,Help me,1459
+laboratorio,laboratory,1460
+elección,choice,1461
+menudo,often,1462
+beso,kiss,1463
+copa,Cup,1464
+conversación,conversation,1465
+brazos,arms,1466
+espíritu,spirit,1467
+dejas,you let,1468
+cansado,tired,1469
+interesa,interest,1470
+refieres,Refieres,1471
+casado,married,1472
+enorme,enormous,1473
+asuntos,affairs,1474
+fe,faith,1475
+muestra,sample,1476
+trampa,trap,1477
+ray,Ray.,1478
+billy,Billy.,1479
+memoria,memory,1480
+johnny,Johnny.,1481
+contrario,contrary,1482
+soldado,soldier,1483
+subir,rise,1484
+turno,turn,1485
+encantaría,Enchantment,1486
+preocupado,worried,1487
+restaurante,restaurant,1488
+saliendo,coming out,1489
+escrito,written,1490
+cálmate,take it easy,1491
+bienvenida,welcome,1492
+caer,fall,1493
+llevaré,I will take,1494
+leche,milk,1495
+estrellas,Star,1496
+prefiero,I prefer,1497
+red,net,1498
+viejos,old,1499
+solamente,only,1500
+oiga,Listen,1501
+estén,Estase,1502
+cuentas,accounts,1503
+taxi,cab,1504
+anillo,ring,1505
+richard,Richard.,1506
+preguntar,ask,1507
+victoria,victory,1508
+quiénes,Who is it,1509
+héroe,hero,1510
+pequeños,little ones,1511
+decidido,decided,1512
+películas,films,1513
+responsable,responsable,1514
+trago,drink,1515
+volverá,To return to,1516
+árbol,tree,1517
+ibas,IBAS.,1518
+dientes,teeth,1519
+encantado,charmed,1520
+camión,truck,1521
+vender,to sell,1522
+llame,I called,1523
+detente,stop,1524
+luchar,to struggle,1525
+cabo,cape,1526
+ruido,noise,1527
+lucha,struggle,1528
+muere,go dead,1529
+reloj,watch,1530
+gato,cat,1531
+averiguar,find out,1532
+volar,fly,1533
+vayamos,Let's go,1534
+tanta,so much,1535
+vendrá,will come,1536
+corriendo,in a hurry,1537
+yendo,going,1538
+colegio,college,1539
+sonido,sound,1540
+caballero,gentleman,1541
+pasada,pass,1542
+código,code,1543
+hagamos,let's do,1544
+imagen,image,1545
+riesgo,risk,1546
+llegamos,we arrived,1547
+alguno,any,1548
+pan,bread,1549
+millón,million,1550
+malas,bad,1551
+dama,Lady,1552
+hielo,ice,1553
+coño,cone,1554
+cayó,it fell,1555
+prensa,press,1556
+querer,want,1557
+vengan,come,1558
+eddie,Eddie.,1559
+caminar,walk,1560
+televisión,television,1561
+pasará,it will happen,1562
+momentos,moments.,1563
+coger,take,1564
+posibilidad,possibility,1565
+hubiese,Hadie,1566
+mark,Mark,1567
+asiento,seat,1568
+tuviste,You saw,1569
+herido,injured,1570
+maría,Maria,1571
+seguramente,surely,1572
+proyecto,draft,1573
+pared,Wall,1574
+sentí,I felt,1575
+sospechoso,suspicious,1576
+naturaleza,nature,1577
+ésa,this,1578
+silla,chair,1579
+perdió,lost,1580
+robert,Robert.,1581
+policías,police,1582
+arreglar,fix,1583
+sentado,sitting,1584
+papi,Daddy,1585
+ideas,Ideas,1586
+obtener,get,1587
+felices,happily,1588
+señoría,lordship,1589
+cantidad,amount,1590
+bebe,baby,1591
+mírame,Look at me,1592
+chris,Chris.,1593
+papa,dad,1594
+llorar,cry,1595
+quedó,It was left,1596
+familiar,family,1597
+desastre,disaster,1598
+locos,crazy,1599
+escuche,I listened,1600
+quedarte,stay,1601
+política,politics,1602
+pedí,I ordered,1603
+sois,you are,1604
+nosotras,we,1605
+will,WILL.,1606
+enfermedad,disease,1607
+encontraron,They found,1608
+colega,colleague,1609
+príncipe,the prince,1610
+verde,green,1611
+bajar,go down,1612
+nervioso,highly strung,1613
+vengo,I come,1614
+inspector,inspector,1615
+sirve,it serves,1616
+puertas,doors,1617
+fuerzas,forces,1618
+playa,Beach,1619
+cantar,to sing,1620
+déjeme,Leave me.,1621
+velocidad,speed,1622
+total,total,1623
+cabello,hair,1624
+suficientemente,enough,1625
+huellas,footprints,1626
+haberte,Habering you,1627
+debí,owned,1628
+unidad,Unit,1629
+estan,are,1630
+cuchillo,knife,1631
+t,T.,1632
+oigan,Oigan,1633
+quienes,Who,1634
+gana,Win,1635
+tonterías,silly stuff,1636
+emergencia,emergency,1637
+perfecta,perfect,1638
+hable,I talked,1639
+gustaba,I liked,1640
+lugares,places,1641
+ryan,Ryan.,1642
+show,Show,1643
+robo,Stole,1644
+permite,It allows,1645
+parque,Park,1646
+uds.,You.,1647
+roto,broken,1648
+serie,Serie,1649
+puse,puseum,1650
+nuevas,New ones,1651
+evidencia,evidence,1652
+conocerte,meet,1653
+estúpida,stupid,1654
+preocupe,worry,1655
+perdone,Sorry,1656
+botella,bottle,1657
+viento,wind,1658
+mando,command,1659
+extraña,strange,1660
+historias,stories,1661
+aquella,that,1662
+tenéis,you have,1663
+solos,Solos,1664
+apoyo,support,1665
+bala,bullet,1666
+verdadera,true,1667
+tiro,threw,1668
+época,epoch,1669
+puente,bridge,1670
+olvídalo,forget it,1671
+distancia,distance,1672
+desea,desired,1673
+dejarlo,Leave it,1674
+pelear,fight,1675
+pierna,leg,1676
+echar,throw,1677
+descanso,break,1678
+américa,America,1679
+área,area,1680
+orgulloso,proud,1681
+datos,data,1682
+espectáculo,show,1683
+sube,goes up,1684
+dejaste,You left,1685
+acabas,End.,1686
+verá,See.,1687
+magia,Magic,1688
+nacional,national,1689
+universo,universe,1690
+llevaba,Wearing,1691
+necesitar,need,1692
+nariz,nose,1693
+aquellos,those,1694
+clases,lessons,1695
+jake,Jake,1696
+casas,houses,1697
+vergüenza,shame,1698
+estarán,They will be,1699
+monstruo,monster,1700
+princesa,Princess,1701
+autobús,bus,1702
+cuidar,look after,1703
+ei,Ei,1704
+huevos,eggs,1705
+pocos,few,1706
+podrás,you can,1707
+enferma,ill,1708
+paseo,ride,1709
+detalles,details,1710
+llamadas,calls,1711
+belleza,beauty,1712
+francia,France,1713
+abierto,opened,1714
+viviendo,living,1715
+envió,Shipping,1716
+puntos,points,1717
+ministro,Minister,1718
+conducir,drive,1719
+aceptar,agree,1720
+borracho,drunk,1721
+animal,animal,1722
+caballos,horses,1723
+trajo,brought,1724
+contrato,contract,1725
+viernes,Friday,1726
+bobby,Bobby.,1727
+martin,Martin,1728
+amy,Amy.,1729
+bienvenidos,Welcome,1730
+ex,former,1731
+hechos,acts,1732
+sociedad,society,1733
+dra.,Dr.,1734
+tengan,Have,1735
+quede,remains,1736
+inglaterra,England,1737
+carga,load,1738
+diste,you gave,1739
+puto,fucking,1740
+lleve,I carried,1741
+presente,Present,1742
+conocía,I knew,1743
+uso,use,1744
+dedos,fingers,1745
+oferta,offer,1746
+sentía,I felt,1747
+proteger,to protect,1748
+daniel,Daniel.,1749
+date,Date,1750
+hiciera,do,1751
+hablé,I talked,1752
+recibir,to receive,1753
+agradezco,I appreciate,1754
+robar,Steal,1755
+enamorado,loved,1756
+sepas,Separa.,1757
+oeste,West,1758
+herida,wound,1759
+despacio,slowly,1760
+ayude,help,1761
+supe,SUPE.,1762
+directamente,directly,1763
+inmediato,righ now,1764
+profesional,professional,1765
+oscuro,Dark,1766
+mercado,market,1767
+cerdo,pig,1768
+tardes,afternoons,1769
+líder,Leader,1770
+grave,serious,1771
+llegué,I arrived,1772
+jurado,jury,1773
+casos,Cases,1774
+acuerdas,Remember,1775
+ahi,there,1776
+desaparecido,missing,1777
+debió,he owned,1778
+hubieras,You would have,1779
+últimamente,lately,1780
+piedra,stone,1781
+éramos,We were,1782
+habló,speak,1783
+charles,Charles.,1784
+paga,pay,1785
+secretos,secrets,1786
+digamos,Let's say,1787
+intención,intention,1788
+humor,humor,1789
+dura,hard,1790
+dará,give to,1791
+seguros,Insurance,1792
+leo,Leo.,1793
+adam,Adam.,1794
+and,and.,1795
+ángeles,Angels,1796
+querría,I would want,1797
+cerrar,close,1798
+conseguido,achievement,1799
+peso,weight,1800
+víctimas,victims.,1801
+asesinado,murdered,1802
+humana,Humana,1803
+directo,direct,1804
+central,central,1805
+termina,ends,1806
+compañeros,companions,1807
+escuchado,listened,1808
+contento,happy,1809
+llevan,They carry,1810
+podré,I will be able,1811
+oscuridad,darkness,1812
+actuar,Act,1813
+siga,follow-up,1814
+llevado,led,1815
+comenzó,started,1816
+regresa,came back,1817
+privado,private,1818
+mirada,look,1819
+demonio,Devil,1820
+abierta,open,1821
+kevin,Kevin,1822
+m,M.,1823
+llámame,call me,1824
+siguen,Follow,1825
+romper,to break,1826
+cambia,change,1827
+fiscal,fiscal,1828
+jardín,garden,1829
+natural,natural,1830
+gratis,free,1831
+cuesta,cost,1832
+amenaza,threat,1833
+pon,put,1834
+marca,brand,1835
+comenzar,begin,1836
+ponte,put,1837
+medicina,medicine,1838
+podremos,we will can,1839
+tomé,take,1840
+preciosa,lovely,1841
+sexual,sexual,1842
+acceso,access,1843
+necesidad,need,1844
+dueño,owner,1845
+merece,Deserve,1846
+rayos,Ray,1847
+d,D.,1848
+mintiendo,lying,1849
+tantas,many,1850
+imagino,I imagine,1851
+fantasma,ghost,1852
+creerlo,Believe it,1853
+llamé,I called,1854
+ponga,Put.,1855
+brian,Brian.,1856
+dé,from,1857
+pollo,chicken,1858
+varios,various,1859
+efecto,effect,1860
+felicidad,happiness,1861
+espada,sword,1862
+relaciones,relations,1863
+entró,I enter,1864
+resultado,result,1865
+sombrero,hat,1866
+menor,less,1867
+recibido,received,1868
+negra,black,1869
+to,to.,1870
+habido,Having,1871
+limpio,cleansed,1872
+china,China,1873
+juegos,games,1874
+correo,mail,1875
+confía,Reliable,1876
+video,video,1877
+perfectamente,perfectly,1878
+harán,They will do,1879
+teatro,theater,1880
+dormido,asleep,1881
+local,local,1882
+quedado,left,1883
+lástima,pity,1884
+calles,Streets,1885
+créeme,trust me,1886
+responsabilidad,responsibility,1887
+búsqueda,search,1888
+dedo,finger,1889
+tonta,dumb,1890
+recuerdos,memories,1891
+razones,reasons,1892
+escuchando,listening,1893
+eric,Eric.,1894
+elegir,to choose,1895
+amas,amas.,1896
+huele,smells,1897
+almuerzo,lunch,1898
+cien,hundred,1899
+adn,DNA,1900
+tantos,ways,1901
+pago,payment,1902
+normalmente,usually,1903
+mr,Mr.,1904
+pastel,pie,1905
+bastardo,bastard,1906
+cinta,headband,1907
+pasé,happens,1908
+dígame,tell me,1909
+anna,Anna.,1910
+costa,coast,1911
+levántate,Get up,1912
+llamando,calling,1913
+cerrado,closed,1914
+interés,interest,1915
+enfermera,nurse,1916
+comienzo,Start,1917
+olvidé,forgot,1918
+fuese,Fue,1919
+militar,military,1920
+polvo,dust,1921
+bella,pretty,1922
+quedo,I remain,1923
+kate,Kate.,1924
+encontraste,by contrast,1925
+voluntad,Will,1926
+varias,several,1927
+teoría,theory,1928
+roja,Redo.,1929
+cuento,tale,1930
+escenario,stage,1931
+diario,daily,1932
+propiedad,property,1933
+agujero,hole,1934
+aspecto,appearance,1935
+campamento,camp,1936
+descansar,to rest,1937
+matarme,Match,1938
+metido,tuckedo.,1939
+quiso,quoe.,1940
+ángel,Angel,1941
+enviar,Send,1942
+impresionante,Awesome,1943
+proceso,process,1944
+intentado,tried.,1945
+mio,Own,1946
+fuente,source,1947
+alcalde,Mayor,1948
+ocurrido,occurred,1949
+malos,badly,1950
+carretera,highway,1951
+desapareció,He disappeared,1952
+desayuno,breakfast,1953
+débil,weak,1954
+roma,Rome,1955
+sabido,well-known,1956
+comienza,starts,1957
+tambien,also,1958
+intentarlo,Try at it,1959
+miembro,member,1960
+perdiendo,losing,1961
+hayan,Hayan,1962
+fueras,Four.,1963
+resultados,results,1964
+jerry,Jerry.,1965
+mata,Bush,1966
+sr,Mr,1967
+valiente,brave,1968
+deber,have to,1969
+pecho,chest,1970
+gustó,taste,1971
+oyes,hear,1972
+thomas,Thomas.,1973
+periódico,Newspaper,1974
+mami,Mommy,1975
+piensan,Think,1976
+washington,Washington,1977
+tv,TV,1978
+cansada,tired,1979
+limpiar,clean up,1980
+crear,create,1981
+explicar,explain,1982
+robado,Stolen,1983
+resolver,sort out,1984
+maté,mate,1985
+guapo,Handsome,1986
+continuar,continue,1987
+sheriff,Sheriff,1988
+funcionar,function,1989
+extra,extra,1990
+primo,cousin,1991
+manejar,handle,1992
+primeros,First,1993
+acto,act,1994
+poniendo,putting up,1995
+números,numbers,1996
+kilómetros,kilometres,1997
+andy,Andy.,1998
+llevará,carry,1999
+rachel,Rachel.,2000
+niñas,Girls,2001
+premio,prize,2002
+internet,Internet,2003
+harías,Would you do?,2004
+inútil,Useless,2005
+domingo,Sunday,2006
+tomas,Tomas.,2007
+sensación,sensation,2008
+alcohol,alcohol,2009
+tercera,third,2010
+agentes,agents,2011
+disculpas,apologies,2012
+antiguo,ancient,2013
+guapa,beautiful,2014
+asustado,afraid,2015
+puedan,can,2016
+sexy,sexy,2017
+genio,genius,2018
+recuperar,get it back,2019
+creemos,We believe,2020
+lengua,tongue,2021
+ladrón,thief,2022
+intenté,I tried,2023
+examen,exam,2024
+deprisa,depreciation,2025
+montaña,Mountain,2026
+durmiendo,sleeping,2027
+disparar,shoot,2028
+entrenador,coach,2029
+queso,cheese,2030
+entero,whole,2031
+papeles,papers,2032
+pones,Pones,2033
+modelo,model,2034
+fútbol,soccer,2035
+detener,stop,2036
+lados,sides,2037
+miembros,members,2038
+sábado,Saturday,2039
+pongo,I put,2040
+mataron,killed,2041
+vuelvas,Vuelve,2042
+talento,talent,2043
+descubrir,to find out,2044
+gordo,fat,2045
+tribunal,court,2046
+toque,I touched,2047
+wow,Wow.,2048
+hables,talks about,2049
+conocemos,We know,2050
+haberme,have,2051
+dispuesto,ready,2052
+tamaño,size,2053
+dejen,Leave,2054
+maravillosa,wonderful,2055
+invitado,invited,2056
+importantes,important,2057
+derechos,Rights,2058
+scott,Scott.,2059
+declaración,statement,2060
+claramente,clearly,2061
+pacientes,patients,2062
+pérdida,lost,2063
+in,IN.,2064
+iban,were going,2065
+pudiste,You could,2066
+profundo,deep,2067
+gas,gas,2068
+aeropuerto,airport,2069
+consigue,get,2070
+olvidar,to forget,2071
+gloria,glory,2072
+olvides,forget about,2073
+volviendo,getting back,2074
+coge,coge.,2075
+fué,was,2076
+llamaba,He called,2077
+pete,Pete.,2078
+tendrán,They will have,2079
+instituto,Institute,2080
+disparo,Shooting,2081
+encuentras,You find,2082
+querían,They wanted,2083
+hablemos,let's talk,2084
+dia,day,2085
+enviado,sent,2086
+pertenece,belong,2087
+sienta,Sit.,2088
+pensó,thought,2089
+cadáver,corpse,2090
+gracia,funny,2091
+doctora,doctor,2092
+escuchen,listen,2093
+amante,lover,2094
+temporada,season,2095
+kim,Kim,2096
+cuerpos,bodies,2097
+amigas,friends,2098
+larry,Larry.,2099
+preguntaba,I asked,2100
+francés,French,2101
+mataste,Mataste,2102
+techo,ceiling,2103
+íbamos,we were going,2104
+protección,protection,2105
+médicos,doctors.,2106
+lisa,Lisa.,2107
+venganza,revenge,2108
+pensamos,We think,2109
+walter,Walter.,2110
+contó,counted,2111
+discutir,argue,2112
+comprendo,understand,2113
+idiotas,idiots,2114
+enemigos,enemies,2115
+camisa,shirt,2116
+superior,higher,2117
+criminal,criminal,2118
+preocupada,worriedly,2119
+bote,boat,2120
+escribió,wrote,2121
+llevamos,we carry,2122
+testigos,witnesses,2123
+recoger,pick up,2124
+emily,Emily.,2125
+truco,trick,2126
+jason,Jason,2127
+original,original,2128
+pide,requests,2129
+jeff,Jeff,2130
+rosa,pink,2131
+mama,mom,2132
+negros,blacks.,2133
+sobrevivir,survive,2134
+rostro,face,2135
+crédito,credit,2136
+compartir,to share,2137
+saca,pulls out,2138
+irás,you will go,2139
+pequeñas,little,2140
+veía,I saw,2141
+empezando,starting,2142
+registro,record,2143
+continúa,keep going,2144
+grandioso,great,2145
+viniste,did you come,2146
+esquina,corner,2147
+contado,counted,2148
+tengamos,let's have,2149
+cientos,hundreds,2150
+tormenta,storm,2151
+relájate,just relax,2152
+siéntese,sit down,2153
+chocolate,chocolate,2154
+matt,Matt.,2155
+pedazo,piece,2156
+tomo,I take,2157
+olor,odor,2158
+ciencia,science,2159
+kelly,Kelly.,2160
+conexión,Connection,2161
+vieron,They saw,2162
+salón,living room,2163
+sucio,dirty,2164
+firma,firm,2165
+vimos,we saw,2166
+pidiendo,asking,2167
+casarse,get marry,2168
+bebida,drink,2169
+tercer,third,2170
+propios,Own,2171
+fuertes,powerful,2172
+lluvia,rain,2173
+recién,newly,2174
+tomaré,I will take,2175
+complicado,complicated,2176
+europa,Europe,2177
+toques,touches.,2178
+cámaras,Cameras,2179
+visión,vision,2180
+llego,arrive,2181
+americano,American,2182
+diversión,fun,2183
+pareció,it seemed,2184
+libras,pounds,2185
+curso,course,2186
+disco,disk,2187
+probable,probable,2188
+precioso,beautiful,2189
+tenia,I had,2190
+lago,lake,2191
+leído,read,2192
+consiguió,got,2193
+parecido,similar,2194
+material,material,2195
+discurso,speech,2196
+entera,entire,2197
+it,Item,2198
+corta,short,2199
+completa,complete,2200
+decirles,Tell them,2201
+lunes,Monday,2202
+efectivo,cash,2203
+cura,cure,2204
+antigua,ancient,2205
+hablan,They speak,2206
+juntas,Together,2207
+william,William,2208
+cáncer,Cancer,2209
+funeral,funeral,2210
+jodido,fucking,2211
+dave,Dave,2212
+artista,artist,2213
+favorito,favorite,2214
+guste,Like,2215
+cae,falls off,2216
+termine,I finished,2217
+entrevista,interview,2218
+sir,sir,2219
+pintura,painting,2220
+quieto,still,2221
+falso,fake,2222
+india,India,2223
+corto,short,2224
+inteligencia,intelligence,2225
+destruir,destroy,2226
+cargos,Charges,2227
+podías,You could,2228
+mentiras,lies,2229
+señoras,ladies,2230
+helado,ice cream,2231
+felicidades,congratulations,2232
+camioneta,Van,2233
+mueve,Move,2234
+aparte,Besides,2235
+rock,rock,2236
+tumba,grave,2237
+seguimos,We continue,2238
+hablaba,she spoke,2239
+verle,to see,2240
+mapa,Map,2241
+tarea,homework,2242
+cambió,change,2243
+móvil,mobile,2244
+equivocada,wrong,2245
+responder,reply,2246
+vacío,empty,2247
+felicitaciones,Congratulations,2248
+computadora,computer,2249
+estudiante,student,2250
+muriendo,dying,2251
+construir,build up,2252
+conocen,Know,2253
+clara,clear,2254
+solución,solution,2255
+mundial,world,2256
+plato,dish,2257
+famoso,famous,2258
+des,Des.,2259
+dirá,will tell,2260
+ambas,both,2261
+tecnología,technology,2262
+notas,grades,2263
+malditos,damn,2264
+cabrón,dumbass,2265
+condiciones,terms,2266
+dudo,I doubt,2267
+robó,theft,2268
+escucho,I'm listening,2269
+laura,Laura,2270
+rápidamente,quickly,2271
+bordo,board,2272
+nieve,snow,2273
+mensajes,posts,2274
+fecha,date,2275
+violencia,violence,2276
+n,N.,2277
+sujeto,subject,2278
+acciones,Actions,2279
+fría,cold,2280
+droga,drug,2281
+saldrá,will come out,2282
+suponía,Supposed,2283
+empezamos,We started,2284
+errores,mistakes,2285
+grace,Grace.,2286
+siglo,century,2287
+molesto,upset,2288
+acabamos,we finish,2289
+sabéis,You know,2290
+cortar,cut,2291
+seria,would be,2292
+muevas,Move,2293
+fortuna,fortune,2294
+of,of,2295
+imaginar,To imagine,2296
+archivos,records,2297
+presencia,presence,2298
+familias,Families,2299
+ey,Ey,2300
+quedas,stays,2301
+solas,Solo.,2302
+oficiales,officers,2303
+aventura,adventure,2304
+gira,tour,2305
+social,Social,2306
+comunidad,community,2307
+annie,Annie.,2308
+alan,Alan,2309
+cero,zero,2310
+clark,Clark,2311
+esperamos,we wait,2312
+ocupada,busy,2313
+muévete,move on,2314
+convertido,converted,2315
+carl,Carl.,2316
+pieza,part,2317
+estómago,stomach,2318
+disparó,Shooting,2319
+legal,legal,2320
+conseguí,I got,2321
+emma,Emma,2322
+carter,sump,2323
+california,California,2324
+rara,strange,2325
+estudiantes,students,2326
+reino,kingdom,2327
+alegría,joy,2328
+barrio,neighborhood,2329
+granja,farm,2330
+podéis,you can,2331
+esfuerzo,effort,2332
+trabajaba,I worked,2333
+claire,Claire.,2334
+perdóname,excuse me,2335
+tesoro,treasure,2336
+empleo,job,2337
+compré,I bought,2338
+cirugía,surgery,2339
+dejamos,We leave,2340
+busco,look for,2341
+trabajas,you work,2342
+clave,key,2343
+aparentemente,apparently,2344
+bravo,Bravo,2345
+ed,ED.,2346
+desearía,I would like,2347
+cerrada,closed,2348
+new,New.,2349
+chicago,Chicago.,2350
+controlar,control,2351
+pregunté,I asked for,2352
+mostrar,show,2353
+piloto,pilot,2354
+pocas,a few,2355
+tuvieron,They had,2356
+ayudarle,Help him.,2357
+bolso,bag,2358
+llorando,in tears,2359
+kyle,Kyle,2360
+duerme,sleep,2361
+dejarme,leave me,2362
+intentó,try,2363
+respirar,breathe,2364
+aparece,appear,2365
+campaña,Bell,2366
+amistad,friendship,2367
+corriente,stream,2368
+viven,they live,2369
+huesos,bones,2370
+invitados,Guests,2371
+planta,plant,2372
+ritmo,rhythm,2373
+respuestas,answers,2374
+socio,partner,2375
+esperas,Expends,2376
+caído,fallen,2377
+motor,motor,2378
+mono,bun,2379
+llevaron,They took,2380
+página,page,2381
+poquito,a little,2382
+u,or,2383
+habíamos,We had,2384
+encontraremos,We will find,2385
+ruego,I beg,2386
+dejan,leave,2387
+aburrido,bored,2388
+paquete,package,2389
+casada,married,2390
+llevarte,take away,2391
+ted,Ted.,2392
+combate,combat,2393
+útil,Useful,2394
+castillo,Castle,2395
+bola,ball,2396
+canciones,songs,2397
+mataré,Mataré.,2398
+muchísimo,very much,2399
+asistente,assistant,2400
+llegaron,They arrived,2401
+correcta,Right,2402
+pondré,I will put,2403
+simon,Simon,2404
+comido,Eaten,2405
+salgan,leave,2406
+empecé,I started,2407
+tirar,throw,2408
+pasan,pass,2409
+cierta,certain,2410
+honesto,honest,2411
+carro,car,2412
+limpia,clean,2413
+volví,I returned,2414
+confío,trust,2415
+venta,sale,2416
+huir,flee,2417
+apareció,showed up,2418
+vais,vais,2419
+compromiso,commitment,2420
+gustas,Likes.,2421
+aseguro,I assure you.,2422
+ira,go to,2423
+promesa,promise,2424
+decírselo,Tell him,2425
+cuáles,which,2426
+compras,shopping,2427
+importancia,importance,2428
+lección,lesson,2429
+hablaré,I'll talk,2430
+hacerse,to be made,2431
+personalmente,personally,2432
+roger,Roger,2433
+luke,Luke,2434
+bolsillo,pocket,2435
+enojado,angry,2436
+desgracia,misfortune,2437
+artículo,Article,2438
+labios,lips,2439
+cola,line,2440
+estemos,These,2441
+whisky,whiskey,2442
+taza,Bowl,2443
+despues,then,2444
+gary,Gary,2445
+preguntarte,ask you,2446
+pelota,ball,2447
+caminando,walking,2448
+andar,walk,2449
+crea,creates,2450
+chaqueta,jacket,2451
+importaría,mind to,2452
+den,Den.,2453
+llegará,reach,2454
+interesado,interested,2455
+atrapado,caught,2456
+supiera,Supierate,2457
+matarlo,kill him.,2458
+árboles,trees,2459
+obvio,obvious,2460
+amaba,Amaba,2461
+hablaremos,we will talk,2462
+entrenamiento,training,2463
+pescado,fish,2464
+últimas,latter,2465
+pobres,poor,2466
+dioses,gods,2467
+nerviosa,nervous,2468
+vueltas,Returns,2469
+encontrarlo,find him,2470
+autos,cars,2471
+alice,Alice.,2472
+preguntarle,ask him,2473
+lucy,Lucy.,2474
+abrigo,coat,2475
+okay,OK,2476
+estudiar,study,2477
+b,B.,2478
+sonrisa,smile,2479
+cobarde,Coward,2480
+olvida,forget about,2481
+secundaria,secondary,2482
+descubierto,discovered,2483
+convirtió,He became,2484
+coches,cars.,2485
+venía,came,2486
+josh,Josh,2487
+charla,chat,2488
+vives,do you live,2489
+bruja,witch,2490
+c,C.,2491
+celular,cell phone,2492
+rose,Rose.,2493
+rompió,broke,2494
+andando,walking,2495
+vean,See.,2496
+conseguiste,obtained.,2497
+susan,Susan,2498
+veinte,twenty,2499
+encargo,charge,2500
+matarte,Match,2501
+palacio,palace,2502
+convierte,Convert,2503
+ja,JA.,2504
+vivos,Live,2505
+pasamos,we passed,2506
+firme,firm,2507
+daría,would give,2508
+piense,Think,2509
+oigo,I heard,2510
+phil,Phil.,2511
+sorprende,surprise,2512
+alemanes,Germans,2513
+milagro,miracle,2514
+soportar,bear,2515
+dejaron,They left,2516
+smith,Smith,2517
+disculpen,excuse me,2518
+moda,fashion,2519
+despacho,office,2520
+vecinos,neighbors,2521
+vaso,glass,2522
+dejarte,Leave yourself,2523
+explosión,explosion,2524
+poderes,Powers,2525
+regla,ruler,2526
+acaban,they finished,2527
+copia,copy,2528
+siguiendo,Following,2529
+viajar,travel,2530
+cadena,chain,2531
+fábrica,factory,2532
+mantiene,maintains,2533
+meter,to put,2534
+contenta,Contenta.,2535
+comiendo,eating,2536
+educación,education,2537
+maneras,ways,2538
+fumar,to smoke,2539
+encantador,charming,2540
+cuantos,many,2541
+homicidio,homicide,2542
+madera,wood,2543
+mayores,greater,2544
+grado,degree,2545
+tratamiento,treatment,2546
+blancos,White,2547
+lord,lord,2548
+anterior,previous,2549
+comisario,commissar,2550
+pizza,Pizza,2551
+millas,miles,2552
+tira,strip,2553
+fueran,Fueran,2554
+cumplir,comply,2555
+plata,silver,2556
+quedará,will remain,2557
+quedaré,I will stay,2558
+aléjate,get away,2559
+decidir,to decide,2560
+lío,mess,2561
+preguntó,I ask,2562
+agencia,agency,2563
+humanidad,humanity,2564
+usado,used,2565
+guardias,Guardians,2566
+parada,stop,2567
+leyes,Laws,2568
+funcionó,it worked,2569
+odia,hate,2570
+levanta,Raise,2571
+mires,Looks,2572
+respira,breathe,2573
+escaleras,ladders,2574
+decisiones,decisions,2575
+queréis,You want,2576
+salvaje,wild,2577
+preguntando,asking,2578
+pasos,Steps,2579
+ambulancia,ambulance,2580
+traducción,translation,2581
+trabajado,worked up,2582
+básicamente,basically,2583
+tratado,treaty,2584
+parado,stopped,2585
+especiales,Specials,2586
+mentiroso,liar,2587
+libres,Free,2588
+servicios,services,2589
+pedirle,Ask for him,2590
+vivía,she lived,2591
+medios,media,2592
+compra,buys,2593
+conocimiento,knowledge,2594
+armario,closet,2595
+lobo,Wolf,2596
+quedamos,We are left,2597
+ciertamente,certainly,2598
+permitir,allow,2599
+tráfico,traffic,2600
+uniforme,uniform,2601
+estuvimos,We were there,2602
+alemania,Germany,2603
+suave,gentle,2604
+propias,own,2605
+balas,bullets,2606
+asqueroso,disgusting,2607
+ciento,hundred,2608
+invierno,winter,2609
+consigo,with him,2610
+encuentre,Find,2611
+jenny,Jenny.,2612
+conductor,driver,2613
+equipos,equipment,2614
+arena,sand,2615
+park,Park,2616
+licencia,license,2617
+tíos,uncles,2618
+jackson,Jackson.,2619
+dijera,I said,2620
+espejo,mirror,2621
+marina,Marine,2622
+matando,killing,2623
+seres,Beings,2624
+fiestas,parties,2625
+mover,move,2626
+coincidencia,coincidence,2627
+análisis,analysis,2628
+llegando,arriving,2629
+azúcar,sugar,2630
+tim,Tim.,2631
+casar,marry,2632
+sótano,basement,2633
+volvamos,let's go back,2634
+sabrá,will know,2635
+taylor,Taylor,2636
+ocasión,chance,2637
+cheque,check,2638
+revisar,check,2639
+ponerme,put myself,2640
+suceder,happen,2641
+acusado,accused,2642
+dímelo,tell me,2643
+quedé,I was left,2644
+conciencia,conscience,2645
+doc,Doc,2646
+pesadilla,nightmare,2647
+sopa,Soup,2648
+saltar,skip,2649
+heridas,wounded,2650
+pienses,Think about,2651
+suicidio,suicide,2652
+llamarme,call me,2653
+posibilidades,possibilities,2654
+elegido,chosen one,2655
+divorcio,divorce,2656
+registros,records,2657
+recibí,I received,2658
+joey,Joey,2659
+escuchas,Listen,2660
+mirad,Behold,2661
+pierde,misses,2662
+abogados,Lawyers,2663
+trataba,I was trying,2664
+americanos,American people,2665
+llevando,wearing,2666
+miel,honey,2667
+regrese,I am back,2668
+dilo,say it,2669
+hermanas,Sisters,2670
+alemán,German,2671
+iría,would go,2672
+lady,Lady.,2673
+salí,I left,2674
+particular,particular,2675
+miras,Look at ...,2676
+frontera,border,2677
+ventaja,advantage,2678
+alerta,alert,2679
+piscina,swimming pool,2680
+regalos,gifts,2681
+comportamiento,behavior,2682
+julia,Julia,2683
+señales,signs,2684
+salimos,we went out,2685
+revista,magazine,2686
+hecha,Miscellaneous,2687
+imágenes,images,2688
+llegas,you arrive,2689
+rápida,fast,2690
+canal,channel,2691
+paciencia,patience,2692
+sacado,taken out,2693
+echo,threw out,2694
+crisis,crisis,2695
+asesinos,Assassins,2696
+oíste,did you hear,2697
+dejando,leaving,2698
+estarías,You would be,2699
+anteriormente,previously,2700
+vigilancia,surveillance,2701
+desierto,desert,2702
+asustada,scared,2703
+cuerda,string,2704
+míos,mine,2705
+chuck,Chuck.,2706
+seguido,Following,2707
+seremos,We will be left,2708
+morgan,Morgan.,2709
+pene,penis,2710
+despierto,awake,2711
+gobernador,governor,2712
+sección,section,2713
+casarme,marry,2714
+trabajos,jobs,2715
+karen,Karen,2716
+preparados,prepared.,2717
+murieron,They died,2718
+oso,bear,2719
+curiosidad,curiosity,2720
+vd.,you.,2721
+hank,Hank.,2722
+impresión,Print,2723
+pez,fish,2724
+pasaba,I passed,2725
+escuchaste,you listened,2726
+torre,tower,2727
+sientas,feels,2728
+mentir,to lie,2729
+pasillo,aisle,2730
+juega,play,2731
+suéltame,Let go,2732
+arresto,arrest,2733
+ricos,rich,2734
+sencillo,easy,2735
+ruta,route,2736
+documentos,Documents,2737
+enamorada,in love,2738
+apuesta,bet,2739
+perdida,lost,2740
+vinieron,came,2741
+ayudarnos,help us,2742
+presento,presented,2743
+hazme,doze,2744
+leí,I read,2745
+arthur,Arthur.,2746
+virus,virus,2747
+lárgate,Look at ...,2748
+sigan,follow-up,2749
+compró,I buy,2750
+servir,to serve,2751
+pongas,put.,2752
+alarma,alarm,2753
+identidad,identity,2754
+iguales,equal,2755
+aviso,warning,2756
+aprendido,learned,2757
+caza,hunting,2758
+daba,Daba,2759
+muchacha,girl,2760
+permanecer,stay,2761
+bebés,babies,2762
+opciones,options,2763
+responde,answer back,2764
+vernos,see us,2765
+julie,Julie.,2766
+llamaste,called,2767
+ponerse,to put on,2768
+sacó,coat,2769
+orgullo,pride,2770
+reales,reais.,2771
+esperan,are waiting,2772
+vuelves,Vuelves,2773
+maggie,Maggie.,2774
+serlo,serlo,2775
+cuantas,how many,2776
+enfadado,angry,2777
+ponen,Put,2778
+altura,height,2779
+jones,Jones,2780
+archivo,archive,2781
+fred,Fred.,2782
+ayudará,help to,2783
+fácilmente,easily,2784
+criatura,creature,2785
+saco,coat,2786
+precisamente,precisely,2787
+máximo,maximum,2788
+viniendo,coming,2789
+vendría,I would come,2790
+louis,Louis.,2791
+ilegal,illegal,2792
+refiere,refers,2793
+llamamos,We call,2794
+versión,version,2795
+incendio,fire,2796
+preferiría,I'd prefer,2797
+gritar,shout out,2798
+recibió,He received,2799
+concierto,concert,2800
+casualidad,chance,2801
+excusa,excuse,2802
+rodillas,knees,2803
+cruz,cross,2804
+dulces,sweets,2805
+zorra,fox,2806
+cómodo,comfortable,2807
+cruel,cruel,2808
+sofá,sofa,2809
+perdiste,you lost,2810
+encantadora,lovely,2811
+salgamos,let's go out,2812
+sombra,shade,2813
+ganó,won,2814
+encantada,nice to meet you,2815
+firmar,sign,2816
+escritorio,desk,2817
+muñeca,wrist,2818
+rastro,trail,2819
+gigante,giant,2820
+pájaro,bird,2821
+ducha,shower,2822
+tomamos,we take,2823
+déjenme,leave me,2824
+condición,condition,2825
+recompensa,reward,2826
+doce,twelve,2827
+actor,actor,2828
+actitud,attitude,2829
+cuida,takes care,2830
+salsa,sauce,2831
+hubieran,They would have,2832
+carlos,Charles,2833
+personaje,character,2834
+dudas,Doubts,2835
+jackie,Jackie.,2836
+cambios,changes,2837
+votos,votes,2838
+vivido,vivid,2839
+perdimos,We lost,2840
+suficientes,sufficient,2841
+entrega,delivery,2842
+comercial,commercial,2843
+decidí,I decided,2844
+tribu,tribe,2845
+pura,pure,2846
+volveremos,we will be back,2847
+voto,vote,2848
+méxico,Mexico,2849
+amar,to love,2850
+poderoso,powerful,2851
+traigo,traigo.,2852
+asesinatos,murders,2853
+fresco,cool,2854
+privada,private,2855
+seamos,Seamo,2856
+guarda,guard,2857
+orgullosa,proud,2858
+vivimos,We live,2859
+difíciles,difficulty,2860
+hagámoslo,Let's do it,2861
+jefa,boss,2862
+trató,treatment,2863
+senador,senator,2864
+ayudando,Helping,2865
+campeón,champion,2866
+bebiendo,Drinking,2867
+adorable,lovely,2868
+ayudó,helped,2869
+ciego,blind,2870
+falsa,false,2871
+jo,jo.,2872
+sara,Sara.,2873
+bestia,beast,2874
+alteza,high King,2875
+deseos,wishes,2876
+episodio,episode,2877
+celda,cell,2878
+llevarlo,carry it,2879
+aguanta,hold,2880
+vengas,come,2881
+jueves,Thursday,2882
+montañas,moutains,2883
+pensamientos,thoughts,2884
+medianoche,midnight,2885
+llevarme,take care of,2886
+garganta,throat,2887
+sesión,session,2888
+pensaste,Thought,2889
+diles,Dilles.,2890
+muera,Die,2891
+coma,eat,2892
+sentimos,Sorry,2893
+creas,Creas.,2894
+escribe,writes,2895
+identificación,ID,2896
+circunstancias,circumstances,2897
+preguntado,Asked,2898
+veneno,poison,2899
+primavera,spring,2900
+súper,Super,2901
+vuestros,your,2902
+queríamos,We wanted,2903
+aquello,that,2904
+preocuparse,to worry,2905
+martes,Tuesday,2906
+feo,ugly,2907
+cristo,Christ,2908
+francisco,Francisco,2909
+howard,HOWARD.,2910
+virgen,Virgin,2911
+distrito,district,2912
+decidió,He decided,2913
+reputación,reputation,2914
+socorro,Help,2915
+encontraré,I'll find,2916
+castigo,punishment,2917
+dígale,Tell him.,2918
+límite,limit,2919
+junta,meeting,2920
+ponerte,Put yourself,2921
+casados,married,2922
+líneas,lines,2923
+estudios,studies,2924
+muévanse,move,2925
+audiencia,audience,2926
+helen,Helen.,2927
+nació,was born,2928
+mato,Mato.,2929
+jugador,player,2930
+hmm,Hmm,2931
+humo,smoke,2932
+popular,popular,2933
+nación,nation,2934
+conocimos,We met.,2935
+tropas,troops,2936
+sucediendo,happening,2937
+explicación,Explanation,2938
+salen,Sale,2939
+discúlpeme,excuse me,2940
+presentar,present,2941
+donna,Donna.,2942
+celebrar,celebrate,2943
+competencia,competence,2944
+envía,Send,2945
+mantén,Maintain,2946
+verlos,see them,2947
+biblioteca,library,2948
+fila,row,2949
+ésto,this,2950
+misterio,mystery,2951
+ganador,winner,2952
+puerto,port,2953
+vehículo,vehicle,2954
+escapó,escaped,2955
+traeré,I'll bring,2956
+julio,July,2957
+lograr,achieve,2958
+desaparecer,disappear,2959
+muero,I die,2960
+quítate,Quitate,2961
+favorita,favorite,2962
+patio,playground,2963
+golpeó,hit,2964
+tontería,foolishness,2965
+miss,Miss,2966
+pecado,sin,2967
+comité,committee,2968
+preparada,prepared,2969
+comprado,bought,2970
+parezca,it seems,2971
+emocionante,exciting,2972
+caras,faces,2973
+rescate,rescue,2974
+título,qualification,2975
+llegaste,you arrived,2976
+decírtelo,tell you,2977
+adivina,guess,2978
+elizabeth,Elizabeth.,2979
+pánico,panic,2980
+barry,Barry.,2981
+quieran,Wish,2982
+abby,ABBY.,2983
+exterior,Exterior,2984
+pasión,passion,2985
+llegan,arrive.,2986
+preparar,prepare,2987
+guau,Wow,2988
+patrick,Patrick.,2989
+tierras,land,2990
+demostrar,show,2991
+elegante,Elegant,2992
+asegurarme,Ensure me.,2993
+visitar,visit,2994
+asegúrate,Make sure,2995
+darles,give them,2996
+cabezas,Cabezas,2997
+abra,Abra.,2998
+andrew,Andrew,2999
+dean,dean,3000
+ambiente,environment,3001
+conde,count,3002
+urgente,urgent,3003
+impuestos,taxes,3004
+antonio,Antonio,3005
+distinto,different,3006
+encantan,Enchantment,3007
+ron,Ron,3008
+marcas,marks,3009
+ayudarlo,Help him.,3010
+leyendo,Reading,3011
+adecuado,suitable,3012
+cajas,boxes,3013
+abandonar,Leave,3014
+dispara,shoot,3015
+buscamos,We are looking for,3016
+funcionando,running,3017
+traté,I tried,3018
+cia,Inc,3019
+tomen,Take,3020
+darnos,give us,3021
+intentas,Try,3022
+lily,Lily.,3023
+gustado,Like it,3024
+jamie,Jamie.,3025
+luchando,fighting,3026
+apesta,stinks,3027
+volando,flying,3028
+periódicos,newspapers,3029
+lucas,Luke,3030
+detenido,arrested,3031
+curioso,curious,3032
+tetas,tits,3033
+caro,expensive,3034
+asco,disgust,3035
+usó,use,3036
+buscas,Looking for,3037
+amanda,Amanda.,3038
+salgo,I'm on my way out,3039
+decirnos,Tell us,3040
+enseñó,I teach,3041
+rick,rick,3042
+mírate,look to you,3043
+stan,Stan.,3044
+debiste,you debited.,3045
+océano,ocean,3046
+bolas,balls,3047
+nuevamente,again,3048
+damos,we give,3049
+pagado,paid out,3050
+federal,federal,3051
+cuán,how,3052
+escalera,stairs,3053
+acepto,I agree,3054
+km,Km.,3055
+terapia,therapy,3056
+lágrimas,tears,3057
+terreno,ground,3058
+autoridad,authority,3059
+encuentran,Find,3060
+roca,rock,3061
+superficie,surface,3062
+cubierta,cover,3063
+terry,Terry,3064
+hierba,Herb,3065
+juan,John,3066
+prometido,promised,3067
+crecer,grow,3068
+mental,mental,3069
+extranjero,Foreign,3070
+madame,Madame.,3071
+prometí,promised,3072
+mismas,Same,3073
+existen,exist,3074
+veas,go to S,3075
+lento,slow,3076
+dirige,direction.,3077
+capaces,able,3078
+chino,Chinese,3079
+vuelvan,Route,3080
+meta,goal,3081
+suelta,loose,3082
+despedida,fired,3083
+sucedido,happened,3084
+pasta,pasta,3085
+cristal,crystal,3086
+vegas,Vegas,3087
+gritando,Screaming,3088
+pare,St.,3089
+peces,fish,3090
+brown,Brown.,3091
+guardar,save,3092
+podían,They could,3093
+sabían,They knew,3094
+literalmente,literally,3095
+salvó,except,3096
+aprecio,appreciation,3097
+fotografía,Photography,3098
+patrón,Pattern,3099
+esposas,wives,3100
+king,King,3101
+desafío,challenge,3102
+asombroso,amazing,3103
+pedazos,Pieces,3104
+robin,Robin.,3105
+sales,you go out,3106
+clínica,clinic,3107
+atrapar,catch,3108
+experto,expert,3109
+medida,measure,3110
+tele,TV,3111
+desagradable,unpleasant,3112
+custodia,custody,3113
+nacido,born,3114
+anuncio,ad,3115
+física,physical,3116
+hollywood,Hollywood,3117
+empezado,started,3118
+ma,Ma.,3119
+fiebre,fever,3120
+johnson,Johnson.,3121
+compañera,partner,3122
+ayudarla,help her,3123
+desgraciado,unfortunate,3124
+organización,organization,3125
+echa,ECHA.,3126
+mina,mine,3127
+honestamente,honestly,3128
+deuda,debt,3129
+digan,Say,3130
+transporte,transport,3131
+cocinar,Cook,3132
+delicioso,delicious,3133
+podíamos,we could,3134
+greg,Greg,3135
+dirás,You will say,3136
+habilidades,skills,3137
+sentimiento,feeling,3138
+pudieras,You could,3139
+golpes,hits,3140
+nadar,to swim,3141
+operaciones,operations,3142
+admitir,to admit,3143
+templo,temple,3144
+adios,bye Bye,3145
+maravilla,Wonderful,3146
+quita,remove,3147
+mate,mate,3148
+piano,piano,3149
+bombas,pumps,3150
+paredes,walls,3151
+pantalla,screen,3152
+italia,Italy,3153
+pusieron,They put on,3154
+sally,Sally,3155
+amén,Amen,3156
+mac,Mac.,3157
+civil,civil,3158
+fantasmas,Ghosts,3159
+gasolina,gasoline,3160
+sabia,I knew,3161
+tyler,Tyler,3162
+judíos,Jews,3163
+s.,s.,3164
+tripulación,crew,3165
+pagan,Pagan,3166
+arrestado,arrested,3167
+extraños,strangers,3168
+canta,sings,3169
+texas,Texas,3170
+estando,Standing,3171
+flor,flower,3172
+ricky,Ricky,3173
+usan,Usan,3174
+cruzar,Cross,3175
+esperemos,let's hope,3176
+guía,guide,3177
+preocuparte,worry,3178
+enseñar,to teach,3179
+irán,Iran,3180
+conferencia,conference,3181
+miro,I look,3182
+habitaciones,rooms,3183
+galletas,biscuits,3184
+hablarle,talk about,3185
+delito,crime,3186
+atacar,attack,3187
+objeto,object,3188
+disparos,shots,3189
+museo,Museum,3190
+ruedas,wheels,3191
+recientemente,Recently,3192
+huevo,egg,3193
+violación,violation,3194
+regresó,Return,3195
+sufrir,suffer,3196
+tina,tub,3197
+terminamos,finished,3198
+disponible,available,3199
+rica,delicious,3200
+habilidad,skill,3201
+práctica,practice,3202
+acabe,Finish,3203
+amado,loved,3204
+haberle,Haber,3205
+volvemos,we return,3206
+tendrías,You would have,3207
+maestra,teacher,3208
+city,CITY.,3209
+pastillas,tablets,3210
+aprendí,I learned,3211
+cable,cable,3212
+nacimiento,birth,3213
+consciente,aware,3214
+alcance,scope,3215
+evento,event,3216
+alquiler,rental,3217
+ordenador,computer,3218
+incidente,incident,3219
+huh,Huh,3220
+escribí,I wrote.,3221
+estuvieron,They were,3222
+intentaré,I will try,3223
+pensamiento,thought,3224
+metió,I met.,3225
+maleta,suitcase,3226
+condado,county,3227
+piezas,pieces,3228
+ladrones,burglars,3229
+metro,subway,3230
+kilos,kilos.,3231
+recuerde,Remember,3232
+español,Spanish,3233
+motivos,reasons,3234
+explica,Explain,3235
+renunciar,give up,3236
+actuación,performance,3237
+refugio,refuge,3238
+harto,Fed up,3239
+reacción,reaction,3240
+paliza,beating,3241
+chef,Chef,3242
+ocurra,occurrence,3243
+marty,Marty.,3244
+l,L.,3245
+entrado,entered.,3246
+quitar,put off,3247
+amanecer,dawn,3248
+molly,Molly,3249
+corazones,hearts,3250
+rumores,rumors,3251
+llames,calls,3252
+celoso,jealous,3253
+utilizar,use,3254
+territorio,territory,3255
+olvide,forgot,3256
+prácticamente,practically,3257
+disfrutar,to enjoy,3258
+intentaba,Try,3259
+vecino,neighbor,3260
+pública,Public,3261
+collar,necklace,3262
+golf,Golf,3263
+betty,Betty.,3264
+marco,frame,3265
+cercano,near,3266
+fondos,money,3267
+ross,Ross.,3268
+bruce,Bruce,3269
+montar,mount,3270
+salvado,saved,3271
+grados,degrees,3272
+dylan,Dylan.,3273
+moto,motorcycle,3274
+instrucciones,instructions,3275
+treinta,thirty,3276
+gordon,Gordon.,3277
+adonde,where to,3278
+hablarte,talk to you,3279
+jesse,Jesse,3280
+emperador,emperor,3281
+cigarrillo,cigarette,3282
+cuéntame,Tell me,3283
+do,do,3284
+secreta,secret,3285
+haberse,have,3286
+hitler,Hitler,3287
+anne,Anne.,3288
+mortal,mortal,3289
+ronda,round,3290
+cuídate,take care of yourself,3291
+metal,metal,3292
+puro,pure,3293
+cierre,closing,3294
+colores,colors,3295
+eva,Eve,3296
+rusia,Russia,3297
+botón,button,3298
+hijas,daughters,3299
+tenerlo,have it,3300
+tono,tone,3301
+espía,spy,3302
+empleados,employees,3303
+conduce,she drives,3304
+detalle,detail,3305
+estuvieras,You were there,3306
+oliver,Oliver,3307
+rusos,Russians,3308
+déjala,leave her,3309
+crema,cream,3310
+roy,ROY.,3311
+contesta,answer,3312
+casarte,marry,3313
+manda,Manda.,3314
+dias,days,3315
+prisioneros,prisoners,3316
+echado,lying,3317
+trajiste,trajiste,3318
+charlotte,Charlotte.,3319
+flota,fleet,3320
+marie,Marie,3321
+criminales,Criminals,3322
+mmm,mmm,3323
+platos,plates,3324
+crímenes,crimes,3325
+cometido,task,3326
+golpear,hit,3327
+igualmente,equally,3328
+dispararon,They shot,3329
+dejará,will leave,3330
+tontos,Fools,3331
+sabría,would know,3332
+abran,Open,3333
+ayudante,assistant,3334
+cultura,culture,3335
+revolución,revolution,3336
+hombro,shoulder,3337
+botas,boots,3338
+adoro,I like,3339
+olvidó,I forget,3340
+biblia,Bible,3341
+saludos,regards,3342
+katie,Katie.,3343
+deme,give me,3344
+adultos,Adults,3345
+sitios,Sites,3346
+serpiente,snake,3347
+parker,Parker.,3348
+nathan,Nathan.,3349
+romántico,Romantic,3350
+posiblemente,possibly,3351
+adivinar,guess,3352
+peores,worst,3353
+buscan,looking for,3354
+enfrente,in front,3355
+restos,remains,3356
+capacidad,ability,3357
+aliento,breath,3358
+placa,license plate,3359
+rata,rat,3360
+áfrica,Africa,3361
+entendí,I understood,3362
+metas,goals,3363
+cuadro,frame,3364
+afortunado,lucky,3365
+puestos,posts,3366
+japón,Japan,3367
+división,division,3368
+subtítulos,Subtitle,3369
+entradas,tickets,3370
+bicicleta,bicycle,3371
+vuestras,your,3372
+pesado,heavy,3373
+sugiero,suggesto.,3374
+calla,shut up,3375
+espacial,space,3376
+st,St.,3377
+ventanas,Windows,3378
+mejorar,to get better,3379
+concurso,competition,3380
+comisaría,Police station,3381
+sincero,sincere,3382
+centavos,cents,3383
+naturalmente,naturally,3384
+deseas,you want,3385
+pasara,it will happen,3386
+jay,Jay.,3387
+esperado,expected,3388
+ocurrir,occur,3389
+pondrá,will,3390
+recursos,resources,3391
+raza,race,3392
+muestras,Samples,3393
+personales,personnel,3394
+wilson,Wilson.,3395
+imaginación,imagination,3396
+volverás,you will come back,3397
+ceremonia,ceremony,3398
+almacén,store,3399
+sabor,flavor,3400
+sentarse,sit down,3401
+on,ON.,3402
+unión,Union,3403
+frankie,Frankie.,3404
+reserva,booking,3405
+españa,Spain,3406
+encanto,charm,3407
+aviones,planes,3408
+calidad,quality,3409
+escondido,hidden,3410
+citas,quotes,3411
+aceite,oil,3412
+pusiste,pusiste,3413
+querrá,will want,3414
+punta,tip,3415
+cinturón,belt,3416
+podrán,will be able,3417
+cuales,which,3418
+chiste,joke,3419
+consecuencias,consequences,3420
+sinceramente,to be honest,3421
+lewis,Lewis,3422
+hablaste,You talked about,3423
+vaca,cow,3424
+investigando,doing research,3425
+vuelven,Voucher,3426
+chloe,Chloe.,3427
+prisionero,prisoner,3428
+investigar,investigate,3429
+apellido,last name,3430
+actual,current,3431
+despertar,wake,3432
+instante,instant,3433
+vincent,Vincent,3434
+ud,You,3435
+morirá,You will die,3436
+sacaste,You took off.,3437
+justin,Justin,3438
+traiga,Bring,3439
+sentada,sitting,3440
+mueva,Move.,3441
+jordan,Jordan,3442
+terminé,I finished,3443
+emociones,emotions,3444
+dormitorio,bedroom,3445
+pulso,pulse,3446
+atreves,domestos.,3447
+frase,sentence,3448
+partida,departure,3449
+sabíamos,We knew,3450
+parezco,I look like,3451
+excelencia,excellence,3452
+despedido,fired,3453
+moral,moral,3454
+asalto,assault,3455
+decente,decent,3456
+informes,reports,3457
+asusta,scare,3458
+trabajan,they work,3459
+my,MY.,3460
+doug,Doug.,3461
+poca,little,3462
+pasaría,It would happen,3463
+médica,medical.,3464
+combustible,fuel,3465
+discusión,discussion,3466
+verán,Verán.,3467
+ciertas,Certain,3468
+pata,paw,3469
+jean,Jean,3470
+antiguos,ancient,3471
+requiere,requires,3472
+cogido,caught,3473
+comunicación,communication,3474
+manzana,Apple,3475
+sed,thirst,3476
+tio,uncle,3477
+joyas,jewels,3478
+cojones,balls,3479
+noble,noble,3480
+ee.uu.,USA.,3481
+trabajamos,we work,3482
+pediste,you asked for,3483
+encontrarla,Find it,3484
+piedras,stones,3485
+traidor,traitor,3486
+gané,I win,3487
+letra,lyrics,3488
+conseguimos,We got,3489
+vía,via,3490
+sacerdote,priest,3491
+efectos,effects,3492
+resistencia,resistance,3493
+arroz,rice,3494
+arreglado,fixed up,3495
+tarjetas,Cards,3496
+descubrió,discovered,3497
+desconocido,unknown,3498
+mínimo,minimum,3499
+disparado,fired,3500
+boston,boston,3501
+entienden,they understand,3502
+bandera,flag,3503
+llamarte,call you,3504
+plaza,Plaza,3505
+entrando,entering,3506
+tomará,it will take,3507
+visitas,visits,3508
+cooper,Cooper,3509
+demasiada,Too much,3510
+faltan,missing,3511
+planeado,planned,3512
+imperio,empire,3513
+esperaré,I will wait,3514
+enfadada,angry,3515
+levantar,get up,3516
+cartera,briefcase,3517
+jeremy,Jeremy,3518
+importar,to import,3519
+depósito,Deposit,3520
+colegas,colleagues,3521
+periodista,journalist,3522
+comprobar,find out,3523
+funcione,FUNCTION.,3524
+nina,little girl,3525
+mereces,mereces,3526
+forense,forensic,3527
+tensión,tension,3528
+involucrado,involved,3529
+vacía,empty,3530
+abandonado,abandoned,3531
+vídeo,video,3532
+ruso,Russian,3533
+círculo,circle,3534
+judío,Jewish,3535
+cole,cole,3536
+gritos,Screams,3537
+carol,Carol,3538
+empecemos,let us begin,3539
+resultó,turned out,3540
+campos,Fields,3541
+váyanse,Váyanse,3542
+escribiendo,writing,3543
+divertida,fun,3544
+pasen,pass,3545
+pinta,Pinta,3546
+supo,he knew,3547
+ascensor,elevator,3548
+quedarnos,to stay,3549
+matará,will kill,3550
+aparecer,Appear,3551
+helicóptero,helicopter,3552
+actuando,acting,3553
+ooh,ooh,3554
+pasas,raisins,3555
+apúrate,hurry up,3556
+big,Big.,3557
+entregar,deliver,3558
+escape,escape,3559
+indios,Indians,3560
+limpieza,cleaning,3561
+rebecca,Rebecca,3562
+querrás,you will want,3563
+hueso,bone,3564
+jessica,Jessica,3565
+magnífico,magnificent,3566
+trabajadores,Workers,3567
+caída,drop,3568
+temperatura,temperature,3569
+habia,there was,3570
+dejaría,I would leave,3571
+encontrará,will find,3572
+ejercicio,exercise,3573
+lealtad,loyalty,3574
+alas,at,3575
+pasaron,Passion,3576
+invitación,invitation,3577
+diamantes,Diamonds,3578
+unidades,units,3579
+miller,Miller.,3580
+enojada,annoyed,3581
+decimos,We say,3582
+leyenda,legend,3583
+gilipollas,douchebag,3584
+tomaste,do you drink tea,3585
+paraíso,paradise,3586
+gatos,Cats,3587
+costumbre,custom,3588
+podria,might,3589
+cabaña,cabin,3590
+secretaria,Secretary,3591
+lentamente,slowly,3592
+ensayo,test,3593
+pagó,payment,3594
+familiares,Family,3595
+gimnasio,Gym,3596
+negativo,negative,3597
+lenguaje,language,3598
+pájaros,Birds.,3599
+presenta,presentment,3600
+quedes,you have left,3601
+garaje,garage,3602
+palo,stick,3603
+león,Lion,3604
+oídos,ears,3605
+dick,dick,3606
+espaldas,Back,3607
+apuestas,bets,3608
+científico,scientific,3609
+incluyendo,Including,3610
+pelotas,balls,3611
+actividad,exercise,3612
+dragón,dragon,3613
+necesite,Need,3614
+intentamos,We try,3615
+aguantar,endure,3616
+davis,Davis,3617
+primeras,First,3618
+generación,generation,3619
+sexuales,sexual,3620
+apetece,apetece,3621
+grupos,Groups,3622
+capital,capital,3623
+dejemos,Let's leave,3624
+habrías,You would have,3625
+máquinas,Machines,3626
+barato,cheap,3627
+monsieur,Monsieur,3628
+sistemas,Systems,3629
+fingir,pretend,3630
+pensarlo,think about it,3631
+miércoles,Wednesday,3632
+escritor,Writer,3633
+solitario,lonely,3634
+recibo,receipt,3635
+conocerlo,know him,3636
+pudimos,we could,3637
+convertirse,become,3638
+almas,Souls.,3639
+salto,jump,3640
+sonar,Dream,3641
+publicidad,advertising,3642
+russell,Russell,3643
+temporal,temporary,3644
+antecedentes,background,3645
+probado,tried,3646
+todd,Todd.,3647
+kenny,Kenny.,3648
+llamaron,They called,3649
+atractivo,attractive,3650
+váyase,Go away,3651
+barra,bar,3652
+aniversario,anniversary,3653
+intereses,interests,3654
+madres,mothers,3655
+deba,Deba,3656
+imagina,Imagine,3657
+niñera,Baby sitter,3658
+movimientos,Movements,3659
+quince,fifteen,3660
+holmes,Holmes.,3661
+muro,Wall,3662
+recibe,receives,3663
+luce,Luce.,3664
+nací,I was born,3665
+prima,cousin,3666
+cubierto,covered,3667
+contando,Counting,3668
+reír,to laugh,3669
+producto,product,3670
+daños,damage,3671
+abrazo,hug,3672
+gafas,glasses,3673
+arreglarlo,fix it,3674
+sobrino,nephew,3675
+man,Man.,3676
+demanda,demand,3677
+elecciones,elections,3678
+construcción,building,3679
+ayudaré,I'll help,3680
+buscado,wanted,3681
+criaturas,Creatures,3682
+dejarla,Leave it,3683
+internacional,international,3684
+perfil,profile,3685
+trozo,piece,3686
+actriz,actress,3687
+repito,I repeat,3688
+bendiga,bless,3689
+pistas,tracks,3690
+whoa,Whoa.,3691
+vecindario,neighborhood,3692
+hannah,Hannah,3693
+marcus,Marcus.,3694
+ataques,Attacks,3695
+razonable,reasonable,3696
+vende,sell,3697
+gerente,manager,3698
+sensible,sensitive,3699
+ríe,Laugh,3700
+izquierdo,left,3701
+personalidad,personality,3702
+camina,Walk,3703
+traes,trained,3704
+tuvieras,You had,3705
+albert,Albert.,3706
+conté,Conté,3707
+preparando,preparing,3708
+secretario,secretary,3709
+rueda,wheel,3710
+sorprendido,Surprised,3711
+profundamente,deeply,3712
+conoció,she met,3713
+grano,grain,3714
+pagaré,I will pay,3715
+límites,limits,3716
+moneda,coin,3717
+super,Super,3718
+piedad,piety,3719
+militares,military,3720
+seguía,Following,3721
+tocado,touched,3722
+ciudadanos,Citizens,3723
+creado,created,3724
+temas,topics,3725
+acepta,you accept,3726
+encerrado,locked,3727
+opinas,OPINIONS.,3728
+empiezo,I start,3729
+borde,edge,3730
+llevarla,take it,3731
+barcos,boats,3732
+toby,Toby,3733
+pudieron,could,3734
+tocando,playing,3735
+harvey,Harvey.,3736
+profesora,professor,3737
+dejame,let me,3738
+expresión,expression,3739
+asesinada,murdered,3740
+escándalo,scandal,3741
+nervios,nerves,3742
+ios,os.,3743
+randy,Randy.,3744
+emoción,emotion,3745
+blake,Blake,3746
+catherine,Catherine.,3747
+oficialmente,officially,3748
+perdedor,loser,3749
+margaret,Margaret.,3750
+sienten,Feel,3751
+rumbo,course,3752
+valle,Valley,3753
+ian,Ian.,3754
+x,X.,3755
+viejas,Old,3756
+buscaba,I was looking for,3757
+científicos,scientists,3758
+gorda,fat woman,3759
+juventud,youth,3760
+hayamos,We have,3761
+preocupación,concern,3762
+desnudo,naked,3763
+guión,screenplay,3764
+grant,Grant.,3765
+envié,Send.,3766
+señoritas,ladies,3767
+carreras,careers,3768
+tratas,You try,3769
+sucia,dirty,3770
+sophie,Sophie,3771
+ratas,rats,3772
+mayo,may,3773
+tirado,Shot,3774
+heroína,heroin,3775
+háblame,tell me,3776
+contestar,to answer,3777
+caos,chaos,3778
+alternativa,alternative,3779
+estupidez,stupidity,3780
+derek,Derek.,3781
+sorprendente,surprising,3782
+pedirte,ask for,3783
+principios,beginning,3784
+egoísta,selfish,3785
+mostraré,I'll show,3786
+sentarme,sit down,3787
+verdaderamente,truly,3788
+enhorabuena,Congratulations,3789
+casey,Casey,3790
+peligrosa,dangerous,3791
+ánimo,cheer up,3792
+viajes,travels,3793
+lujo,luxury,3794
+mia,mine,3795
+cantando,singing,3796
+religión,religion,3797
+nate,Nate,3798
+risas,laughter,3799
+despejado,clear,3800
+miserable,miserable,3801
+hierro,iron,3802
+corona,Crown,3803
+wayne,Wayne.,3804
+serías,You would be,3805
+dispositivo,device,3806
+mencionar,to mention,3807
+brad,Brad.,3808
+mencionó,He mentioned,3809
+inmunidad,immunity,3810
+grabación,recording,3811
+producción,production,3812
+nuclear,nuclear,3813
+clima,climate,3814
+puesta,put,3815
+buscarlo,Search it,3816
+carácter,character,3817
+prostituta,prostitute,3818
+llamarlo,call him,3819
+steven,Steven,3820
+máscara,mask,3821
+alegre,cheerful,3822
+comprender,understand,3823
+volviste,returned,3824
+cambiando,Changing,3825
+alianza,alliance,3826
+encontrarás,you'll find,3827
+positivo,positive,3828
+siglos,centuries,3829
+serían,would,3830
+desafortunadamente,Unfortunately,3831
+guitarra,guitar,3832
+hacían,They did,3833
+estrategia,strategy,3834
+entré,Come in,3835
+vinimos,We came,3836
+frecuencia,frequency,3837
+poli,cop,3838
+that,that.,3839
+elena,Elena,3840
+discúlpame,forgive me,3841
+llevé,I carried,3842
+vince,Vince,3843
+prohibido,forbidden,3844
+caray,Wow,3845
+arruinar,to ruin,3846
+masa,mass,3847
+existencia,existence,3848
+túnel,tunnel,3849
+bromas,jokes,3850
+evitarlo,Avoid it,3851
+industria,industry,3852
+trasera,rear,3853
+monstruos,Monsters,3854
+mete,mete.,3855
+conseguiré,I will get,3856
+inocentes,Innocents,3857
+colección,collection,3858
+empleado,employee,3859
+fatal,fatal,3860
+stephen,Stephen,3861
+olivia,Olivia.,3862
+intente,try,3863
+expediente,proceedings,3864
+nancy,Nancy.,3865
+putas,whores,3866
+jess,jess.,3867
+petición,petition,3868
+ayudado,helped,3869
+lou,Lou.,3870
+presentación,presentation,3871
+beth,Beth,3872
+vendido,sold out,3873
+cerebral,cerebral,3874
+coraje,courage,3875
+adulto,adult,3876
+rubia,blonde,3877
+mandar,send,3878
+pierdes,you lose,3879
+gano,won,3880
+almorzar,to have lunch,3881
+caridad,charity,3882
+oscar,Oscar.,3883
+sepan,Sepan.,3884
+llegada,arrival,3885
+capítulo,chapter,3886
+disculparme,apologize,3887
+viniera,Viniera.,3888
+gastos,expenses,3889
+sentirse,feel,3890
+entren,Come in,3891
+quédese,Stay,3892
+tarta,pie,3893
+volvería,I would go back.,3894
+jersey,sweater,3895
+mataría,Mataría,3896
+breve,brief,3897
+obras,plays,3898
+acero,steel,3899
+llévame,ride me,3900
+street,Street,3901
+suceda,happening,3902
+cigarrillos,cigarettes,3903
+funcionará,it will work,3904
+alicia,Alicia,3905
+haberla,Haber,3906
+camarada,comrade,3907
+confesión,confession,3908
+dijimos,we said,3909
+coartada,alibi,3910
+desnuda,naked,3911
+payaso,clown,3912
+rayo,lightning,3913
+guay,Guay.,3914
+naves,ships.,3915
+americana,americana.,3916
+político,politician,3917
+diseño,design,3918
+condenado,condemned,3919
+convencido,convinced,3920
+edward,Edward.,3921
+policia,police,3922
+italiano,Italian,3923
+pedro,Pedro,3924
+mm,MM.,3925
+camiseta,T shirt,3926
+vendrán,They will come,3927
+extrañas,foreign,3928
+impacto,impact,3929
+equipaje,Baggage,3930
+lois,Lois.,3931
+sufrimiento,suffering,3932
+salieron,They left,3933
+mantente,Stay,3934
+sabiendo,Knowing,3935
+maten,Morte.,3936
+adolescente,Teen,3937
+soltero,single,3938
+descubrí,I discovered,3939
+tranquilos,quiet,3940
+influencia,influence,3941
+oxígeno,oxygen,3942
+experimento,experiment,3943
+absurdo,absurd,3944
+algun,some,3945
+habrían,They would have,3946
+ponerle,put on,3947
+empiece,Empiece.,3948
+devolver,give back,3949
+propuesta,proposal,3950
+tómalo,take it,3951
+michelle,Michelle,3952
+abrió,Opened,3953
+plantas,floors,3954
+cantante,singer,3955
+traición,treason,3956
+cementerio,graveyard,3957
+florida,Florida,3958
+pozo,water well,3959
+patrulla,patrol,3960
+brandon,Brandon,3961
+planeando,planning,3962
+ann,Ann.,3963
+tragedia,tragedy,3964
+ethan,Ethan.,3965
+miami,Miami,3966
+autoridades,authorities,3967
+trate,Treat,3968
+procedimiento,process,3969
+fantasía,fantasy,3970
+billetes,Banknotes,3971
+ganamos,we won,3972
+secuestro,kidnapping,3973
+sabrás,You will know,3974
+prestado,borrowed.,3975
+bodas,wedding,3976
+béisbol,baseball,3977
+ciudades,cities,3978
+conejo,rabbit,3979
+pregúntale,ask her,3980
+billete,ticket,3981
+esperanzas,hopes,3982
+díselo,tell her,3983
+significado,meaning,3984
+mueren,Die,3985
+shawn,Shawn.,3986
+cincuenta,fifty,3987
+jugadores,players,3988
+web,Web,3989
+apropiado,appropriate,3990
+robot,robot,3991
+considerado,considered,3992
+alcanzar,attain,3993
+patatas,potatoes,3994
+mantenga,keep up,3995
+continuación,continuation,3996
+tradición,tradition,3997
+países,Countries,3998
+ocultar,hide,3999
+tendríamos,We would have,4000
+electricidad,electricity,4001
+bebidas,beverages,4002
+siguió,Followed,4003
+reto,challenge,4004
+aldea,village,4005
+robaron,Robed,4006
+aguas,Agua.,4007
+caminos,roads,4008
+ellen,ELLEN.,4009
+permitido,permitted,4010
+alli,there,4011
+cima,top,4012
+éi,Éi.,4013
+risa,laughter,4014
+cumplido,compliment,4015
+objetos,objects,4016
+decide,decide,4017
+pregunte,I asked for,4018
+once,eleven,4019
+matan,Matan,4020
+terrorista,terrorist,4021
+tomes,Tomes,4022
+términos,Terms,4023
+reyes,Kings,4024
+revés,reverse,4025
+explotar,exploit,4026
+maletas,Baggage,4027
+nubes,clouds,4028
+circo,circus,4029
+darse,do,4030
+west,West.,4031
+prometiste,promised,4032
+tanque,tank,4033
+uñas,nails,4034
+encargaré,I will order,4035
+terroristas,terrorists,4036
+estúpidos,stupid,4037
+héroes,heroes,4038
+salta,Salta.,4039
+daremos,We will give,4040
+agradecido,grateful,4041
+victor,Victor,4042
+terror,terror,4043
+keith,Keith,4044
+sacrificio,sacrifice,4045
+destrucción,destruction,4046
+teddy,Teddy.,4047
+texto,text,4048
+peleas,Fights,4049
+liga,league,4050
+martha,Martha.,4051
+ana,Ana,4052
+enviaré,I will send.,4053
+teléfonos,phones,4054
+porno,for not,4055
+diera,died,4056
+oscura,dark,4057
+tuyos,yours,4058
+olvido,I forget,4059
+queridos,dear ones,4060
+colina,hill,4061
+bromeas,jokes,4062
+sano,healthy,4063
+únicos,unique,4064
+musical,musical,4065
+pastor,Shepherd,4066
+ponerlo,Put it,4067
+naranja,Orange,4068
+batería,battery,4069
+trabajó,job,4070
+reuniones,Meetings,4071
+sue,Sue.,4072
+figura,figure,4073
+jesucristo,Jesus Christ,4074
+funcionan,do they work,4075
+voces,voices,4076
+caroline,Caroline.,4077
+jacob,Jacob,4078
+caramba,Caramba,4079
+callejón,alley,4080
+técnica,technique,4081
+marshall,Marshall,4082
+refería,referral,4083
+notado,noted,4084
+maquillaje,make-up,4085
+lanzar,throw,4086
+cadáveres,corpses,4087
+atacó,Attack,4088
+vendiendo,selling,4089
+bailando,dancing,4090
+tenerte,to have you,4091
+cubrir,cover,4092
+liz,Liz.,4093
+policial,police,4094
+fase,phase,4095
+gus,GUS.,4096
+joseph,Joseph,4097
+importaba,Imported,4098
+armada,navy,4099
+fea,ugly,4100
+porquería,filth,4101
+mickey,Mickey.,4102
+superar,overcome,4103
+disfruta,enjoy,4104
+sueldo,salary,4105
+abiertos,open,4106
+piénsalo,think about it,4107
+testimonio,testimony,4108
+incómodo,uncomfortable,4109
+oyó,or me,4110
+costado,side stand,4111
+apaga,turns off,4112
+considerando,considering,4113
+bolsas,bags,4114
+seguiré,I will continue,4115
+imaginé,I imagined,4116
+detenerlo,Stop it,4117
+diana,Diana,4118
+pasaporte,passport,4119
+infancia,childhood,4120
+suele,usually,4121
+productos,products,4122
+rocas,Rocks,4123
+reverendo,reverend,4124
+mediodía,noon,4125
+golpeado,beaten,4126
+destruido,destroyed,4127
+reconozco,I recognize,4128
+plástico,plastic,4129
+young,Young,4130
+barba,beard,4131
+mago,Wizard,4132
+hojas,leaves,4133
+conocerla,know her,4134
+hallar,find,4135
+mantequilla,Butter,4136
+lidiar,Lidiar,4137
+sentencia,judgment,4138
+ideal,ideal,4139
+dámelo,give it to me,4140
+mandó,command,4141
+residencia,home,4142
+francamente,frankly,4143
+guerrero,Warrior,4144
+ayudo,helped,4145
+sigamos,let's keep going,4146
+jennifer,Jennifer,4147
+engañar,scam,4148
+baje,Baje.,4149
+contaré,I will tell,4150
+guantes,gloves,4151
+rompe,break,4152
+conociste,you met,4153
+hoja,sheet,4154
+decían,they were saying,4155
+recepción,reception,4156
+logrado,accomplished,4157
+odias,hate,4158
+comisión,commission,4159
+vampiro,vampire,4160
+finales,finals,4161
+sufrido,suffered,4162
+azules,blue,4163
+usarlo,Use it,4164
+cometer,commit,4165
+descansa,rest,4166
+peleando,Fighting,4167
+docena,dozen,4168
+estaríamos,We would be,4169
+sera,it will be,4170
+lanza,spear,4171
+averiguarlo,Find out,4172
+lanzamiento,launching,4173
+moverse,move,4174
+ho,Ho.,4175
+falla,failure,4176
+angela,Angela,4177
+técnicamente,technically,4178
+dejara,leave,4179
+medias,tights,4180
+míralo,look at it,4181
+físico,physical,4182
+hacerla,do it,4183
+multitud,crowd,4184
+potencial,potential,4185
+hacías,you did,4186
+famosa,famous,4187
+rutina,routine,4188
+oportunidades,opportunities,4189
+progreso,progress,4190
+fascinante,fascinating,4191
+ensalada,salad,4192
+cómoda,comfortable,4193
+prepara,prepare,4194
+tráeme,bring to me,4195
+equivocas,mistakes,4196
+tubo,tube,4197
+owen,Owen,4198
+sacarlo,remove it,4199
+is,IS.,4200
+usas,USAS.,4201
+letras,letters,4202
+dennis,Dennis,4203
+demasiados,too many,4204
+éstas,are,4205
+interrumpir,interrupt,4206
+representa,It represents,4207
+socios,Partners,4208
+pecados,Sin,4209
+novela,novel,4210
+herramientas,tools,4211
+desaparece,disappear,4212
+apostar,bet,4213
+ó,or,4214
+septiembre,September,4215
+vestidos,dresses,4216
+festival,festival,4217
+franceses,French,4218
+queria,wanted,4219
+gustar,like,4220
+auxilio,help,4221
+éstos,these,4222
+fracaso,failure,4223
+berlín,Berlin,4224
+cañón,Canyon,4225
+llegaremos,we will arrive,4226
+empezaron,Beginning,4227
+spencer,Spencer,4228
+fíjate,notice,4229
+votar,vote,4230
+merezco,I deserve,4231
+infantil,childish,4232
+estacionamiento,parking lot,4233
+asesina,murderess,4234
+sentarte,searte,4235
+mintió,Mint,4236
+grita,shouts,4237
+ofrecer,to offer,4238
+ruth,ruth,4239
+esclavos,slaves,4240
+academia,academy,4241
+probarlo,Try it,4242
+viuda,widow,4243
+reporte,report,4244
+monedas,coins.,4245
+rob,Rob,4246
+advertencia,warning,4247
+jugo,juice,4248
+malcolm,Malcolm,4249
+pico,peak,4250
+miré,Look,4251
+rota,broken,4252
+sociales,social,4253
+amarillo,yellow,4254
+encargado,duty manager,4255
+so,SW,4256
+listas,lists.,4257
+as,ace,4258
+poderosa,powerful,4259
+prometió,promised,4260
+drama,drama,4261
+confundido,confused,4262
+olvídate,forget,4263
+normales,normal,4264
+inconsciente,unconscious,4265
+asegurar,insure,4266
+estadounidense,American,4267
+locales,local,4268
+informado,informed,4269
+resuelto,resolved,4270
+cueva,cave,4271
+conduciendo,Driving,4272
+perdidos,lost,4273
+escuchó,I'm listening,4274
+patético,pathetic,4275
+abril,April,4276
+matemáticas,math,4277
+eliminar,remove,4278
+venid,come,4279
+hicieras,you did,4280
+causar,cause,4281
+demasiadas,Too many,4282
+vigilando,vigilando.,4283
+función,function,4284
+solar,solar,4285
+encontrarme,Find me.,4286
+williams,Williams,4287
+dólar,dollar,4288
+trucos,Tricks,4289
+h,H.,4290
+lectura,reading,4291
+camarero,waiter,4292
+toman,they take,4293
+regresaré,I'll be back,4294
+tiendas,stores,4295
+encontremos,let's find,4296
+dimos,DIMO.,4297
+cabina,cabin,4298
+deporte,sport,4299
+virginia,Virginia,4300
+fuga,leakage,4301
+holly,Holly.,4302
+sospechosos,Suspicious,4303
+jonathan,Jonathan.,4304
+ala,to the,4305
+champán,champagne,4306
+quedaba,It was left,4307
+viera,Viera.,4308
+formar,to form,4309
+walker,Walker.,4310
+detectives,detectives,4311
+entenderlo,understand it,4312
+orejas,ears,4313
+obligado,obliged,4314
+testamento,will,4315
+extremadamente,extremely,4316
+creyó,He believed,4317
+darán,Darán.,4318
+materia,matter,4319
+detuvo,Deturbo.,4320
+casco,helmet,4321
+sabremos,We will know,4322
+agenda,schedule,4323
+rosas,Rosas,4324
+aceptado,accepted,4325
+bello,beautiful,4326
+fabuloso,fabulous,4327
+llores,LLORES,4328
+arruinado,ruined,4329
+enterado,Allowed.,4330
+junio,June,4331
+baila,Baila,4332
+artistas,Artists,4333
+realizar,perform,4334
+hechizo,spell,4335
+respiración,breathing,4336
+extremo,extreme,4337
+historial,record,4338
+pongan,Put.,4339
+yeah,Yeah.,4340
+próximos,upcoming,4341
+extraordinario,extraordinary,4342
+tigre,Tiger,4343
+fianza,bail,4344
+consejos,advice,4345
+mostrarte,show you,4346
+doctores,doctors,4347
+auténtico,authentic,4348
+usamos,We use,4349
+romance,Romance,4350
+miente,lies,4351
+matthew,Matthew.,4352
+importan,Import,4353
+paren,paren,4354
+indio,Indian,4355
+increíblemente,incredibly,4356
+pierdo,I lose,4357
+llevaremos,We will take,4358
+ví,saw,4359
+ofrece,offers,4360
+seco,dried,4361
+willie,Willie.,4362
+quinn,Quinn.,4363
+sagrado,sacred,4364
+monte,mountain,4365
+paris,Paris,4366
+discos,discs,4367
+louise,Louise.,4368
+carrie,carrie,4369
+juguetes,toys,4370
+cerdos,pigs,4371
+enteré,I found out,4372
+escapado,I escaped,4373
+matarla,kill her.,4374
+casó,case,4375
+ali,Ali.,4376
+salgas,come out,4377
+pasajeros,passengers,4378
+debilidad,soft spot,4379
+civiles,civilian,4380
+corbata,necktie,4381
+dispuesta,disposed,4382
+necesitaré,I will need,4383
+cuartel,barracks,4384
+cazar,hunt,4385
+robando,stealing,4386
+convencer,convince,4387
+rollo,roll,4388
+pescar,to fish,4389
+mezcla,mix,4390
+parejas,Couples,4391
+condicional,conditional,4392
+giro,turn,4393
+bonitas,Nice.,4394
+necesites,You need,4395
+molestar,bother,4396
+amantes,lovers,4397
+gris,Gray,4398
+zoe,Zoe.,4399
+pedimos,We ask for,4400
+refuerzos,reinforcement,4401
+josé,Joseph,4402
+colgar,hang,4403
+heridos,wounded,4404
+arreglo,arrangement,4405
+plazo,term,4406
+harold,Harold.,4407
+salvajes,wild,4408
+elliot,Elliot.,4409
+fotografías,Photographs,4410
+sintió,He felt,4411
+hermosas,beautiful,4412
+ashley,Ashley.,4413
+convertir,turn into,4414
+contarle,Tell him,4415
+retiro,retirement,4416
+francis,Francis,4417
+gravedad,gravity,4418
+importe,amount,4419
+lata,can,4420
+enseñaré,I will teach,4421
+velas,candles,4422
+suyos,his,4423
+símbolo,symbol,4424
+reconocimiento,recognition,4425
+típico,typical,4426
+ayudas,Aids,4427
+regresado,returned,4428
+conducta,conduct,4429
+lane,lane,4430
+ken,Ken.,4431
+am,A.M,4432
+participar,take part,4433
+lana,wool,4434
+shane,Shane,4435
+hacernos,Make us,4436
+tratan,Treat,4437
+vendedor,seller,4438
+federales,Federal.,4439
+pudiéramos,We could,4440
+diane,Diane,4441
+estrés,stress,4442
+césar,cease,4443
+soltera,single woman,4444
+gustará,It will like it,4445
+em,Em.,4446
+brujas,Bruges,4447
+horario,schedule,4448
+recuerden,Remember,4449
+identificar,identify,4450
+hill,Hill.,4451
+alfombra,carpet,4452
+perdóneme,excuse me,4453
+actores,actors,4454
+atractiva,attractive,4455
+permítame,let me,4456
+desperté,I woke up,4457
+salía,It came out,4458
+recibiendo,receiving,4459
+preciso,precise,4460
+comprendes,Include,4461
+white,White.,4462
+altos,High,4463
+fan,fan,4464
+papas,popes,4465
+anciano,old man,4466
+profunda,deep,4467
+petróleo,Petroleum,4468
+intenciones,intentions,4469
+francesa,French,4470
+neil,Neil.,4471
+jin,Jin.,4472
+rango,rank,4473
+sombras,shades,4474
+malvado,evil,4475
+defender,defend,4476
+lleguemos,Let's get there,4477
+suba,rose,4478
+jaula,cage,4479
+watson,Watson.,4480
+natalie,Natalie.,4481
+comentarios,comments,4482
+dosis,dose,4483
+cartel,sign,4484
+disparen,shoot,4485
+esperad,wait,4486
+cargar,charge,4487
+enviaron,They sent,4488
+jodida,fucked,4489
+seguí,I continued,4490
+aproximadamente,about,4491
+postre,dessert,4492
+escala,scale,4493
+estudiando,studying,4494
+pavo,Turkey,4495
+origen,origin,4496
+considerar,to consider,4497
+fiel,faithful,4498
+diego,Diego,4499
+embajador,ambassador,4500
+tatuaje,tattoo,4501
+población,population,4502
+harris,Harris,4503
+comes,you eat,4504
+llamen,call,4505
+horribles,horrible,4506
+vampiros,Vampires,4507
+dormida,asleep.,4508
+niveles,levels,4509
+largas,long,4510
+pandilla,gang,4511
+agrada,liking,4512
+traigan,Traigan.,4513
+onda,wave,4514
+atrapados,caught up,4515
+duque,duke,4516
+bajas,low,4517
+dejaremos,We will leave,4518
+b.,b.,4519
+trono,throne,4520
+canto,singing,4521
+aumento,increase,4522
+esconder,hide,4523
+políticos,politicians,4524
+muertes,deaths,4525
+anthony,Anthony.,4526
+pensabas,thought of,4527
+saqué,saqué.,4528
+taller,workshop,4529
+fantástica,fantastic,4530
+practicar,to practice,4531
+asientos,seating,4532
+armado,armed,4533
+gibbs,Gibbs.,4534
+habrán,will have,4535
+considera,considers,4536
+atender,attend,4537
+ponemos,We put on,4538
+we,We.,4539
+consigues,canteen,4540
+sentados,Sitting,4541
+costó,cost,4542
+soñando,dreaming,4543
+stanley,Stanley,4544
+creó,believe,4545
+ayúdenme,help me,4546
+juzgado,court,4547
+hablarme,Talk to me,4548
+janet,Janet,4549
+bebido,drunk,4550
+pierdas,loss,4551
+ponlo,Ponlo,4552
+gallina,hen,4553
+miguel,Michael,4554
+octubre,October,4555
+sentirme,feel,4556
+riesgos,risks,4557
+dificil,hard,4558
+besar,kiss,4559
+lavar,to wash,4560
+sacarte,take off,4561
+cuyo,whose,4562
+cayendo,falling down,4563
+emocional,emotional,4564
+prometida,fiancee,4565
+molestia,inconvenience,4566
+christine,christine,4567
+consiga,Get,4568
+huella,paw print,4569
+agarra,Grab,4570
+karl,Karl.,4571
+condena,sentence,4572
+decírmelo,Tell me about it,4573
+cafetería,Cafeteria,4574
+honesta,Honesta,4575
+tómate,tomatoes,4576
+pablo,Pablo,4577
+medidas,measures,4578
+ofreció,Offered,4579
+dió,it gave,4580
+quizas,maybe,4581
+celosa,jealous,4582
+instinto,instinct,4583
+bancos,banks,4584
+mías,mine,4585
+emocionado,excited,4586
+juguete,toy,4587
+villa,town,4588
+conocida,well-known,4589
+servirá,will serve,4590
+norman,Norman,4591
+centavo,penny,4592
+lincoln,Lincoln.,4593
+connor,Connor.,4594
+potencia,power,4595
+unido,United,4596
+julian,Julian,4597
+copias,do you copy,4598
+receta,recipe,4599
+interesada,interested,4600
+seguirá,will follow,4601
+oírme,hear,4602
+normas,rules,4603
+cocaína,cocaine,4604
+encontrarte,find you,4605
+cambie,change,4606
+asesinó,assassin,4607
+huyendo,running away,4608
+marihuana,Marijuana,4609
+entramos,we enter,4610
+congreso,congress,4611
+capa,cap,4612
+tocó,Touched.,4613
+mágico,magical,4614
+beneficios,Benefits,4615
+aburrida,boring,4616
+invito,Invite,4617
+período,period,4618
+corredor,runner,4619
+marte,Mars,4620
+ayudaría,would help,4621
+cortado,chopped up,4622
+mentiste,you lied,4623
+olvidaste,Forgotten.,4624
+nieto,grandson,4625
+odiaba,I hated,4626
+fraude,fraud,4627
+zapato,shoe,4628
+mantenerlo,keep it,4629
+liam,Liam.,4630
+tiró,threw,4631
+sector,sector,4632
+conseguirlo,to get it,4633
+furgoneta,van,4634
+causado,caused.,4635
+beneficio,benefit,4636
+querrías,I wanted to,4637
+graduación,graduation,4638
+alejado,remote,4639
+junior,junior,4640
+complejo,complex,4641
+miraba,Look,4642
+patas,legs,4643
+columna,column,4644
+empieces,Empieces.,4645
+bienes,goods,4646
+quisieras,you would like,4647
+clásico,classic,4648
+saque,Remove,4649
+oírlo,hear it,4650
+hígado,liver,4651
+robaste,Stolen.,4652
+decías,Saids,4653
+all,All.,4654
+lleven,LOST.,4655
+trabajé,I worked,4656
+muebles,furniture,4657
+actos,Acts,4658
+células,cells,4659
+presa,dam,4660
+hubiéramos,We would have,4661
+travis,travis,4662
+joan,Joan,4663
+páginas,pages,4664
+raymond,Raymond,4665
+llenar,fill in,4666
+riley,Riley.,4667
+cambian,change,4668
+sonríe,smile,4669
+moscú,Moscow,4670
+ordenó,Ordated,4671
+go,Go.,4672
+motel,motel,4673
+venimos,we come,4674
+cuente,Count,4675
+a.,to.,4676
+preguntes,Ask,4677
+mentido,lying,4678
+decidimos,we decided to,4679
+house,House,4680
+alimentos,foods,4681
+actúa,Act.,4682
+prefieres,Prefer,4683
+mason,mason,4684
+presupuesto,budget,4685
+prepárate,Prepare,4686
+ubicación,Location,4687
+etapa,stage,4688
+olvidaré,I will forget,4689
+trajes,suits,4690
+santos,Saints,4691
+idioma,language,4692
+fruta,fruit,4693
+reconoce,recognize,4694
+vuela,Flying,4695
+ganando,Winning,4696
+bendición,blessing,4697
+luis,Luis,4698
+compasión,compassion,4699
+reconocer,recognize,4700
+desarrollo,growth,4701
+contarte,tell you,4702
+vomitar,barf,4703
+cazador,Hunter,4704
+pesca,fishing,4705
+arco,bow,4706
+wendy,Wendy.,4707
+llora,Clora.,4708
+abandonó,abandonment,4709
+supiste,you knew,4710
+abogada,lawyer,4711
+fama,fame,4712
+plano,flat,4713
+elige,choose,4714
+maíz,corn,4715
+remedio,remedy,4716
+harta,Harta.,4717
+maria,Maria,4718
+muéstrame,Show me.,4719
+audrey,Audrey,4720
+acostumbrado,used to,4721
+green,green,4722
+leonard,Leonard.,4723
+disfraz,costume,4724
+termino,finished,4725
+hombros,shoulders,4726
+química,chemistry,4727
+vela,candle,4728
+muelle,dock,4729
+tiroteo,shooting,4730
+dirigir,lead,4731
+enterrado,buried,4732
+acento,accent,4733
+psiquiatra,psychiatrist,4734
+escoger,choose,4735
+estupenda,great,4736
+canadá,Canada,4737
+indica,indicate.,4738
+deudas,debts,4739
+subiendo,going up,4740
+bla,BLA.,4741
+desayunar,eat breakfast,4742
+tomaron,They took,4743
+fines,purposes,4744
+espíritus,Spirits,4745
+ingeniero,engineer,4746
+cráneo,skull,4747
+desesperado,desperate,4748
+baby,Baby.,4749
+separados,separated,4750
+queja,complain,4751
+jugada,move,4752
+bajando,going down,4753
+signos,signs,4754
+dirías,You would say,4755
+von,von,4756
+buscaré,I will search,4757
+comen,eat,4758
+hong,Hong,4759
+pediré,I ask,4760
+documento,document,4761
+descripción,description,4762
+tercero,third,4763
+estructura,structure,4764
+rehenes,hostage,4765
+lleguen,Arrive,4766
+botellas,Bottles,4767
+encuentren,Find,4768
+bomberos,firefighters,4769
+horno,kiln,4770
+préstamo,loan,4771
+black,black.,4772
+tratamos,We try,4773
+autopsia,autopsy,4774
+ocupados,busy,4775
+penny,penny,4776
+metí,METÍ.,4777
+pares,pairs,4778
+propietario,owner,4779
+supieras,Suspecially,4780
+adecuada,adequate,4781
+cuarenta,forty,4782
+profesión,profession,4783
+británico,British,4784
+exámenes,Exams,4785
+tracy,tracy,4786
+evan,Evan.,4787
+seth,Seth,4788
+moleste,bottle,4789
+agosto,August,4790
+logró,achievement,4791
+marchar,to March,4792
+logan,Logan,4793
+crecido,grown up,4794
+representante,representative,4795
+empiezas,Starts,4796
+tareas,chores,4797
+gabriel,Gabriel,4798
+vodka,vodka,4799
+dí,gave,4800
+re,re,4801
+terribles,terrible,4802
+infeliz,unhappy,4803
+enormes,huge,4804
+geniales,Great,4805
+generoso,generous,4806
+brindis,toast,4807
+rita,Rita.,4808
+directa,directo.,4809
+hacéis,do,4810
+actualmente,at the moment,4811
+rifle,rifle,4812
+casino,casino,4813
+logro,achievement,4814
+trajeron,They brought,4815
+celos,jealousy,4816
+artículos,articles,4817
+estable,stable,4818
+escuadrón,squadron,4819
+ciudadano,citizen,4820
+colin,Colin.,4821
+sospecha,suspicion,4822
+violento,violent,4823
+engañado,cheated,4824
+relacionado,related,4825
+niega,denies,4826
+vietnam,Vietnam,4827
+batman,Batman,4828
+vendió,sold.,4829
+ralph,Ralph,4830
+chaval,kid,4831
+macho,male,4832
+allison,Allison,4833
+menores,minors,4834
+constantemente,constantly,4835
+conozca,know.,4836
+directora,director,4837
+borracha,drunk,4838
+ventas,sales,4839
+alivio,relief,4840
+trauma,trauma,4841
+enseñarte,teach you,4842
+estadounidenses,Americans,4843
+necesidades,needs,4844
+bart,Bart.,4845
+exposición,exposition,4846
+negociar,negotiate,4847
+todavia,yet,4848
+explicarlo,explain it,4849
+copas,Cups,4850
+golpea,hit,4851
+edificios,buildings,4852
+región,region,4853
+duros,hard,4854
+moviendo,Moving.,4855
+kitty,Kitty.,4856
+aman,Aman.,4857
+kong,Kong.,4858
+ford,Ford.,4859
+shh,shh,4860
+lógica,logic,4861
+eligió,elected,4862
+sammy,Sammy.,4863
+sangrando,bleeding out,4864
+jefes,bosses,4865
+comió,ate,4866
+traducido,translated,4867
+narices,nose,4868
+deberes,duties,4869
+grito,He shouted,4870
+empresas,Business,4871
+contactos,Contacts,4872
+engaño,cheated,4873
+acusación,accusation,4874
+cirujano,surgeon,4875
+pagando,paying,4876
+cenizas,ash,4877
+retraso,delay,4878
+asesinar,murder,4879
+mentí,lying,4880
+imaginas,Imagine,4881
+haciéndolo,doing it,4882
+ocurriendo,happening,4883
+pechos,Breasts,4884
+solicitud,request,4885
+enfermedades,diseases,4886
+soporto,I stand,4887
+buscarla,Search it,4888
+mona,monkey,4889
+fresca,Freshly,4890
+prioridad,priority,4891
+mentes,Meters.,4892
+francos,Francos.,4893
+rumor,rumor,4894
+confías,You trust,4895
+dibujo,He drew,4896
+saliste,did you go out,4897
+contaste,you counted.,4898
+buscarte,look for you,4899
+prefiere,prefers,4900
+almirante,admiral,4901
+gastar,spend,4902
+vendrás,VEN.,4903
+use,USE.,4904
+craig,Craig.,4905
+warren,Warren.,4906
+conjunto,set,4907
+profesionales,professionals,4908
+ciertos,some,4909
+verdes,green,4910
+invitó,invited,4911
+alumnos,students,4912
+presentó,presented,4913
+informar,report,4914
+cortó,short,4915
+maya,Maya,4916
+apagar,to turn off,4917
+malditas,damn,4918
+harían,They would,4919
+nelson,Nelson.,4920
+besos,Kisses,4921
+graciosa,Graciosa,4922
+chinos,Chinese.,4923
+noviembre,November,4924
+invisible,invisible,4925
+contarme,tell me,4926
+economía,economy,4927
+logramos,We achieved.,4928
+combinación,combination,4929
+enfermos,sick,4930
+conectado,connected,4931
+sucederá,will happen,4932
+asumir,assume,4933
+rusa,Russian,4934
+habitual,habitual,4935
+id,ID.,4936
+posesión,possession,4937
+inténtalo,Try it,4938
+ministerio,ministry,4939
+saludable,healthy,4940
+firmado,signed,4941
+oreja,ear,4942
+calientes,hot,4943
+personajes,characters,4944
+liberar,break free,4945
+cogió,He picked up,4946
+toro,bull,4947
+pintar,paint,4948
+eternidad,eternity,4949
+similar,Similary,4950
+sobrina,niece,4951
+tortura,torture,4952
+máxima,maximum,4953
+franco,Frank,4954
+earl,Earl.,4955
+raras,rare,4956
+paige,Paige.,4957
+espérame,wait for me,4958
+nene,baby,4959
+deportes,sports,4960
+sígueme,Follow me.,4961
+sra,Ms,4962
+pulmones,lungs,4963
+cuánta,how much,4964
+necesitaremos,we will need,4965
+isabel,Isabel,4966
+acabará,End,4967
+manzanas,Apples,4968
+ratón,mouse,4969
+eléctrica,electrician.,4970
+ee,USA,4971
+productor,producer,4972
+quédense,Stay,4973
+demuestra,shows,4974
+lauren,Lauren.,4975
+eventos,events,4976
+entendiste,you understood,4977
+v,V.,4978
+reciente,recent,4979
+empiezan,Start,4980
+pasaste,You passed,4981
+enfrentar,deal,4982
+dejaba,left,4983
+escucharme,listen to me,4984
+apariencia,appearance,4985
+aves,birds,4986
+radiación,radiation,4987
+advierto,I warn,4988
+quemado,Burned,4989
+corea,Korea,4990
+sandy,Sandy.,4991
+síntomas,symptom,4992
+japoneses,Japanese,4993
+kurt,Kurt.,4994
+juzgar,judge,4995
+adrian,Adrian,4996
+cervezas,beers,4997
+quemar,burn down,4998
+kent,Kent.,4999
+marzo,March,5000
+meterme,meter,5001
+cuarta,quarter,5002
+gatillo,trigger,5003
+azar,random,5004
+soledad,loneliness,5005
+vera,Vera.,5006
+método,method,5007
+creciendo,growing,5008
+amenazas,threats,5009
+alfa,alpha,5010
+afecta,it affects,5011
+alguacil,sheriff,5012
+jugado,played,5013
+excepción,exception,5014
+dignidad,dignity,5015
+graves,grave,5016
+riendo,laughing,5017
+aaron,Aaron,5018
+pasear,walk,5019
+autorización,authorization,5020
+concepto,concept,5021
+enseñado,taught,5022
+molestes,Annoyes.,5023
+volvieron,They returned,5024
+llevaría,I would take,5025
+pato,duck,5026
+duncan,Duncan,5027
+padrino,Godfather,5028
+vigila,watch,5029
+generalmente,usually,5030
+quedando,staying,5031
+numero,number,5032
+permiten,allow,5033
+bebo,Bebo.,5034
+contratar,hire,5035
+pides,asks,5036
+administración,management,5037
+continúe,Continue,5038
+eli,Eli.,5039
+case,casse,5040
+inusual,unusual,5041
+feria,fair,5042
+mancha,stain,5043
+leal,loyal,5044
+transmisión,transmission,5045
+tranquilízate,calm down,5046
+asociación,association,5047
+corran,crank,5048
+seguiremos,will follow,5049
+parto,Birth,5050
+pegado,glued,5051
+estarían,They would be,5052
+mafia,mafia,5053
+poesía,poetry,5054
+preocupados,worriedly,5055
+intercambio,exchange,5056
+mel,Mel.,5057
+constante,constant,5058
+selva,jungle,5059
+mostró,He showed,5060
+jenna,Jenna.,5061
+juegas,you play,5062
+contrató,contract,5063
+sintiendo,Feeling,5064
+gane,I win,5065
+aprende,Alegrenda,5066
+presentimiento,feeling,5067
+fuentes,sources,5068
+protegerte,Protect yourself,5069
+raíces,estate,5070
+meterte,meter,5071
+nicole,Nicole.,5072
+perspectiva,perspective,5073
+escolar,school,5074
+digno,worthy,5075
+shock,Shock.,5076
+heather,Heather.,5077
+bastardos,bastards,5078
+quinto,fifth,5079
+for,For.,5080
+soportarlo,bear it,5081
+star,Star.,5082
+your,your,5083
+campana,campaign,5084
+juramento,oath,5085
+matarán,They will kill,5086
+mitchell,Mitchell.,5087
+utiliza,use,5088
+ronnie,Ronnie.,5089
+ilusión,delusion,5090
+vencer,overcome,5091
+rezar,pray,5092
+hoyo,hole,5093
+tristeza,sadness,5094
+miró,I look,5095
+pases,passes,5096
+dolores,Dolores,5097
+sigas,Follows,5098
+doloroso,painful,5099
+love,sees it,5100
+debbie,debbie,5101
+equivoqué,Evivoche,5102
+cuidando,taking care of,5103
+medicamentos,medicines,5104
+ocuparé,I will occupy,5105
+bandas,Bands,5106
+harper,Harper.,5107
+protocolo,protocol,5108
+unirse,join,5109
+vosotras,you,5110
+sufriendo,Suffering,5111
+tomaremos,We will take,5112
+otoño,fall,5113
+estatal,state,5114
+candidato,candidate,5115
+vencido,defeated,5116
+autor,Author,5117
+aérea,Aerial,5118
+usaba,Wearing,5119
+comprende,understands,5120
+polla,cock,5121
+huelga,strike,5122
+rabia,Rage,5123
+agujeros,holes.,5124
+estuviese,I was,5125
+esperabas,I expected,5126
+jovencita,Jovencita.,5127
+callado,reserved,5128
+encender,turn on,5129
+grosero,rude,5130
+mitch,MITCH.,5131
+rancho,Ranch,5132
+conflicto,conflict,5133
+conspiración,conspiracy,5134
+comando,command,5135
+gota,gout,5136
+escenas,Scenes,5137
+pa,Pa.,5138
+colonia,Suburb,5139
+medalla,medal,5140
+contactar,contact,5141
+jugamos,let's play,5142
+stone,Stone.,5143
+cabra,goat,5144
+traerme,Bring me.,5145
+parientes,family members,5146
+creído,Believement,5147
+adolescentes,teenagers,5148
+llenos,Full,5149
+ultima,Ultima,5150
+altas,high,5151
+cambiará,switch to,5152
+inteligentes,intelligent,5153
+dieta,diet,5154
+quedarás,You will stay with,5155
+correctamente,correctly,5156
+vería,would see,5157
+suelto,loose,5158
+fans,fans.,5159
+japonés,Japanese,5160
+ropas,clothes,5161
+recibimos,We received,5162
+elementos,elements,5163
+verdaderos,True,5164
+bonnie,Bonnie.,5165
+piensen,think.,5166
+pondremos,we will put,5167
+contiene,Contains,5168
+diciembre,December,5169
+motores,Motors,5170
+graham,Graham,5171
+estarlo,to be,5172
+preguntarme,Ask me about,5173
+na,na,5174
+permanente,permanent,5175
+comercio,trade,5176
+llegara,reach,5177
+amada,loved,5178
+jodidamente,Fuckingly,5179
+grasa,grease,5180
+infección,infection,5181
+comenzado,started,5182
+satisfecho,satisfied,5183
+presidenta,Chairwoman,5184
+llevarse,carry off,5185
+pesada,heavy,5186
+megan,Megan.,5187
+barney,Barney.,5188
+envío,Shipping,5189
+desfile,parade,5190
+suma,sum,5191
+meterse,meter,5192
+conclusión,conclusion,5193
+atrapada,trapped,5194
+mientes,you lie,5195
+homicidios,homicide,5196
+cajón,drawer,5197
+tragos,swallows,5198
+salve,Hail,5199
+valores,values,5200
+pierre,Pierre.,5201
+leslie,Leslie.,5202
+ejecución,execution,5203
+misterioso,mysterious,5204
+sándwich,sandwich,5205
+lobos,Wolves,5206
+fortaleza,strength,5207
+furioso,furious,5208
+hamburguesa,Burger,5209
+barbara,Barbara,5210
+salario,salary,5211
+débiles,weak,5212
+plena,Full,5213
+pierda,Lose.,5214
+murphy,Murphy,5215
+cuero,leather,5216
+jodan,Jodan,5217
+oculta,hidden,5218
+salvaste,saved,5219
+quema,Burning,5220
+cometió,he committed,5221
+temor,fear,5222
+nora,Nora.,5223
+muchísimas,Many,5224
+bo,BO.,5225
+comedor,dining room,5226
+aclarar,clear out,5227
+controla,Control,5228
+admito,I admit,5229
+ji,ji.,5230
+esconde,hide,5231
+valioso,valuable,5232
+aguja,needle,5233
+equivoco,mistaken,5234
+terminaste,You finished,5235
+brillantes,Bright,5236
+ingleses,English,5237
+observando,Observer,5238
+objetivos,objectives,5239
+casarnos,get married,5240
+emocionada,moved,5241
+desaparición,disappearance,5242
+sello,stamp,5243
+quietos,Quiet,5244
+escuelas,Schools,5245
+merecía,Deserved,5246
+deshacerse,get rid of,5247
+tiburón,shark,5248
+mostrarle,show him.,5249
+nube,cloud,5250
+formación,training,5251
+compraste,You purchased.,5252
+decepcionado,disappointed,5253
+autopista,freeway,5254
+evidente,evident,5255
+camiones,Trucks,5256
+programas,programs,5257
+falsas,false,5258
+daisy,daisy,5259
+encuentres,Find,5260
+matas,Matas,5261
+quitado,taken away,5262
+actividades,activities,5263
+líderes,Leaders,5264
+escuchad,Listen.,5265
+global,global,5266
+esclavo,slave,5267
+ocasiones,occasions,5268
+dejarle,to leave,5269
+confirmar,confirm,5270
+pendiente,pending,5271
+toalla,towel,5272
+construido,constructed,5273
+creación,creation,5274
+raros,rare,5275
+novios,boyfriends,5276
+escuches,Listen,5277
+temía,feared,5278
+detiene,Stop,5279
+be,Be.,5280
+gusano,worm,5281
+atmósfera,atmosphere,5282
+gina,Gina,5283
+reunir,gather,5284
+espiritual,spiritual,5285
+pensión,pension,5286
+sirven,serving,5287
+saldremos,We will leave,5288
+marica,sissy,5289
+república,republic,5290
+siéntense,Sit,5291
+sabio,wise,5292
+increíbles,Amazing,5293
+embajada,embassy,5294
+quieta,quiet,5295
+escribo,I write,5296
+poema,poem,5297
+kang,Kang.,5298
+terminará,will finish,5299
+tenis,tennis,5300
+civilización,civilization,5301
+patada,kick,5302
+cuerdas,ropes,5303
+dibujos,drawings,5304
+perdieron,They lost,5305
+brenda,Brenda,5306
+tirando,pulling,5307
+miran,they watch,5308
+prometes,promises,5309
+chase,Chase,5310
+pluma,pen,5311
+r,R.,5312
+posibles,possible,5313
+fallo,failure,5314
+iris,iris,5315
+superman,Superman,5316
+entendemos,We understand,5317
+rodilla,knee,5318
+vestida,dressed,5319
+echó,threw out,5320
+philip,Philip.,5321
+tirador,shooter,5322
+aparato,apparatus,5323
+modales,manners,5324
+horror,horror,5325
+quisiste,you wanted.,5326
+pavos,turkeys,5327
+permitiré,I will allow,5328
+estatua,statue,5329
+asegurarse,make sure,5330
+regresen,Return,5331
+mandado,commanded,5332
+continua,keep going,5333
+siesta,nap,5334
+ausencia,absence,5335
+perdemos,we lose,5336
+collins,Collins,5337
+encontrarán,You will find,5338
+cuentos,stories,5339
+wade,Wade.,5340
+maletín,briefcase,5341
+phoebe,Phoebe,5342
+jules,Jules.,5343
+ellie,Ellie.,5344
+perfume,fragrance,5345
+grabar,Record,5346
+crece,it grows,5347
+jen,Jen.,5348
+echarle,Throw,5349
+entro,I enter,5350
+duelo,duel,5351
+israel,Israel,5352
+cometí,commented.,5353
+organizar,organize,5354
+pervertido,perverted,5355
+subió,went up,5356
+revistas,journals,5357
+dejarás,You will leave,5358
+lleves,LOSE.,5359
+walt,Walt.,5360
+carla,Carla,5361
+jill,Jill.,5362
+enciende,Turn on,5363
+quitó,He removed,5364
+radar,Radar,5365
+seriamente,seriously,5366
+probabilidades,odds,5367
+capullo,cocoon,5368
+deseando,wishing,5369
+dana,Dana,5370
+bang,Bang.,5371
+habrás,You will have,5372
+ganaste,Won,5373
+locas,crazy,5374
+hall,hall,5375
+encantó,charm,5376
+telefónica,telephone,5377
+llegues,arrivals,5378
+micrófono,microphone,5379
+margen,margin,5380
+gesto,gesture,5381
+cintas,Ribbons,5382
+sugiere,Suggestion.,5383
+embarazo,pregnancy,5384
+stuart,Stuart.,5385
+encaja,fits,5386
+consuelo,comfort,5387
+llamarla,call it,5388
+sabiduría,wisdom,5389
+sincera,sincere,5390
+bolsillos,pockets,5391
+paula,Paula.,5392
+comencé,I started,5393
+noel,Noel,5394
+muestran,show,5395
+lea,LEA.,5396
+mágica,magic,5397
+terriblemente,terribly,5398
+recuerdan,remember.,5399
+solíamos,we used to,5400
+susto,scare,5401
+ocurrirá,It will happen,5402
+hadas,fairy,5403
+sos,SOS.,5404
+preocuparme,worry,5405
+hare,I will do,5406
+vidrio,glass,5407
+término,finished,5408
+volverán,They will return,5409
+desorden,disorder,5410
+alimentar,feed,5411
+boleto,ticket,5412
+lavado,washed,5413
+confusión,confusion,5414
+angeles,Angeles,5415
+ave,bird,5416
+cambié,I changed,5417
+temer,fear,5418
+pense,I thought,5419
+danos,damage,5420
+facultad,faculty,5421
+mochila,bag,5422
+satélite,satelite,5423
+independiente,Independent,5424
+intentan,They try,5425
+enero,January,5426
+busqué,I searched,5427
+diosa,goddess,5428
+estuvieran,They were,5429
+barón,baron,5430
+clay,Clay.,5431
+artes,Arts,5432
+nocturno,night,5433
+timbre,doorbell,5434
+escapa,escape,5435
+establecer,set up,5436
+what,que,5437
+duermo,I sleep,5438
+araña,Spider,5439
+detenga,stop.,5440
+intentes,Interest.,5441
+correos,post,5442
+profesores,teachers,5443
+enseñarle,Teach him,5444
+guerreros,Warriors,5445
+ancianos,elderly,5446
+preocupo,I worry,5447
+bebes,babies,5448
+imaginaba,I imagined,5449
+mundos,Mundos.,5450
+martillo,hammer,5451
+eterna,eternal,5452
+sufrió,He suffered,5453
+comentario,comment,5454
+inicio,beginning,5455
+buscarme,Search me.,5456
+impresionado,impressed,5457
+estelar,stellar,5458
+pagas,paid.,5459
+álbum,album,5460
+rojos,RED.,5461
+jueces,judges,5462
+allen,allen,5463
+sufre,Suffer,5464
+internos,internal,5465
+casé,Casé.,5466
+teresa,Teresa,5467
+pudieran,They could,5468
+ola,wave,5469
+equivoca,mistake,5470
+desaparecida,disappeared,5471
+retrato,portrait,5472
+justa,fair,5473
+repugnante,disgusting,5474
+mentirosa,liar,5475
+uu,UU,5476
+mirado,looked,5477
+confesar,to confess,5478
+vacas,cows,5479
+deberá,must,5480
+rojas,ROJAS.,5481
+repetir,repeat,5482
+respiro,respite,5483
+cuya,whose,5484
+ganancias,Profits,5485
+disfrutando,Enjoying,5486
+comedia,comedy,5487
+boy,Boy.,5488
+chip,chip,5489
+amables,A friendly,5490
+inversión,investment,5491
+gemelos,Twins,5492
+minas,mines,5493
+falsos,false,5494
+times,Times,5495
+pat,PAT.,5496
+matarnos,kill us,5497
+cogí,I took,5498
+australia,Australia,5499
+seda,silk,5500
+malentendido,misunderstood,5501
+distintas,Differentos,5502
+diamante,Diamond,5503
+april,April.,5504
+cojo,lame,5505
+avergonzado,embarrassed,5506
+siguientes,following,5507
+agarrar,grab,5508
+comunicaciones,Communications,5509
+dirán,They will say,5510
+cobrar,collect,5511
+dificultades,difficulties,5512
+lápiz,pencil,5513
+pague,pay.,5514
+deberia,should,5515
+caiga,fall,5516
+tara,tare,5517
+christopher,Christopher,5518
+avenida,avenue,5519
+comenzamos,We started,5520
+seca,dry.,5521
+contentos,Happy,5522
+vivió,lived,5523
+hágalo,do it,5524
+que-,what-,5525
+bruno,Bruno.,5526
+llévate,Last,5527
+oculto,hidden,5528
+metes,metes.,5529
+soo,SOO.,5530
+principales,Main,5531
+mario,Mario,5532
+vic,Vic.,5533
+euros,euros.,5534
+salva,saved,5535
+mantengan,Maintain,5536
+entras,rose,5537
+manhattan,Manhattan,5538
+promesas,promises,5539
+explosivos,explosives,5540
+kennedy,Kennedy.,5541
+ataúd,coffin,5542
+cancelar,cancel,5543
+island,Island,5544
+excusas,excuses,5545
+emergencias,Emergencies,5546
+orgullosos,proudly,5547
+creerme,believe me,5548
+brooklyn,Brooklyn.,5549
+seguida,followed,5550
+busque,I searched,5551
+encendido,switched on,5552
+coro,chorus,5553
+urgencias,Emergency,5554
+tales,such,5555
+observa,Observe,5556
+manual,Handbook,5557
+privacidad,Privacy,5558
+ll,ll.,5559
+pasaré,I will go,5560
+recuperación,Recovery,5561
+cuartos,rooms,5562
+semejante,similar,5563
+sobra,surplus,5564
+oler,smell,5565
+presentado,presented,5566
+basado,based,5567
+paro,unemployment,5568
+dinos,tell us,5569
+tenerla,have it,5570
+lawrence,Lawrence,5571
+andrea,Andrea,5572
+modelos,Models,5573
+pida,Ask,5574
+saluda,greets,5575
+dejadme,Leave me.,5576
+comí,ate,5577
+nido,nest,5578
+curtis,curtis,5579
+plataforma,platform,5580
+benny,Benny,5581
+booth,Booth.,5582
+pam,Pam.,5583
+afortunadamente,Fortunately,5584
+entran,Enter,5585
+pagué,Pagué.,5586
+objeción,objection,5587
+reconoces,Recognizes,5588
+clan,clan,5589
+chance,chance,5590
+tokio,Tokyo.,5591
+preguntaste,Asked,5592
+vital,vital,5593
+vanessa,Vanessa.,5594
+vinieras,Vinames.,5595
+pañuelo,handkerchief,5596
+preso,prisoner,5597
+durar,to last,5598
+llevarnos,take us,5599
+esperé,Wait,5600
+trampas,trampas,5601
+quedaron,They were left,5602
+ned,Ned.,5603
+saludar,greet,5604
+prométeme,promise me,5605
+caen,Caen.,5606
+franklin,Franklin.,5607
+halloween,Halloween,5608
+donald,Donald.,5609
+aguarda,Aguarda.,5610
+causó,caused,5611
+darás,Darás,5612
+niebla,fog,5613
+psicópata,psychopath,5614
+rodeado,surrounded,5615
+invitar,invite,5616
+cal,lime,5617
+escucharlo,hear it,5618
+culpo,blame,5619
+vamonos,Let's go,5620
+colgado,strung up,5621
+goma,eraser,5622
+talla,size,5623
+oración,prayer,5624
+turner,Turner.,5625
+acércate,Come on,5626
+tomemos,TomE,5627
+maestros,Teachers,5628
+cómplice,accomplice,5629
+cercana,close,5630
+preguntan,Ask,5631
+preocupas,worries,5632
+saldré,I will go out,5633
+licor,liqueur,5634
+llevara,carry,5635
+teme,fear,5636
+ídolo,idol,5637
+sindicato,labor union,5638
+fallado,failed.,5639
+crane,Crane.,5640
+usé,Used.,5641
+simpson,Simpson,5642
+globo,balloon,5643
+blancas,White,5644
+audición,hearing,5645
+vigilar,look out,5646
+almohada,pillow,5647
+oido,hearing,5648
+rehabilitación,rehabilitation,5649
+increible,amazing,5650
+galaxia,galaxy,5651
+long,Long.,5652
+curar,cure,5653
+elefante,elephant,5654
+robé,Robé.,5655
+guardián,guardian,5656
+investigaciones,research,5657
+fuéramos,We were,5658
+tejido,tissue,5659
+muñecas,dolls,5660
+llamaría,would call,5661
+anderson,Anderson.,5662
+atacado,attacked,5663
+vagina,vagina,5664
+samantha,Samantha.,5665
+levantado,gotten up,5666
+tabla,table,5667
+monos,monkeys,5668
+escudo,shield,5669
+extranjeros,foreign,5670
+denise,Denise.,5671
+bañera,bathtub,5672
+pop,pop,5673
+ayudarlos,Help them,5674
+moderna,modern,5675
+blue,Blue.,5676
+interrogatorio,interrogation,5677
+rapido,Quick,5678
+merecen,Deserve,5679
+bonitos,Nice,5680
+angel,Angel,5681
+g,G.,5682
+woo,Woo.,5683
+brasil,Brazil,5684
+freddie,Freddie.,5685
+asistencia,assistance,5686
+pagará,pay to,5687
+novato,rookie,5688
+avisar,warn,5689
+hemorragia,hemorrhage,5690
+conviene,Conveniently,5691
+ajá,AHA,5692
+perrito,puppy,5693
+créame,CRÉAME.,5694
+olas,waves,5695
+sabré,Sabré.,5696
+caí,I fell down,5697
+manejarlo,Handle it,5698
+fenómeno,phenomenon,5699
+quejas,complaints,5700
+coca,Coke,5701
+persiguiendo,pursuing,5702
+lotería,lottery,5703
+acerques,ACRACKERS,5704
+certificado,certificate,5705
+bigote,moustache,5706
+aca,here,5707
+bondad,goodness,5708
+aterrizar,to land,5709
+misiles,Missiles,5710
+planos,blueprints,5711
+despierte,awake,5712
+despedirme,say goodbye,5713
+connie,Connie.,5714
+avance,Advance,5715
+sacarme,removal,5716
+prepárense,Prepare,5717
+tumor,tumor,5718
+camarera,waitress,5719
+herencia,inheritance,5720
+vaquero,cowboy,5721
+trenes,trains,5722
+largos,long,5723
+patria,homeland,5724
+ponía,Put,5725
+enviando,sending,5726
+apagado,off,5727
+rastrear,Track,5728
+acababa,I ended up,5729
+campeonato,championship,5730
+técnico,technical,5731
+injusto,unfair,5732
+activo,active,5733
+pesadillas,nightmares,5734
+galería,Gallery,5735
+drew,Drew.,5736
+sacando,removing,5737
+vió,he saw,5738
+tanques,tanks,5739
+enseña,Teach,5740
+editor,editor,5741
+liberación,release,5742
+interesantes,interesting,5743
+comenzaron,Beginning,5744
+quinta,fifth,5745
+levante,I raised,5746
+pesa,weight,5747
+responda,reply,5748
+lance,throw,5749
+pondría,War,5750
+resistir,to resist,5751
+hueles,you smell,5752
+bajen,Bajen,5753
+hermosos,beautiful,5754
+arriesgado,risky,5755
+mueres,Duffers,5756
+duke,Duke.,5757
+agallas,guts,5758
+verlas,see them,5759
+sentirlo,feel it,5760
+faltaba,lacked.,5761
+cindy,Cindy.,5762
+armados,armed,5763
+volumen,volume,5764
+hunter,Hunter,5765
+bailarina,dancer,5766
+huyó,Fuyó,5767
+edición,edition,5768
+atreve,dare,5769
+ganan,Ganan.,5770
+debate,debate,5771
+cables,cables,5772
+necesitará,will need,5773
+compraré,I'll buy,5774
+odian,Odian,5775
+poeta,poet,5776
+cortes,cuts,5777
+doña,Mrs,5778
+manta,blanket,5779
+competir,to compete,5780
+nazis,Nazi.,5781
+fritas,Fried.,5782
+dentista,dentist,5783
+amamos,we love,5784
+encontraba,He found,5785
+menú,menu,5786
+may,may,5787
+necesariamente,necessarily,5788
+negras,blacks,5789
+descubrimiento,discovery,5790
+organizado,organized,5791
+apetito,appetite,5792
+cameron,Cameron,5793
+traen,bring.,5794
+muriera,Muriera,5795
+visual,visual,5796
+acostado,lying down,5797
+ángulo,angle,5798
+inferior,lower,5799
+sydney,Sydney.,5800
+incapaz,be unable,5801
+volante,steering wheel,5802
+sierra,Mountain range,5803
+probando,testing,5804
+distinta,Distantly,5805
+sentiría,I would feel,5806
+abuso,abuse,5807
+celebración,celebration,5808
+diente,tooth,5809
+tuyas,yours,5810
+humilde,humble,5811
+discutiendo,arguing,5812
+gene,gene,5813
+suicidó,suicide,5814
+disposición,provision,5815
+conversaciones,Conversations,5816
+lámpara,lamp,5817
+sabrán,will know,5818
+métodos,methods,5819
+marcos,frames,5820
+huéspedes,Guests,5821
+crean,Crean.,5822
+preocupen,Worry,5823
+direcciones,addresses,5824
+baker,Baker.,5825
+planetas,Planets,5826
+determinar,decide,5827
+condesa,countess,5828
+ópera,Opera,5829
+corten,Corten.,5830
+peligrosos,dangerous,5831
+asesinados,murdered,5832
+joy,Joy.,5833
+medicinas,Medicines,5834
+rory,Rory.,5835
+mansión,Mansion,5836
+torres,towers,5837
+lecciones,Lessons,5838
+sentirte,feel you,5839
+comprando,buying,5840
+equilibrio,Balance,5841
+trevor,Trevor.,5842
+lograrlo,to achieve it,5843
+culpar,to blame,5844
+sacas,Sacks,5845
+crecí,I grew up,5846
+certeza,certainty,5847
+observar,observe,5848
+molestando,bothering,5849
+supervivencia,survival,5850
+nacer,be born,5851
+hechas,made,5852
+sacaron,They took out,5853
+p,P.,5854
+olvidas,Forget,5855
+escondiendo,hiding,5856
+can,dog,5857
+famosos,Famous,5858
+melissa,Melissa.,5859
+ias,IAS.,5860
+aterrizaje,landing,5861
+girar,to turn,5862
+aceptarlo,Accept it,5863
+danza,dance,5864
+little,Little,5865
+métete,Métete.,5866
+hambriento,hungry,5867
+mates,math,5868
+ordenado,tidy,5869
+calcetines,socks,5870
+confuso,confused,5871
+enamorados,In love,5872
+j.,j.,5873
+moderno,modern,5874
+tocas,touches,5875
+responsables,responsible,5876
+tabaco,tobacco,5877
+registrado,registered,5878
+balón,ball,5879
+top,top,5880
+boletos,tickets,5881
+lentes,glasses,5882
+consejero,adviser,5883
+chistes,jokes,5884
+guerras,Wars.,5885
+sacaré,I took out,5886
+coordenadas,coordinate,5887
+vergonzoso,shameful,5888
+distintos,Differentos,5889
+fingiendo,pretending,5890
+significaba,meant,5891
+mensajero,delivery courier,5892
+judy,Judy,5893
+test,test,5894
+cortesía,courtesy,5895
+campus,campus,5896
+compro,I buy,5897
+bingo,bingo,5898
+asumo,I assume,5899
+j,J.,5900
+impulso,impulse,5901
+pensaría,I would think,5902
+venden,Do you sell,5903
+contratado,hired,5904
+conozcas,Meet.,5905
+utilizando,using,5906
+chan,Chan.,5907
+propiedades,Properties,5908
+explicaré,I will explain,5909
+signo,sign,5910
+disparando,shooting up,5911
+ajedrez,Chess,5912
+aseguraré,I will ensure,5913
+crítica,review,5914
+necesitabas,you needed,5915
+británicos,British,5916
+ciega,blind,5917
+cordero,mutton,5918
+democracia,democracy,5919
+rastros,trails,5920
+protege,protects,5921
+papeleo,paperwork,5922
+cubo,Cube,5923
+judicial,judicial,5924
+sid,Sid.,5925
+masaje,massage,5926
+beca,scholarship,5927
+verse,see.,5928
+miseria,misery,5929
+conocías,You knew,5930
+contenido,contents,5931
+razon,reason,5932
+sana,fury,5933
+ritual,ritual,5934
+aliados,allies,5935
+orina,urine,5936
+ofender,to offend,5937
+hilo,thread,5938
+seattle,Seattle,5939
+subido,uploaded,5940
+eche,ECHE.,5941
+quedaría,I would be there,5942
+enfermería,Nursing,5943
+entienda,in shop,5944
+matrícula,enrollment,5945
+jung,Jung.,5946
+dejarán,They will leave,5947
+a.m.,A.M.,5948
+raya,stripe,5949
+superiores,superior,5950
+islas,Islands,5951
+dispuestos,ready,5952
+mascota,pet,5953
+ascenso,ascent,5954
+comenzando,starting,5955
+delicado,delicate,5956
+incluye,It includes,5957
+revisa,check out,5958
+entraron,entered,5959
+estabamos,We were,5960
+llevaste,you took,5961
+duermes,Do you sleep,5962
+neal,Neal.,5963
+empuja,Push,5964
+atado,tied,5965
+telegrama,telegram,5966
+oir,hear,5967
+sorprendió,Surprised,5968
+christian,christian,5969
+pegó,stuck,5970
+salvarte,save you,5971
+deseaba,I wanted,5972
+pisos,floors,5973
+soñar,Sound,5974
+interna,internal,5975
+avanzar,advance,5976
+guy,Guy.,5977
+mercancía,commodity,5978
+localizar,to locate,5979
+choque,shock,5980
+desesperada,desperately,5981
+d.,d.,5982
+águila,Eagle,5983
+rebeldes,rebel,5984
+apunta,aim,5985
+troy,Troy,5986
+líquido,liquid,5987
+llegaré,I will arrive at,5988
+rompí,I broke up,5989
+dispararle,shoot,5990
+bailey,Bailey.,5991
+jodas,Jodas.,5992
+carbón,Coal,5993
+regresé,I am back,5994
+secuestrado,kidnaped,5995
+aprendiendo,learning,5996
+sandra,Sandra.,5997
+ayúdeme,Help me,5998
+cocinero,Cook,5999
+quitarme,removal,6000
+entraste,Entraste.,6001
+katherine,Katherine.,6002
+medicación,medication,6003
+baños,toilets,6004
+creías,You believed.,6005
+ácido,acid,6006
+agresión,aggression,6007
+lex,Lex.,6008
+consulta,consultation,6009
+nicky,Nicky,6010
+alison,Alison.,6011
+jan,Jan.,6012
+detenerme,Stop,6013
+órganos,Organs,6014
+zach,Zach.,6015
+situaciones,situations,6016
+barro,mud,6017
+jódete,Fucky.,6018
+jazz,jazz,6019
+debamos,We should,6020
+amber,Amber,6021
+cleveland,Cleveland.,6022
+múltiples,multiple,6023
+cuentan,They count.,6024
+apártate,back off,6025
+cretino,cretin,6026
+brooke,Brooke.,6027
+gays,gays,6028
+obtuvo,obtained.,6029
+min,min,6030
+drake,Drake.,6031
+multa,penalty fee,6032
+anillos,rings,6033
+kirk,Kirk.,6034
+quedara,staya.,6035
+claudia,Claudia,6036
+hacerles,Do,6037
+trabajador,worker,6038
+acabaron,They finished,6039
+quirófano,Chirophan,6040
+aéreo,aerial,6041
+carmen,Carmen,6042
+misa,mass,6043
+riqueza,wealth,6044
+separado,separated,6045
+toneladas,tons,6046
+criada,maid,6047
+ida,Going,6048
+madison,Madison,6049
+observación,observation,6050
+deténgase,Stop,6051
+asistir,attend,6052
+compañías,Companies,6053
+mm-hmm,mm-hmm.,6054
+freddy,Freddy,6055
+voluntario,voluntary,6056
+puñado,handful,6057
+profundidad,depth,6058
+ligero,light,6059
+cuadros,picture,6060
+incendios,fires,6061
+meg,Meg,6062
+afortunada,fortunate,6063
+pega,job,6064
+c.,c.,6065
+añadir,Add,6066
+harrison,Harrison.,6067
+músculos,muscles,6068
+reunirse,get together,6069
+sheila,sheila,6070
+sacamos,We took out,6071
+depresión,depression,6072
+afueras,outskirts,6073
+confirmado,confirmed,6074
+sordo,deaf,6075
+vano,vain,6076
+brigada,brigade,6077
+diremos,We will say,6078
+perdonar,forgive,6079
+gigantes,Giants.,6080
+pila,battery,6081
+presentes,present,6082
+bahía,bay,6083
+lesbiana,lesbian,6084
+ayuntamiento,town hall,6085
+ligera,lighto.,6086
+acceder,to access,6087
+comprometido,engaged,6088
+sentar,sit,6089
+fáciles,easy,6090
+píldoras,pills,6091
+preocupaciones,Concerns,6092
+eve,EVE.,6093
+compre,I bought,6094
+desean,Desire,6095
+ansioso,anxious,6096
+despertado,woken up,6097
+mantenerte,keep you,6098
+suplico,plead,6099
+with,with.,6100
+escúcheme,listen to me,6101
+demos,Demos.,6102
+stella,Stella.,6103
+pierden,they lose,6104
+ii,II.,6105
+olvidarlo,Forget it,6106
+mencionado,mentioned.,6107
+interno,internal,6108
+pacífico,peaceful,6109
+obligación,obligation,6110
+hablará,to talk to,6111
+comunista,communist,6112
+osos,Bears,6113
+espías,spies,6114
+ohh,Ohh,6115
+arreglaré,I will arrange,6116
+cuentes,Caletes.,6117
+coincide,match,6118
+servido,served,6119
+asegurarnos,Secure us,6120
+mick,Mick,6121
+espectacular,spectacular,6122
+filosofía,philosophy,6123
+simpático,nice,6124
+contraseña,password,6125
+pillado,cautious,6126
+naomi,Naomi,6127
+volviera,Return,6128
+levantarse,get up,6129
+supuestamente,supposedly,6130
+veredicto,verdict,6131
+regresará,return,6132
+cubre,it covers,6133
+jabón,soap,6134
+egipto,Egypt,6135
+terminemos,Let us,6136
+simples,Simple,6137
+concentración,concentration,6138
+dejarnos,leave us,6139
+déjanos,leave us,6140
+factura,invoice,6141
+zack,Zack.,6142
+cargado,loaded,6143
+submarino,submarine,6144
+expertos,experts,6145
+cazadores,Hunters,6146
+afecto,affected,6147
+sonreír,smile,6148
+volvía,I returned to,6149
+protegiendo,protecting,6150
+dejad,Leavement,6151
+desconocida,unknown,6152
+one,One.,6153
+oírte,To hear you,6154
+cristiano,Christian,6155
+víctor,Victor,6156
+invasión,invasion,6157
+maricón,fagot,6158
+permanece,it remains,6159
+jon,Jon.,6160
+botones,buttons,6161
+habríamos,We would have,6162
+criado,raised,6163
+solucionar,sort out,6164
+dawson,Dawson,6165
+despertó,woke up,6166
+oriente,East,6167
+especialista,specialist,6168
+imbéciles,imbeciles,6169
+mantenerse,keep,6170
+alexander,Alexander,6171
+suiza,Switzerland,6172
+tapa,top,6173
+alla,there,6174
+votación,vote,6175
+shaw,Shaw.,6176
+lloyd,Lloyd.,6177
+heredero,inheritor,6178
+atravesar,cross,6179
+adams,Adams.,6180
+favoritos,Favorites.,6181
+traerá,will bring,6182
+engañando,cheating,6183
+hamburguesas,burgers,6184
+esfuerzos,effort,6185
+diarios,Daily,6186
+arrogante,arrogant,6187
+moriré,I will die,6188
+excitante,exciting,6189
+entrenar,to train,6190
+maneja,handle,6191
+permíteme,Allow me,6192
+creíste,Creit,6193
+bosques,Forests,6194
+insectos,insects,6195
+liberado,released,6196
+irene,Irene.,6197
+brillo,brightness,6198
+becky,Becky.,6199
+romántica,romantic.,6200
+corresponde,correspondence,6201
+ruby,Ruby.,6202
+harvard,Harvard.,6203
+debías,Should,6204
+choi,Choi,6205
+molestado,troubled,6206
+rosie,Rosie.,6207
+admiro,I admire,6208
+georgia,Georgia,6209
+costillas,ribs,6210
+bernard,Bernard.,6211
+valentín,Valentine,6212
+llenas,Full,6213
+retirado,retired,6214
+anciana,old woman,6215
+escribiste,you wrote,6216
+hablen,talk,6217
+concéntrate,Concentrate,6218
+matamos,We kill,6219
+fuegos,Fire,6220
+suban,Upload.,6221
+sucios,dirty,6222
+divertirse,have fun,6223
+astuto,astute,6224
+hueco,hole,6225
+pariente,relative,6226
+oficinas,Offices,6227
+reed,Reed.,6228
+coja,COJA.,6229
+complicada,complicated,6230
+acercarse,getting closer,6231
+oficio,job,6232
+tejado,roof,6233
+periodistas,journalists,6234
+dorado,Golden,6235
+marinero,sailor,6236
+sentidos,senses,6237
+torneo,tournament,6238
+kit,Kit.,6239
+encantaba,I loved it,6240
+this,Este,6241
+hacha,axe,6242
+palmer,Palmer.,6243
+pasteles,cakes,6244
+despedir,fire,6245
+enteró,whole,6246
+echaré,I will cast,6247
+destrozado,shattered,6248
+marchó,Maró,6249
+miranda,Miranda.,6250
+computadoras,computers,6251
+burro,donkey,6252
+etiqueta,hashtag,6253
+sharon,Sharon.,6254
+marcharse,leave,6255
+produce,produces,6256
+naciones,nations,6257
+referencia,reference,6258
+polo,pole,6259
+maldad,evil,6260
+quedaremos,We will stay,6261
+jodidos,Fucked,6262
+aprendiste,You learned,6263
+perry,Perry,6264
+divirtiendo,Divirating,6265
+costo,cost,6266
+recorrido,route,6267
+retrasado,delayed,6268
+arnold,Arnold.,6269
+lograste,You achieved.,6270
+convertirme,convert me.,6271
+núcleo,nucleus,6272
+controlado,checked,6273
+pm,p.m,6274
+bell,Bell.,6275
+pidieron,They asked,6276
+conseguiremos,We will get,6277
+acuerda,Agreement,6278
+grabado,Recorded,6279
+cadenas,chains,6280
+cálmese,calm down,6281
+reducir,reduce,6282
+bajos,low,6283
+honorable,honorable,6284
+comidas,foods,6285
+bodega,cellar,6286
+funcionado,functional,6287
+traficante,trafficker,6288
+amenazó,threatened,6289
+renta,rent,6290
+saliera,Salonement,6291
+posiciones,Positions,6292
+tiros,shooting,6293
+toco,touch,6294
+metiendo,Besting,6295
+tímido,shy,6296
+conveniente,convenient,6297
+cerrados,Closed,6298
+ie,IE.,6299
+identificado,identified,6300
+inocencia,innocence,6301
+pinturas,Paintings.,6302
+estadio,Stadium,6303
+elemento,element,6304
+marrón,Brown,6305
+supuse,he supposed,6306
+retrocede,Recessed,6307
+sillas,chairs,6308
+individuo,individual,6309
+sorpresas,Surprises,6310
+adicto,addict,6311
+cabrones,Cabronos.,6312
+terapeuta,therapist,6313
+ridícula,ridicule,6314
+busquen,Look,6315
+derrota,defeat,6316
+traerlo,bring it,6317
+hazte,Make yourself,6318
+finn,Finn.,6319
+morirás,You will die,6320
+orilla,Bank,6321
+mientas,Limites.,6322
+construyó,Built,6323
+escuchan,they listen,6324
+chimenea,chimney,6325
+febrero,February,6326
+respondió,answered,6327
+recoge,Collect,6328
+wallace,Wallace.,6329
+doyle,Doyle,6330
+inglesa,English,6331
+mueras,Deals,6332
+cumple,Compliance,6333
+muevan,Move,6334
+muertas,dead,6335
+dormí,I slept.,6336
+limpiando,Cleaning,6337
+confidencial,confidential,6338
+suite,suite room,6339
+caleb,Caleb.,6340
+piratas,pirates,6341
+reparar,repair,6342
+dorothy,Dorothy.,6343
+rehén,hostage,6344
+manchas,stains,6345
+bud,Bud.,6346
+cicatriz,scar,6347
+borrar,delete,6348
+fundación,Foundation,6349
+robbie,Robbie.,6350
+ciencias,Sciences,6351
+iniciar,Start,6352
+reservado,reserved,6353
+justamente,justly,6354
+conocidos,well-known,6355
+niego,Ingo.,6356
+ningun,No.,6357
+descubre,discover,6358
+adelantado,advanced,6359
+blair,Blair.,6360
+aah,AAH.,6361
+sábanas,bed sheets,6362
+argumento,argument,6363
+dueños,owners,6364
+castle,Castle,6365
+viajando,Traveling,6366
+metiste,metistene,6367
+terminaron,ended,6368
+sip,Yep,6369
+esperábamos,we expected,6370
+flash,flash,6371
+alec,Alec.,6372
+enseño,I teach,6373
+fox,Fox,6374
+phillip,Phillip.,6375
+cruzado,crossed,6376
+roba,Robe.,6377
+tradicional,traditional,6378
+creció,grew up,6379
+cobertura,coverage,6380
+pillo,rascal,6381
+escritura,writing,6382
+entere,entire,6383
+billetera,wallet,6384
+hacíamos,We did,6385
+vapor,steam,6386
+cosecha,harvest,6387
+generaciones,generations,6388
+wyatt,Wyatt.,6389
+capturado,caught,6390
+cuñado,brother-in-law,6391
+damon,Damon.,6392
+sagrada,Sacreda.,6393
+sonidos,Sounds,6394
+eeuu,USA,6395
+tranquilidad,tranquillity,6396
+gatito,little cat,6397
+periodo,period,6398
+ocupo,occupation,6399
+traicionado,betrayed,6400
+furia,fury,6401
+recuperado,recovered,6402
+cuide,take care of,6403
+tortuga,tortoise,6404
+patty,Patty.,6405
+piden,Ask,6406
+mo,Mo.,6407
+ficción,fiction,6408
+nikki,Nikki.,6409
+fuí,I went,6410
+milagros,miracles,6411
+soñado,dreamed of,6412
+pis,pee,6413
+andas,Andas,6414
+ovejas,sheep,6415
+granero,barn,6416
+docenas,dozens,6417
+quienquiera,whoever,6418
+juegan,they play,6419
+lógico,logical,6420
+disciplina,discipline,6421
+revisando,reviewing,6422
+recibiste,did you receive,6423
+retirarse,backing out,6424
+noah,Noah,6425
+salvador,savior,6426
+privilegio,privilege,6427
+secuencia,sequence,6428
+pensaré,I'll think,6429
+antiguas,ancient,6430
+lydia,Lydia.,6431
+semillas,seeds,6432
+afganistán,Afghanistan,6433
+ponernos,put on,6434
+aprovechar,to take advantage of,6435
+falda,skirt,6436
+mikey,Mikey.,6437
+morris,Morris,6438
+shakespeare,Shakespeare.,6439
+tendrían,They would have,6440
+acompaño,accompaniment,6441
+diferencias,differences,6442
+escocia,Scotland,6443
+menuda,petite,6444
+utilizado,used,6445
+linea,line,6446
+pelos,hairs,6447
+circuito,circuit,6448
+agradecida,grateful,6449
+richie,Richie.,6450
+up,Up.,6451
+mantuvo,kept up,6452
+aprobación,approval,6453
+novedad,novelty,6454
+impedir,prevent,6455
+ego,ego,6456
+conocerle,Knowledge,6457
+imaginado,imagined,6458
+protegido,protected,6459
+enfermeras,nurses.,6460
+gustaria,would like,6461
+pirata,pirate,6462
+mantenido,kept,6463
+burke,Burke.,6464
+usarla,use,6465
+inspiración,inspiration,6466
+aterrador,scary,6467
+lindsay,Lindsay.,6468
+dolares,Dollars,6469
+logré,I achieved,6470
+borrachos,drunk,6471
+estaciones,seasons,6472
+cheques,Checks,6473
+norma,rule,6474
+mecánico,mechanic,6475
+perdedores,Losers,6476
+houston,Houston,6477
+polis,polis,6478
+reconocido,recognized,6479
+videos,videos,6480
+gripe,flu,6481
+ataca,Attack,6482
+sacarle,Remove,6483
+existir,exist,6484
+jesus,Jesus,6485
+thompson,Thompson.,6486
+bus,bus,6487
+precios,prices,6488
+inevitable,inevitable,6489
+pusimos,Pusamos.,6490
+cuba,Cuba,6491
+estúpidas,stupid,6492
+matarlos,Kill them,6493
+lastimado,hurt,6494
+delitos,crimes,6495
+espantoso,frightening,6496
+comience,comience,6497
+quitarle,remove,6498
+postal,Postcard,6499
+irak,Iraq,6500
+claridad,clarity,6501
+demostrado,demonstrated,6502
+acusaciones,accusations,6503
+hal,Hal.,6504
+hans,Hans.,6505
+bicho,bug,6506
+beverly,Beverly.,6507
+sencilla,simple,6508
+saltó,jump,6509
+chofer,driver,6510
+tomarlo,Take it,6511
+creéis,Believe,6512
+encantará,Enchant,6513
+dr,Dr.,6514
+físicamente,physically,6515
+occidental,western,6516
+ejecutivo,executive,6517
+escondite,hiding place,6518
+aumentar,increase,6519
+entregado,delivered,6520
+mantenerme,keep me,6521
+desee,Wish,6522
+femenina,female,6523
+romeo,Romeo,6524
+molestarte,bother you,6525
+torpe,clumsy,6526
+maurice,Maurice.,6527
+partículas,particles,6528
+enano,dwarf,6529
+cerró,Hill,6530
+pásame,pass me,6531
+delgado,thin,6532
+escuchamos,we hear,6533
+denuncia,complaint,6534
+dispare,romits,6535
+vasos,cups,6536
+serpientes,snakes,6537
+experimentos,experiments,6538
+apoyar,to support,6539
+obsesionado,obsessed,6540
+retirar,remove,6541
+encontrarnos,Find us,6542
+dada,Dadaist,6543
+cállese,Shut up,6544
+aquellas,those,6545
+detención,detention,6546
+tristes,sad,6547
+perímetro,perimeter,6548
+bloqueo,blocking,6549
+preguntaré,I will ask,6550
+intenso,intense,6551
+pierce,pierce,6552
+construyendo,Building,6553
+principalmente,mainly,6554
+suelen,They usually,6555
+portátil,portable,6556
+vagabundo,homeless,6557
+comemos,we eat,6558
+pueblos,villages,6559
+casamos,We married,6560
+investigador,investigator,6561
+suministros,Supplies,6562
+putos,Putos.,6563
+preocupaba,I worried,6564
+conversar,to converse,6565
+daphne,Daphne.,6566
+valientes,brave,6567
+sebastian,Sebastian,6568
+mcgee,McGee.,6569
+hockey,hockey,6570
+vendré,I'll come,6571
+vicepresidente,vice president,6572
+transferencia,transfer,6573
+garantía,warranty,6574
+torta,cake,6575
+tremendo,tremendous,6576
+entremos,Enter,6577
+devolveré,I will return,6578
+barata,cheap,6579
+alfred,Alfred,6580
+extraterrestres,extraterrestrials,6581
+pegar,paste,6582
+comprobado,checked,6583
+isaac,Isaac,6584
+esperaremos,we will wait,6585
+stark,Stark.,6586
+costará,it will cost,6587
+descanse,Rest,6588
+dulzura,sweetness,6589
+escondidas,hidden,6590
+lastimar,hurt,6591
+pasaje,passage,6592
+acercó,approached,6593
+encontrarse,meet,6594
+negar,deny,6595
+pensaron,They thought,6596
+vulnerable,vulnerable,6597
+lenta,slow,6598
+atacaron,Attacked,6599
+quite,remove,6600
+suéltalo,Let it go,6601
+manny,Manny,6602
+mercedes,Mercedes,6603
+portal,portal,6604
+necesitarás,you will need to,6605
+pudiese,I could,6606
+linterna,flashlight,6607
+alemana,German,6608
+lindos,cute,6609
+zorro,Fox,6610
+vestuario,locker room,6611
+evidencias,evidence,6612
+garantizo,guarantee,6613
+criar,raise,6614
+colocar,place,6615
+auténtica,authentic,6616
+pendejo,stupid,6617
+ordenar,order,6618
+debimos,We must,6619
+cabe,Cabe.,6620
+alimento,food,6621
+pilotos,pilots,6622
+amiguito,friendly,6623
+gorra,Cap,6624
+revisión,revision,6625
+exacta,exact,6626
+hanna,Hanna,6627
+dong,dong.,6628
+vehículos,vehicles,6629
+presentarte,introduce you,6630
+recibirá,will receive,6631
+khan,Khano.,6632
+evidentemente,evidently,6633
+joel,Joel.,6634
+senado,senate,6635
+atras,behind,6636
+caramelos,candies,6637
+ofrezco,Offer,6638
+trataré,I will try,6639
+er,er.,6640
+usaste,you used,6641
+déme,give me,6642
+salvación,salvation,6643
+cobra,cobra,6644
+baloncesto,basketball,6645
+pacto,covenant,6646
+aceptó,I agree,6647
+vientre,belly,6648
+jessie,Jessie.,6649
+yang,yang,6650
+tuviéramos,We had,6651
+callar,to silence,6652
+deliciosa,delicious,6653
+mirarme,look at me.,6654
+opina,Opinion,6655
+roll,Roll.,6656
+negó,He denied,6657
+rubio,blond,6658
+boyd,Boyd.,6659
+tomate,tomatoes,6660
+césped,grass,6661
+inicial,initial,6662
+aplauso,applause,6663
+centímetros,centimeters,6664
+ordenes,Orders,6665
+peggy,Peggy.,6666
+ingresos,income,6667
+homero,homer,6668
+accidentes,Accidents,6669
+declarar,to declare,6670
+canalla,scoundrel,6671
+oyeron,Oyeron.,6672
+douglas,Douglas.,6673
+ordeno,order,6674
+jovencito,youngster,6675
+hospitales,Hospitals,6676
+engañó,cheated,6677
+esperes,Speakers,6678
+respetar,respect,6679
+filmar,to film,6680
+rana,frog,6681
+mosca,fly,6682
+vecina,neighbor,6683
+ansiedad,anxiety,6684
+puño,fist,6685
+veis,Veis.,6686
+premios,awards,6687
+leerlo,reading it,6688
+rama,branch,6689
+perderte,lose,6690
+envíe,SEND.,6691
+retirada,withdrawal,6692
+averigua,Find out,6693
+curva,curve,6694
+brilla,shine,6695
+debas,Should,6696
+aventuras,adventure,6697
+ofrecido,offered.,6698
+considero,I consider,6699
+romano,Roman,6700
+portero,goalkeeper,6701
+sospechas,suspicion,6702
+elaine,Elaine.,6703
+sepamos,Let's know,6704
+bobo,fool,6705
+algodón,cotton,6706
+sexto,sixth,6707
+bajó,under,6708
+crítico,critical,6709
+soñé,dreamer,6710
+eterno,eternal,6711
+entusiasmo,enthusiasm,6712
+instalaciones,installations,6713
+manejo,driving,6714
+saludo,greeting,6715
+compramos,we bought,6716
+ultimo,latest,6717
+posee,has,6718
+castigado,punished,6719
+cohete,rocket,6720
+gps,GPS.,6721
+disculpo,apology,6722
+extrañar,miss,6723
+salvarme,save me.,6724
+nazi,Nazi,6725
+sostén,support,6726
+fórmula,formula,6727
+limón,lemon,6728
+erica,Erica.,6729
+jamón,Ham,6730
+boom,Boom,6731
+sensores,sensors,6732
+esencia,essence,6733
+instrumento,instrument,6734
+renuncia,resignation,6735
+elegí,I chose,6736
+fusión,fusion,6737
+atrevas,Darey.,6738
+intentaste,you tried,6739
+suicida,suicide,6740
+rebelde,rebel,6741
+vago,lazy,6742
+vías,Roads,6743
+samuel,Samuel.,6744
+camaradas,comrades,6745
+winston,Winston.,6746
+asustó,Asset,6747
+revelar,to reveal,6748
+sugerencia,suggestion,6749
+srta,Ms,6750
+echas,Echas.,6751
+caca,caca,6752
+shirley,Shirley,6753
+legales,Legal,6754
+legalmente,legally,6755
+clyde,Clyde.,6756
+won,won,6757
+prostitutas,prostitutes.,6758
+promedio,average,6759
+tela,cloth,6760
+kathy,Kathy.,6761
+superado,overcome,6762
+aires,Aires.,6763
+ardiendo,ablaze,6764
+alturas,heights,6765
+preferido,favorite,6766
+arrestar,arrest,6767
+respirando,breathing.,6768
+sonaba,It sounded,6769
+especialidad,specialty,6770
+rocky,Rocky,6771
+griego,Greek,6772
+conservar,keep,6773
+huelo,smear,6774
+crucero,cruise,6775
+esencial,essential,6776
+diviértete,have fun,6777
+pendientes,slopes,6778
+cerradura,lock,6779
+récord,record,6780
+aparecen,appear,6781
+atascado,stuck,6782
+distracción,distraction,6783
+camas,Beds,6784
+acordamos,we agreed,6785
+supermercado,Supermarket,6786
+tucker,Tucker.,6787
+echaron,Echaron,6788
+tomarme,take,6789
+caramelo,candy,6790
+bastantes,enough,6791
+liras,Liras.,6792
+lees,Lees.,6793
+extraordinaria,extraordinary,6794
+arranca,Starts,6795
+manejando,Managing,6796
+vendrías,Vendors,6797
+enviaste,you sent,6798
+barnes,Barnes,6799
+manada,herd,6800
+llamaban,They called,6801
+bienestar,welfare,6802
+hugo,Hugo,6803
+galleta,cracker,6804
+encantar,love,6805
+fiscalía,Prosecutor's Office,6806
+reunido,gathered,6807
+lola,Lola,6808
+fumando,smoking,6809
+ríes,Ríes.,6810
+enrique,Enrique,6811
+mediante,through,6812
+bishop,Bishop.,6813
+expresar,express,6814
+sientan,Sent.,6815
+tierno,Tender,6816
+llamaremos,We will call,6817
+valen,Valen,6818
+ginebra,Geneva,6819
+levantó,I raise,6820
+políticas,Policies,6821
+interesan,Interested,6822
+deberias,you should,6823
+pistolas,pistols,6824
+agotado,Exhausted,6825
+especies,species,6826
+científica,scientific,6827
+llamará,call to,6828
+oscuras,dark,6829
+herir,hurt,6830
+entrevistas,interviews,6831
+competición,competition,6832
+materiales,materials,6833
+acostarse,lie,6834
+arruinó,Ruined,6835
+brutal,brutal,6836
+responsabilidades,Responsibilities,6837
+glenn,Glenn.,6838
+guardaespaldas,bodyguard,6839
+pretende,aims to,6840
+inyección,injection,6841
+adora,adore,6842
+arregla,arrangement,6843
+flecha,arrow,6844
+mudó,Mute,6845
+armadura,armor,6846
+advertí,I warned,6847
+necesaria,needed,6848
+mañanas,mornings,6849
+cortinas,curtains,6850
+cruce,crossing,6851
+músico,musician,6852
+tire,Tire.,6853
+parecían,They seemed,6854
+serios,SERIOUS,6855
+escoria,human waste,6856
+morirán,You will die,6857
+coco,coconut,6858
+sullivan,Sullivan.,6859
+encontraría,would find,6860
+marta,Martha,6861
+nevera,fridge,6862
+sonriendo,smiling,6863
+beach,Beach,6864
+decides,decides,6865
+pagarle,pay him.,6866
+sorprendida,Surprised,6867
+dejarlos,leave them,6868
+usualmente,usually,6869
+aceptas,Accepts,6870
+culpables,guilty.,6871
+sacarla,Remove it,6872
+cigarro,cigar,6873
+lindas,cute,6874
+declaraciones,Statements,6875
+honrado,honored,6876
+farmacia,pharmacy,6877
+bretaña,Brittany,6878
+sentirás,You will feel,6879
+gwen,Gwen.,6880
+obispo,bishop,6881
+agradecer,to thank,6882
+maletero,trunk,6883
+tocaba,I played,6884
+dallas,Dallas.,6885
+lamentablemente,Unfortunately,6886
+tenias,You had,6887
+vivas,Live,6888
+queden,Say,6889
+tess,tes,6890
+murray,Murray.,6891
+ilegales,illegal,6892
+específico,specific,6893
+salchicha,sausage,6894
+maravillas,Wonders,6895
+empezaste,You started,6896
+previsto,provided,6897
+poderosos,powerful,6898
+electrónico,electronic,6899
+delincuente,offender,6900
+cogeré,I will take,6901
+trabaje,Work,6902
+raj,Raj.,6903
+cruzando,crossing,6904
+vendo,I sell,6905
+fotógrafo,photographer,6906
+leon,Lion,6907
+compartimos,we share,6908
+crecimiento,increase,6909
+próximas,upcoming,6910
+fracasado,failed,6911
+serena,serene,6912
+mantenimiento,maintenance,6913
+ardiente,burning,6914
+acompañe,Accompany,6915
+protector,protective,6916
+abiertas,open,6917
+portada,cover page,6918
+expulsado,expelled,6919
+comprendido,understood,6920
+est,its T,6921
+bandeja,tray,6922
+comunes,Common,6923
+envidia,envy,6924
+marcado,marked,6925
+vacías,empty,6926
+evans,Evans,6927
+ballet,ballet,6928
+traerte,Breakfast,6929
+literatura,literature,6930
+alcanza,achieves,6931
+bajado,gone down,6932
+ahh,ahh,6933
+carson,Carson,6934
+fisher,Fisher,6935
+década,decade,6936
+órbita,orbit,6937
+eventualmente,eventually,6938
+ocupa,occupy,6939
+helena,Helena.,6940
+tardará,Tardily,6941
+fiona,Fiona.,6942
+flujo,flow,6943
+toni,Toni,6944
+imagínate,go figure,6945
+esconderse,hide,6946
+sonny,Sonny,6947
+suyas,his,6948
+kansas,Kansas,6949
+llegarán,they will arrive,6950
+presta,lender,6951
+jungla,jungle,6952
+ayudé,help,6953
+destinado,destined,6954
+triple,triple,6955
+colinas,Hills,6956
+ofrecerle,Offer it,6957
+pantano,swamp,6958
+mantienen,Maintain,6959
+rex,Rex,6960
+broadway,Broadway.,6961
+misericordia,mercy,6962
+cometa,Kite,6963
+particularmente,particularly,6964
+morgue,morgue,6965
+implica,it implies,6966
+set,set,6967
+stefan,Stefan.,6968
+drogado,drugged,6969
+ai,ai,6970
+divina,divine,6971
+lenny,Lenny,6972
+empezaremos,we will start,6973
+detesto,I hate,6974
+granjero,farmer,6975
+admitirlo,admit it,6976
+malvada,evil,6977
+códigos,codes,6978
+mueven,Move,6979
+orleans,Orleans.,6980
+femenino,feminine,6981
+misteriosa,mysterious,6982
+dueña,owner,6983
+cercanos,Nearby,6984
+salchichas,sausages,6985
+madrid,Madrid,6986
+niñita,little girl,6987
+basada,well-known,6988
+marge,Marge.,6989
+operar,operate,6990
+yo-,me-,6991
+invita,Invite,6992
+pausa,pause,6993
+asilo,asylum,6994
+equivocados,wrong,6995
+grey,flock,6996
+póngase,put on,6997
+pertenecen,They belong,6998
+rompiste,you broke,6999
+invitada,guest,7000
+cambiaron,Changed,7001
+meredith,Meredith,7002
+anuncios,advertisements,7003
+montones,heaps,7004
+mesas,Tables,7005
+convirtiendo,turning,7006
+avery,Avery,7007
+bárbara,Barbara,7008
+queriendo,Looking at,7009
+síganme,Follow me,7010
+comencemos,Let's start at,7011
+sentimental,sentimental,7012
+alienígena,alien,7013
+gentil,Gentile,7014
+tardar,delay,7015
+abejas,bees,7016
+cuna,crib,7017
+anteriores,Agenda,7018
+permita,Allowing,7019
+piper,piper,7020
+durará,it will last,7021
+cuidadosamente,carefully,7022
+únicas,unique,7023
+monk,Monk.,7024
+dormía,I slept,7025
+diagnóstico,diagnosis,7026
+buck,Buck,7027
+enlace,link,7028
+completar,to complete,7029
+benjamin,Benjamin,7030
+síndrome,syndrome,7031
+stevie,Stevie.,7032
+normalidad,normal,7033
+quitarte,Remove,7034
+haley,Haley.,7035
+legado,legacy,7036
+disparé,I shot,7037
+testificar,testify,7038
+ingeniería,engineering,7039
+acostarme,to bed,7040
+mandé,What,7041
+rincón,corner,7042
+sun,Sun.,7043
+artificiales,artificial.,7044
+milord,milord,7045
+dee,DEE.,7046
+jeffrey,Jeffrey.,7047
+significan,mean.,7048
+sonó,Sound,7049
+foster,Foster.,7050
+chaleco,jacket,7051
+encontrarle,Find him.,7052
+sobrevivió,Survivo,7053
+subasta,auction,7054
+pasaremos,We will pass,7055
+talvez,maybe,7056
+cam,CAM,7057
+naturales,Natural.,7058
+scotty,Scotty.,7059
+corrección,correction,7060
+entiendas,in stores,7061
+estate,estate,7062
+caes,caes.,7063
+dándole,Giving it,7064
+líos,Little ones,7065
+jodiendo,Fucking,7066
+hablaron,spoke,7067
+soltar,release,7068
+llevarle,take,7069
+marcar,mark,7070
+quedaste,you were left,7071
+déjate,Deal,7072
+proyectos,Projects,7073
+educado,educated,7074
+guardado,saved,7075
+zonas,Zones,7076
+repite,repeat,7077
+hermanito,little brother,7078
+tobillo,ankle,7079
+insiste,insist,7080
+categoría,category,7081
+dimensión,dimension,7082
+ayudes,help,7083
+domingos,Sundays,7084
+confundida,confused,7085
+li,Li.,7086
+romanos,Romanos.,7087
+bloque,block,7088
+producir,produce,7089
+pasarme,pass,7090
+aplausos,applause,7091
+vaqueros,Cowboys,7092
+ciclo,cycle,7093
+enterrar,bury,7094
+elvis,Elvis,7095
+charlar,chat,7096
+inventó,invention,7097
+sentarnos,searthen,7098
+bata,coat,7099
+aparecido,appeared,7100
+robos,robberies,7101
+duras,harsh,7102
+descuento,discount,7103
+cardíaco,cardiac,7104
+randall,Randall.,7105
+recto,straight,7106
+valerie,Valerie.,7107
+unir,link,7108
+buddy,Buddy.,7109
+angie,Angie,7110
+infarto,heart attack,7111
+km.,Km.,7112
+echando,pitching,7113
+filadelfia,Philadelphia,7114
+plumas,feathers,7115
+escrita,written,7116
+tomaría,it would take,7117
+creando,Creating,7118
+hammond,Hammond.,7119
+gusanos,Worms,7120
+detengan,Stop,7121
+refrigerador,refrigerator,7122
+abrí,Open,7123
+entres,enters,7124
+sida,AIDS,7125
+déjelo,Leave it,7126
+obligó,Forced,7127
+magnífica,magnificent,7128
+l.a.,the.,7129
+sobrio,sober,7130
+felix,Felix.,7131
+italianos,Italians,7132
+saquen,remove,7133
+obsesión,obsession,7134
+sasha,Sasha,7135
+entregó,He delivered,7136
+acerque,closer,7137
+mírala,look at her,7138
+calendario,calendar,7139
+ayudan,Help,7140
+llevaban,Wearing,7141
+deprimido,depressed,7142
+robots,robots,7143
+rudo,rude,7144
+partidos,matches,7145
+cuidadoso,careful,7146
+ayudarles,Help them,7147
+necesitábamos,We needed,7148
+arreglos,arrangements,7149
+supervisor,supervisor,7150
+austin,Austin,7151
+zapatillas,shoes,7152
+experiencias,experiences,7153
+sobrevivido,survived.,7154
+fijo,permanent,7155
+servidor,server,7156
+solían,They used to,7157
+estimado,estimated,7158
+bases,bases,7159
+mónica,Monica,7160
+cristianos,Christians,7161
+propongo,propose,7162
+bendito,blessed,7163
+get,Get.,7164
+caerá,will fall,7165
+marilyn,Marilyn.,7166
+altar,altar,7167
+disfruten,enjoy,7168
+luchador,fighter,7169
+cierren,Close,7170
+alboroto,rampage,7171
+extrañé,Stranger,7172
+formal,formal,7173
+hermandad,Brotherhood,7174
+rompiendo,Breaking.,7175
+facebook,Facebook,7176
+arriesgar,risk,7177
+vestíbulo,lobby,7178
+cobardes,cowardly,7179
+racista,racist,7180
+cuadra,block,7181
+explique,Explain,7182
+significar,to mean,7183
+rio,River,7184
+claus,Claus.,7185
+láser,To be,7186
+alienígenas,aliens,7187
+tribal,tribal,7188
+dedicado,dedicated,7189
+rudy,Rudy.,7190
+habitantes,population,7191
+divino,divine,7192
+campbell,Campbell.,7193
+tomaba,he took,7194
+conseguirás,You will get,7195
+pobreza,poverty,7196
+ebrio,drunk,7197
+griffin,Griffin,7198
+ambición,ambition,7199
+visitantes,Visitors,7200
+sirvo,SERVO.,7201
+tenés,do,7202
+enseñarme,teach me,7203
+rival,rival,7204
+tarda,Tarda.,7205
+marcho,marcho.,7206
+violet,violet,7207
+comisionado,commissioner,7208
+christina,christina,7209
+out,out,7210
+terminan,end,7211
+captura,capture,7212
+parad,Parad.,7213
+persecución,persecution,7214
+específicamente,specifically,7215
+aparezca,appears,7216
+agradecimiento,gratitude,7217
+acercando,approaching,7218
+tomarte,take you,7219
+usaré,will wear,7220
+debieron,They owed,7221
+bici,bike,7222
+bush,Bush.,7223
+frágil,fragile,7224
+pensará,he will think,7225
+regresamos,we came back,7226
+mejora,gets better,7227
+qu,Qu.,7228
+tinta,ink,7229
+nieta,granddaughter,7230
+silver,Silver.,7231
+inventado,made up,7232
+dejaras,Leaves,7233
+cuchillos,knives,7234
+ruptura,breaking off,7235
+preocupan,Concern,7236
+debéis,You must,7237
+viaja,travels,7238
+cepillo,brush,7239
+velada,evening,7240
+propina,tip,7241
+escribes,you write,7242
+activa,active,7243
+toqué,I touched,7244
+cathy,Cathy,7245
+levantarme,get up,7246
+tiré,I threw,7247
+caravana,caravan,7248
+callate,shut up,7249
+sherlock,Sherlock,7250
+gustaban,Wired,7251
+wes,Wes.,7252
+meto,me to,7253
+traseros,rear ones,7254
+atracción,attraction,7255
+noté,I noticed.,7256
+revisé,check,7257
+atrae,Attract,7258
+grabando,recording,7259
+reportero,reporter,7260
+explorar,to explore,7261
+perfección,perfection,7262
+consentimiento,consent,7263
+tiburones,Tiburons,7264
+denny,Denny,7265
+acepte,Accept,7266
+agradecerte,thank you,7267
+chad,Chad,7268
+yoon,Yoon,7269
+gil,Gil.,7270
+postura,position,7271
+concreto,concrete,7272
+desnudos,naked,7273
+gastado,spent,7274
+apertura,opening,7275
+hurra,Hurrah,7276
+enterprise,Enterprise.,7277
+trates,treats,7278
+ahorrar,save,7279
+divertirnos,Have fun,7280
+autorizado,authorized,7281
+decida,decide,7282
+regular,regular,7283
+homosexual,homosexual,7284
+mutuamente,mutually,7285
+ruidos,noise.,7286
+film,film,7287
+bate,bat,7288
+suenas,Sumise,7289
+bennett,Bennett.,7290
+lunar,lunar,7291
+delta,delta,7292
+pongamos,Set,7293
+erik,Erik.,7294
+cógelo,Enter it,7295
+vestir,wear,7296
+venas,veins,7297
+evaluación,evaluation,7298
+reservas,Bookings,7299
+opiniones,Opinions,7300
+pagamos,we pay,7301
+reagan,Reagan.,7302
+edgar,Edgar.,7303
+capturar,capture,7304
+espadas,swords,7305
+marino,Marine,7306
+singh,Singh.,7307
+lejano,far,7308
+altamente,highly,7309
+solías,You used to,7310
+ocuparme,occupying,7311
+creerá,will believe,7312
+vulgar,vulgar,7313
+oímos,We heard,7314
+estafa,swindle,7315
+describir,describe,7316
+escopeta,shotgun,7317
+orquesta,orchestra,7318
+sentiste,SENTISTED.,7319
+sabias,wisely,7320
+llámeme,Call me,7321
+volvimos,We returned,7322
+cassie,Cassie.,7323
+cool,Cool.,7324
+like,Like.,7325
+lester,Lester.,7326
+hábito,habit,7327
+perdono,forgiveness,7328
+integridad,integrity,7329
+melanie,Melanie.,7330
+orinar,to pee,7331
+rodar,roll,7332
+décadas,decades,7333
+cardenal,cardinal,7334
+sospecho,Suspect,7335
+amarilla,yellow,7336
+reese,Reese,7337
+entretenimiento,entertainment,7338
+arizona,Arizona,7339
+escriba,scribe,7340
+dwight,Dwight.,7341
+hembra,female,7342
+f,F,7343
+pruebe,try,7344
+k,K.,7345
+restaurantes,restaurants,7346
+primaria,primary,7347
+convención,convention,7348
+debían,owed,7349
+cago,cago.,7350
+tiras,Strips,7351
+firmes,firm,7352
+ignorar,ignore,7353
+seguidores,Followers,7354
+falleció,passed away,7355
+quemó,burnt,7356
+bésame,kiss Me,7357
+corrió,He ran,7358
+picante,hot spicy,7359
+déjale,Déjale,7360
+destruyó,He destroyed,7361
+marc,Marc.,7362
+permitió,Allowed,7363
+cambiarme,change,7364
+árabe,Arab,7365
+voló,He flew,7366
+stewart,Stewart.,7367
+contrabando,smuggling,7368
+boxeo,boxing,7369
+pintor,painter,7370
+ejercito,army,7371
+conocieron,They met,7372
+delantera,lead,7373
+yoga,yoga,7374
+time,Time.,7375
+forman,Forman,7376
+disfrute,enjoyment,7377
+reggie,Reggie.,7378
+mulder,Mulder.,7379
+hope,Hope,7380
+chi,chi,7381
+ríen,laugh,7382
+vicky,Vicky,7383
+campanas,bells,7384
+dijeras,I said,7385
+fallar,fail,7386
+intentaron,They tried,7387
+raíz,root,7388
+sheldon,Sheldon.,7389
+marea,tide,7390
+buzón,mailbox,7391
+monroe,Monroe.,7392
+pareciera,It seemed,7393
+hicieran,They did,7394
+eliminado,removed,7395
+rechazado,rejected,7396
+turistas,tourists,7397
+inútiles,useless,7398
+facturas,bills,7399
+cortos,shorts,7400
+visiones,visions,7401
+habernos,Haberos,7402
+lena,firewood,7403
+comparado,compared,7404
+ponme,put me on,7405
+matarle,Kill him.,7406
+lesiones,injuries,7407
+desear,to wish,7408
+cerebros,Brains.,7409
+ra,Ra.,7410
+jorge,George,7411
+indican,indicate,7412
+tuviese,I had,7413
+oyen,hear.,7414
+desaparecieron,They disappeared,7415
+hermanita,sister,7416
+estallar,burst,7417
+paró,unemployment,7418
+know,Know,7419
+ejercicios,training,7420
+flynn,Flynn.,7421
+extras,Additional features,7422
+temes,Tems,7423
+bromeo,bromeo.,7424
+atraer,Attract,7425
+mear,piss,7426
+anunciar,announce,7427
+tae,Tae.,7428
+eléctrico,electric,7429
+sujetos,subjects.,7430
+litros,liters.,7431
+judía,bean,7432
+dawn,Dawn,7433
+pensábamos,We thought,7434
+cañones,cannons,7435
+golpeando,hit,7436
+acoso,bullying,7437
+explicarte,explain,7438
+placas,plates,7439
+remoto,remote,7440
+asesinaron,murdered,7441
+voluntarios,volunteers,7442
+conectar,connect,7443
+enojar,anger,7444
+cuelga,hanging,7445
+cuernos,Horns,7446
+nietos,grandchildren,7447
+gallo,rooster,7448
+mojado,wet,7449
+obtiene,Get,7450
+monica,monica.,7451
+aprendió,Learned,7452
+hubieses,Habiese,7453
+moore,Moore.,7454
+reid,Reid.,7455
+entrenado,trained,7456
+cuidaré,I will take care of,7457
+escucharon,They heard,7458
+reynolds,Reynolds,7459
+convertirte,becoming,7460
+naciste,Born,7461
+escudos,Shields,7462
+cerradas,closed,7463
+palos,sticks,7464
+vínculo,link,7465
+básico,basic,7466
+kay,Kay.,7467
+arrestaron,Arrested,7468
+limpias,Clean.,7469
+municiones,ammunition,7470
+evolución,evolution,7471
+olviden,Forget,7472
+convincente,convincing,7473
+pelotón,platoon,7474
+comprometida,engaged,7475
+suene,SOME,7476
+debíamos,We had,7477
+agarró,grab,7478
+irlandés,Irish,7479
+sudor,sweat,7480
+conociera,Knowledge,7481
+desesperación,despair,7482
+muchachas,Girls,7483
+huye,flees,7484
+nucleares,nuclear,7485
+hada,fairy,7486
+marcharme,march,7487
+convertí,Converted.,7488
+haríamos,We would do,7489
+similares,Similar,7490
+comienzan,Start,7491
+concierne,conciene,7492
+valga,Valga,7493
+eché,ECHÉ.,7494
+mito,myth,7495
+claras,Clear.,7496
+duró,hard,7497
+rencor,resentment,7498
+persigue,pursuit,7499
+trágico,tragic,7500
+brandy,brandy,7501
+desgraciadamente,Unfortunately,7502
+violó,raped,7503
+practicando,Practicing,7504
+volverse,become,7505
+road,Road.,7506
+wells,Wells.,7507
+escucharte,listen to you,7508
+discúlpenme,Excúlpenme.,7509
+poirot,Poirot.,7510
+generador,generator,7511
+aguanto,IHRANTO.,7512
+amelia,Amelia.,7513
+riñón,kidney,7514
+navaja,razor,7515
+dedica,Dedica.,7516
+muñeco,doll,7517
+matty,Matty.,7518
+usaron,used,7519
+by,BY.,7520
+delincuentes,criminals,7521
+oscuros,oscuros.,7522
+niles,Niles.,7523
+cliff,cliff,7524
+ocultando,hiding,7525
+hara,Hara.,7526
+comerciales,commercial,7527
+polly,Polly.,7528
+descubrimos,We discovered,7529
+saint,Saint,7530
+cometiendo,Committing,7531
+protesta,protest,7532
+hudson,Hudson,7533
+llevarán,will take place,7534
+ruina,ruin,7535
+mátalo,Mátalo.,7536
+involucrada,involved,7537
+gratitud,gratitude,7538
+andan,Andan,7539
+oraciones,prayers,7540
+círculos,Circles,7541
+decidiste,you decided,7542
+plaga,plague,7543
+sobredosis,overdose,7544
+uses,uses,7545
+corazon,heart,7546
+revólver,stir,7547
+andre,Andre.,7548
+independencia,independence,7549
+exceso,excess,7550
+conexiones,Connections,7551
+barras,bars,7552
+santuario,sanctuary,7553
+estrado,dais,7554
+insisto,insisto.,7555
+sirena,siren,7556
+are,Ae.,7557
+héctor,Hector,7558
+áreas,Areas,7559
+frito,fried,7560
+absoluta,absolute,7561
+convertirá,Convert,7562
+barrera,barrier,7563
+estándar,standard,7564
+cargando,loading,7565
+públicas,Public,7566
+primos,cousins,7567
+perseguir,to pursue,7568
+favores,favors,7569
+cuan,how,7570
+lizzie,Lizzie.,7571
+interesados,interested,7572
+mierdas,shit,7573
+supremo,supreme,7574
+matara,will kill,7575
+lavandería,laundry,7576
+une,UNE.,7577
+ohio,Ohio,7578
+llamados,calls,7579
+farsa,farce,7580
+automático,automatic,7581
+terminal,terminal,7582
+kira,Kira.,7583
+moriremos,we will die,7584
+val,Val.,7585
+erin,Erin.,7586
+protegerme,protect me.,7587
+químicos,Chemicals,7588
+oyendo,hearing,7589
+técnicas,Techniques,7590
+adulta,adult,7591
+venían,They came,7592
+empiecen,Empién.,7593
+permites,Allowed,7594
+ocupar,occupy,7595
+tijeras,pair of scissors,7596
+senos,breasts,7597
+calibre,caliber,7598
+dominio,domain,7599
+instrumentos,instruments,7600
+demostración,demonstration,7601
+rompecabezas,puzzle,7602
+asustaste,Scared,7603
+separación,separation,7604
+sostener,hold,7605
+esperma,sperm,7606
+porter,porter,7607
+dados,dices,7608
+bién,well,7609
+firmó,signed,7610
+p.m.,p.m.,7611
+alias,alias,7612
+atento,attentive,7613
+inesperado,unexpected,7614
+indicado,indicated,7615
+unidas,united,7616
+movido,Movement,7617
+lanzó,He launched,7618
+rápidos,rapid,7619
+toallas,towels,7620
+carnicero,Butcher,7621
+hunt,Hunt.,7622
+colgando,hanging,7623
+positiva,positive,7624
+ari,ARI.,7625
+triunfo,triumph,7626
+vendí,I sold,7627
+ballena,whale,7628
+cállense,Shut up,7629
+corrupción,corruption,7630
+q,Q.,7631
+cayeron,Cayeron.,7632
+regreses,Returns.,7633
+regresemos,We return,7634
+uds,You,7635
+moriría,I would die,7636
+cheryl,Cheryl.,7637
+extraterrestre,alien,7638
+terremoto,earthquake,7639
+salvé,Hail,7640
+habré,I will have,7641
+aparcamiento,parking,7642
+frutas,fruit,7643
+resumen,resume,7644
+llevarás,You will take,7645
+ricardo,Richard,7646
+chiflado,crackpot,7647
+planea,Planna.,7648
+m.,m.,7649
+ahorros,savings,7650
+omar,Omar.,7651
+tuvieran,They had,7652
+nolan,Nolan.,7653
+explotó,exploded,7654
+flotando,floating,7655
+andaba,Walk,7656
+demente,crazy,7657
+automóvil,car,7658
+acostumbrada,accustomed,7659
+bellas,Bellas.,7660
+doler,to hurt,7661
+jonas,Jonas.,7662
+contenedor,container,7663
+saldrás,You will leave,7664
+ondas,waves,7665
+barril,barrel,7666
+adopción,adoption,7667
+instintos,instincts,7668
+patadas,kicks,7669
+acostarte,to bed.,7670
+satisfacción,satisfaction,7671
+moscas,flies,7672
+sirvió,Served,7673
+huésped,Guest,7674
+existía,existed,7675
+have,HAVE,7676
+asia,Asia,7677
+inmortal,immortal,7678
+comeré,I'll eat,7679
+cambiaste,Changes,7680
+abro,ABRO.,7681
+varón,male,7682
+cooperación,cooperation,7683
+resiste,resists,7684
+músicos,musicians,7685
+patear,kick,7686
+sácame,kick me out,7687
+grayson,Grayson.,7688
+cueste,nursing,7689
+combatir,fight,7690
+accidentalmente,accidentally,7691
+ponerla,put on it,7692
+insoportable,unbearable,7693
+tour,Tour,7694
+contaba,counted,7695
+hoteles,Hotels,7696
+guardo,Guardaro.,7697
+iniciativa,initiative,7698
+denme,Denme.,7699
+avergonzada,"embarrassed, ashamed",7700
+cambiarlo,change it,7701
+comunistas,Communists,7702
+decidieron,They decided,7703
+mejorando,getting better,7704
+regimiento,regiment,7705
+avísame,let me know,7706
+orfanato,orphanage,7707
+enseñando,teaching,7708
+contratos,Contracts,7709
+beba,Beba.,7710
+vistas,views,7711
+dixon,Dixon.,7712
+anual,annual,7713
+declarado,declared,7714
+encubierto,covert,7715
+aborto,abortion,7716
+paquetes,packages,7717
+sospechosa,suspicious,7718
+dámela,give it to me.,7719
+diseñado,designed,7720
+solitaria,Lonely,7721
+prepare,Prepare,7722
+salvarla,save it,7723
+facil,easy,7724
+atraparon,caught,7725
+venda,band,7726
+dj,DJ,7727
+cacería,hunting,7728
+e-mail,e-mail,7729
+penas,penalties,7730
+británica,British,7731
+selección,selection,7732
+honestidad,honesty,7733
+culto,worship,7734
+joyce,Joyce,7735
+telefono,phone,7736
+dormiste,Dress up,7737
+amabilidad,amiability,7738
+entendió,he understood,7739
+notar,notice,7740
+inestable,unstable,7741
+manga,sleeve,7742
+mademoiselle,Mademoiselle,7743
+lava,wash,7744
+delicada,delicate,7745
+cambias,change,7746
+generales,general,7747
+bay,Bay.,7748
+jugaba,I played,7749
+molestaría,I would bother,7750
+mandy,Mandy.,7751
+congelado,frozen,7752
+nocturna,nightly,7753
+marines,Marines,7754
+estuviéramos,We were,7755
+einstein,Einstein.,7756
+ruinas,ruins,7757
+madrugada,early morning,7758
+mostrado,shown,7759
+bichos,bugs,7760
+sácalo,get it out,7761
+boris,Boris,7762
+celebrando,celebrating,7763
+residentes,Residents,7764
+suponer,suppose,7765
+unico,only,7766
+conseguirá,Will get,7767
+ordena,orders,7768
+vivirá,will live,7769
+champagne,Champagne,7770
+derrotar,defeat,7771
+cavar,dig,7772
+sólido,solid,7773
+mariposa,butterfly,7774
+provocar,to provoke,7775
+salvarlo,save him.,7776
+asquerosa,disgusting,7777
+sorprendería,Amazing,7778
+recomiendo,I recommend,7779
+mantendré,I will keep,7780
+provisiones,provisions,7781
+parecerá,It will look like,7782
+batallas,Battles,7783
+temblando,shaking,7784
+dragones,Dragons,7785
+but,BUT.,7786
+ferrocarril,railway,7787
+súbete,get on,7788
+leíste,Leiste.,7789
+agradecerle,thank you,7790
+woody,Woody,7791
+asustar,frighten,7792
+mantengo,I maintain,7793
+querrán,They will want,7794
+trofeo,trophy,7795
+espeluznante,creepy,7796
+crecen,Grow,7797
+prácticas,practices,7798
+bares,pubs,7799
+stevens,Stevens.,7800
+causando,causing,7801
+sonia,Sonia,7802
+echarme,pitch,7803
+cifras,figures,7804
+enséñame,teach me,7805
+polonia,Poland,7806
+cachorro,puppy,7807
+aumenta,increase,7808
+fractura,fracture,7809
+revisado,reviewed,7810
+roberts,Roberts.,7811
+guante,glove,7812
+muros,Walls,7813
+fu,Fu.,7814
+uniformes,uniforms,7815
+confiado,trusted,7816
+recordarlo,remember it,7817
+rotos,broken,7818
+leyó,Leyó,7819
+mostrando,showing,7820
+acompañarme,accompany,7821
+toquen,Touch,7822
+acordado,agreedly,7823
+apuro,trouble,7824
+pañales,diapers,7825
+sonando,dreaming,7826
+comiste,You ate,7827
+presos,prisoners,7828
+otto,Otto.,7829
+tomada,taken,7830
+mínima,minimum,7831
+contárselo,Contact it,7832
+incluido,included,7833
+rindo,RINDO.,7834
+enseñé,I taught.,7835
+opuesto,opposite,7836
+parecería,it would seem,7837
+necesitaría,would need,7838
+catalina,Katherine,7839
+pito,whistle,7840
+follar,fuck,7841
+hamilton,Hamilton.,7842
+sesenta,sixty,7843
+balcón,balcony,7844
+jefferson,Jefferson.,7845
+camilla,stretcher,7846
+bauer,Bauer,7847
+sirva,Sort,7848
+llueve,Rains,7849
+paloma,dove,7850
+irlanda,Ireland,7851
+ático,penthouse,7852
+homicida,murderer,7853
+dañado,damaged,7854
+preparen,Prepare,7855
+cálculos,Calculations.,7856
+sinvergüenza,scoundrel,7857
+rusty,Rusty.,7858
+hablábamos,We talked about,7859
+calvin,Calvin.,7860
+trozos,pieces,7861
+granada,grenade,7862
+filas,rows.,7863
+baúl,trunk,7864
+inventar,invent,7865
+impide,prevents,7866
+not,notable,7867
+llover,to rain,7868
+falló,failure,7869
+tanner,Tanner.,7870
+cody,Cody.,7871
+sirviente,servant,7872
+rechazar,reject,7873
+funciones,functions,7874
+june,June.,7875
+ocurren,occurred,7876
+instalación,installation,7877
+llegaría,would arrive,7878
+verificar,check,7879
+abuelos,grandparents,7880
+bruto,stupid,7881
+teorías,theories,7882
+separar,pull apart,7883
+crío,child,7884
+publicar,to post,7885
+afectado,affected,7886
+alcanzado,reached,7887
+estabais,you were,7888
+vivian,they lived,7889
+tatuajes,Tattoos,7890
+clásica,Classical,7891
+prestar,lend,7892
+consiguen,they get,7893
+deténganse,Stop,7894
+acondicionado,conditioned,7895
+verduras,vegetables,7896
+digital,digital,7897
+dirigen,leader,7898
+archer,archer.,7899
+imperial,imperial,7900
+t.,t.,7901
+comprobarlo,Check it,7902
+emboscada,ambush,7903
+finanzas,finance,7904
+recta,Straight,7905
+enviamos,we send,7906
+disponibles,Available,7907
+agradecería,appreciate,7908
+llévalo,carry it,7909
+soga,rope,7910
+mudo,Mute,7911
+apodo,Nickname,7912
+intelectual,intellectual,7913
+stephanie,Stephanie.,7914
+courtney,Courtney.,7915
+paisaje,landscape,7916
+surgió,It emerged.,7917
+excepcional,exceptional,7918
+brennan,Brennan,7919
+fletcher,Fletcher.,7920
+pub,pub,7921
+dirijo,I direct,7922
+lesión,injury,7923
+marvin,Marvin.,7924
+empujar,Push,7925
+acabemos,End,7926
+fuma,smoke,7927
+suicidarse,commit suicide,7928
+regina,Regina,7929
+novias,Brides,7930
+matones,Thugs,7931
+redes,networks.,7932
+encendida,Once,7933
+mátame,kill me,7934
+entorno,around,7935
+expectativas,expectations,7936
+hablabas,he spoke,7937
+burt,Burtow,7938
+cambiaría,would change,7939
+conseguirte,get you,7940
+explicarle,explain,7941
+theo,the O,7942
+bastón,walking stick,7943
+explico,I explain.,7944
+canales,channels,7945
+armar,to assemble,7946
+preparación,preparation,7947
+carlo,Carlo,7948
+garcía,Garcia,7949
+neumáticos,tires,7950
+pedirme,ask me,7951
+alá,to the,7952
+participación,participation,7953
+atacando,Attacking,7954
+vientos,Winds,7955
+usada,Used,7956
+hablara,to talk to,7957
+verga,cock,7958
+estudiado,studied,7959
+llamara,call to,7960
+cha,Chate,7961
+cd,CD,7962
+avanzando,going forward,7963
+botes,boats,7964
+encerrada,locked,7965
+ayudaste,Helpted.,7966
+escondida,hidden,7967
+gordos,Gordos,7968
+salidas,Departures,7969
+leones,Lions,7970
+garras,claws,7971
+pleno,full,7972
+lamentable,regrettable,7973
+perfectos,perfect,7974
+acompaña,accompany,7975
+promoción,promotion,7976
+televisor,television,7977
+masacre,slaughter,7978
+moveos,Moveos,7979
+llegaba,I arrived,7980
+jet,jet,7981
+desperdicio,waste,7982
+queen,what in,7983
+detendrá,Detend.,7984
+quedarán,will remain,7985
+importará,Import,7986
+margarita,Daisy flower,7987
+chau,bye,7988
+devuelve,bring back,7989
+peluca,wig,7990
+inspección,inspection,7991
+cansados,tired,7992
+cosquillas,tickle,7993
+factor,factor,7994
+recientes,recent,7995
+trece,thirteen,7996
+violín,fiddle,7997
+navegar,surf,7998
+picnic,picnic,7999
+beckett,Beckett.,8000
+beckett,Beckett.,8001
