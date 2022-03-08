@@ -46,7 +46,3 @@ class UserManager:
         response.raise_for_status()
         print('user added successfully.')
         return response.json()
-
-
-um = UserManager('cietrzew')
-print(um.get_users())
