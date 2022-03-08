@@ -1,11 +1,12 @@
 import requests
-from credentials import TEQUILA_TOKEN
 
 
 class FlightSearcher:
+    def __init__(self, token):
+        self.token = token
 
-    @staticmethod
-    def ask(fly_from='WAW',
+    def ask(self,
+            fly_from='WAW',
             fly_to='PAR',
             date_from="12/03/2022",
             date_to="05/06/2022",
@@ -14,7 +15,7 @@ class FlightSearcher:
 
         endpoint = "https://tequila-api.kiwi.com/v2/search"
 
-        headers = {"apikey": TEQUILA_TOKEN}
+        headers = {"apikey": self.token}
 
         query = {
             'fly_from': fly_from,

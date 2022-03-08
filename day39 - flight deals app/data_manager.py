@@ -2,22 +2,19 @@ from flight_data import Sheety
 from flight_search import FlightSearcher
 from users import UserManager
 from notification_manager import NotificationManager
-from credentials import SMTP_GMAIL, \
-                        PORT_GMAIL, \
-                        MAIL_GMAIL, \
-                        PASS_GMAIL, \
-                        SHEETY_TOKEN
+import os
 
 
 class DataManager:
+
     def __init__(self):
-        self.sheety = Sheety(SHEETY_TOKEN)
-        self.user_manager = UserManager(SHEETY_TOKEN)
-        self.flight_searcher = FlightSearcher()
-        self.notification_manager = NotificationManager(sender_smtp=SMTP_GMAIL,
-                                                        sender_port=PORT_GMAIL,
-                                                        sender_address=MAIL_GMAIL,
-                                                        password=PASS_GMAIL)
+        self.sheety = Sheety(os.environ.get('SHEETY_TOKEN'))
+        self.user_manager = UserManager(os.environ.get('SHEETY_TOKEN'))
+        self.flight_searcher = FlightSearcher(os.environ.get('TEQUILA_TOKEN'))
+        self.notification_manager = NotificationManager(sender_smtp=os.environ.get('SMTP_GMAIL'),
+                                                        sender_port=os.environ.get('PORT_GMAIL'),
+                                                        sender_address=os.environ.get('MAIL_GMAIL'),
+                                                        password=os.environ.get('PASS_GMAIL'))
         self.todays_hot_deals = list()
 
     def run(self):

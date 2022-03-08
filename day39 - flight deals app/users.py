@@ -18,7 +18,8 @@ class UserManager:
         name, address = self.user_input()
         self.add_user_to_database(name, address)
 
-    def user_input(self):
+    @staticmethod
+    def user_input():
         print('Setting up new account')
         name = input('What is your name?: ')
         print(f'Hi {name}.')
