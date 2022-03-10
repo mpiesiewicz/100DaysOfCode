@@ -5,11 +5,16 @@
         <title>Michał Piesiewicz's Personal Page</title>
     </head>
     <body>
-        <h2>&ltHello World&gt</h2>
-        <img src="img/me.jpg" alt="michal profile picture" style="width:120px">
-        <h1>I'm <strong>Michał Piesiewicz</strong>,</h1>
-        <h2><em>a software developer in Warsaw.</em></h2>
-        <hr style="border-width:3;color:grey">
+        <table cellspacing="20">
+            <tbody>
+                <tr>
+                    <td><img src="img/me.jpg" alt="michal profile picture" style="width:120px"></td>
+                    <td><h1>Hello, I'm <strong>Michał Piesiewicz</strong></h1>
+                    <hr>
+                        <em>a software developer in Warsaw.</em></td>
+                </tr>
+            </tbody>
+        </table>
 
         <h3>Bio</h3>
         <p>I began to work as a Business Analyst in 2018 for Carlson Wagonlit Travel, where I've quickly discovered my passion for programming, process automation, and database development.
@@ -21,14 +26,90 @@
         <hr style="border-width:3;color:grey">
 
         <h3>Experience</h3>
-        <ul>
-            <li>BUSINESS ANALYST <br>
-                ACCROWELL | Contract for Polish Air Navigation Services Agency, March 2021 - January 2022</li>
-            <li>JUNIOR BUSINESS ANALYST <br>
-                CWT (fmr. Carlson Wagonlit Travel), December 2018 - February 2021</li>
-            <li>SCHEDULER / CLIENT ADMINISTRATOR FOR LARGE INTERNATIONAL CONTRACTS <br>
-                Bureau Veritas HUB Poland, April 2017 - November 2018</li>
-        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Dates</th>
+                    <th>Work</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>March 2021 - January 2022</td>
+                    <td>BUSINESS ANALYST at Accrowell <br> Contract for Polish Air Navigation Services Agency </td>
+                </tr>
+                <tr>
+                    <td>December 2018 - February 2021</td>
+                    <td>JUNIOR BUSINESS ANALYST at Carlson Wagonlit Travel</td>
+                </tr>
+                <tr>
+                    <td>April 2017 - November 2018</td>
+                    <td>SCHEDULER / CLIENT ADMINISTRATOR FOR LARGE INTERNATIONAL CONTRACTS at Bureau Veritas HUB Poland</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <hr style="border-width:3;color:grey">
+
+        <h3>Skills</h3>
+        <table cellspacing="10">
+            <thead>
+                <tr>
+                    <th>Soft Skills</th>
+                    <th>Technical Skills</th>
+                    <th>Frameworks, Tools and Libraries</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Effective communication</td>
+                    <td>Coding and scripting skills in Python 3</td>
+                    <td>Django</td>
+                </tr>
+                <tr>
+                    <td>Excellent Customer Service Skills</td>
+                    <td>Knowledge of how to develop RESTful APIs with Python</td>
+                    <td>Jira</td>
+                </tr>
+                <tr>
+                    <td>Analytical thinking</td>
+                    <td>Understanding of front-end technologies (HTML5, CSS3)</td>
+                    <td>Confluence</td>
+                </tr>
+                <tr>
+                    <td>Interpersonal and teamwork skills</td>
+                    <td>Understanding of Object Oriented Programming paradigm</td>
+                    <td>Pycharm</td>
+                </tr>
+                <tr>
+                    <td>Collaborative and participatory style of working</td>
+                    <td>Commercial experience in database development and languages: T-SQL, Jet-SQL, PL/pgSQL</td>
+                    <td>Atom</td>
+                </tr>
+                <tr>
+                    <td>Creativity / Design</td>
+                    <td>Experience working with GIT version control system</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Positive Attitude</td>
+                    <td>Coding and scripting skills in Visual Basic</td>
+                    <td>Notepad++</td>
+                </tr>
+                <tr>
+                    <td>Willing to accept feedback</td>
+                    <td>Linux, Windows operating systems</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <hr style="border-width:3;color:grey">
 
         <h3>Education</h3>
         <ul>
@@ -52,5 +133,17 @@
             <li>LinkedIn: <a href="https://www.linkedin.com/in/michal-piesiewicz/">Michał Piesiewicz</a></li>
             <li>GitHub: <a href="https://github.com/mpiesiewicz">mpiesiewicz</a></li>
         </ul>
+
+        <form action="mailto:michal.piesiewicz@gmail.com" method="post" enctype="text/plain">
+            <label>Your name:</label>
+            <input type="text" name="yourName"><br>
+            <label>Your email:</label>
+            <input type="email" name="yourEmail"><br>
+            <label>Your message:</label><br>
+            <textarea name="yourMessage" cols="30" rows="10"></textarea><br>
+            <input type="submit">
+        </form>
+
+
     </body>
 </html>
