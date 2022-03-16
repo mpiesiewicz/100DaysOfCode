@@ -10,7 +10,7 @@ class NotificationManager:
 
     def notify(self, recipients, content):
         if len(content) > 0:
-            subject = 'mp_dealfinder: new hot offers in your area'
+            subject = "mp_dealfinder: new hot offers in your area"
             body = self.create_message(content)
             for recipient in recipients:
                 self.send_email(recipient, subject, body)
@@ -20,9 +20,7 @@ class NotificationManager:
         mid = str()
         for deal in content:
             mid += f"{deal['destination']}: {deal['todaysLowest']}EUR | LSF: {deal['lowestSoFar']}EUR | Link: {deal['link']}\n"
-        footer = f"{'_' * 25}\n" \
-                 f"automated by mp_dealfinder!\n" \
-                 f""
+        footer = f"{'_' * 25}\n" f"automated by mp_dealfinder!\n" f""
         return head + mid + footer
 
     def send_email(self, recipient, subject, body):
@@ -30,9 +28,7 @@ class NotificationManager:
             connection.starttls()
             connection.login(user=self.sender_address, password=self.password)
 
-            header = f'To:{recipient}\n' \
-                     f'From:{self.sender_address}\n' \
-                     f'Subject:{subject}\n'
+            header = f"To:{recipient}\n" f"From:{self.sender_address}\n" f"Subject:{subject}\n"
 
             full_message = header + body
             connection.sendmail(from_addr=self.sender_address, to_addrs=recipient, msg=full_message)
