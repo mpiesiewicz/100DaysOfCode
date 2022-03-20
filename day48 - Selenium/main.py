@@ -3,7 +3,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-
 from webdriver_manager.chrome import ChromeDriverManager
 
 chrome_options = Options()
@@ -34,5 +33,20 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 # bug_link = driver.find_element(By.XPATH, '//*[@id="site-map"]/div[2]/div/ul/li[3]/a')
 # print(bug_link.text)
 
+# scraping dates
+driver.get("https://www.python.org")
+
+results = dict()
+
+items = driver.find_elements(By.CSS_SELECTOR, 'div.medium-widget.event-widget.last > div > ul.menu > li')
+for index, item in enumerate(items):
+    time = item.find_element(By.CSS_SELECTOR, 'time').text
+    name = item.find_element(By.CSS_SELECTOR, 'a').text
+    results[index] = {'time': time, 'name': name}
+
+print(results)
+
 
 driver.quit()
+
+#content > div > section > div.list-widgets.row > div.medium-widget.event-widget.last > div > ul > li:nth-child(1) > time

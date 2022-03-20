@@ -23,3 +23,4 @@ wcwidth==0.2.5
 
 beautifulsoup4~=4.10.0
 spotipy~=2.19.0
+selenium~=4.1.3
