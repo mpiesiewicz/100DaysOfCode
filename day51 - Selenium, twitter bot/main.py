@@ -38,7 +38,7 @@ class InternetSpeedTwitterBot:
     def get_internet_speed(self):
         url = 'https://www.speedtest.net/pl'
         self.driver.get(url=url)
-        time.sleep(5)
+        time.sleep(6)
         accept_cookies = self.driver.find_element(By.XPATH, '//*[@id="_evidon-banner-acceptbutton"]')
         accept_cookies.click()
         time.sleep(2)
