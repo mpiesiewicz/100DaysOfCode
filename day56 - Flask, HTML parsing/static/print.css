@@ -1,0 +1,182 @@
+
+
+body {
+  width: 21cm;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #28282A;
+  font-size: 10pt;
+}
+
+hr {
+  display: none;
+}
+
+@media print {
+    .pagebreak { page-break-before: always; }
+}
+
+.print-header {
+  font-family: monospace;
+  font-size: 8pt;
+  margin: 0;
+  margin-right: 5mm;
+  text-align: right;
+} p {
+  margin: 0;
+  font-weight: normal;
+}
+
+.top-container {
+  width: 100%;
+  position: relative;
+  display: inline-block;
+}
+
+.first-header {
+  position: relative;
+  z-index: 1;
+}
+
+.top-cloud {
+  display: none;
+}
+
+h1 {
+  font-family: 'DM Mono', monospace;
+  color: #28282A;
+}
+
+h2 {
+  font-family: 'Courier Prime', monospace;
+  color: #184E77;
+}
+
+h3 {
+  font-family: 'Courier Prime', monospace;
+  color: #184E77;
+}
+
+.sub-header {
+  font-family: 'Courier Prime', monospace;
+  color: #184E77;
+}
+
+.bottom-cloud {
+  display: none;
+}
+
+.mountain {
+  display: none;
+}
+
+.hello-container {
+  display: none;
+}
+
+.bio-exp {
+  display: flex;
+  justify-content: center;
+  column-gap: 8mm;
+}
+
+.bio {
+  width: 7cm;
+  text-align: justify;
+  justify-content: auto;
+}
+
+.exp-box {
+  width: 10cm;
+}
+
+.experience-header {
+  text-align: left;
+}
+
+.date-exp {
+  text-align: right;
+}
+
+.info-exp {
+  text-align: left;
+}
+
+.info-exp-text {
+  text-align: justify;
+  text-justify: auto;
+}
+
+.skills {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.skills-row-left {
+  display: inline-block;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.skills-row-right {
+  display: inline-block;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+}
+
+.skill-box {
+  display: inline-block;
+  width: 6cm;
+  margin: 15px 15px;
+  text-align: left;
+}
+
+.skill-icon {
+  display: none;
+}
+
+.education {
+  text-align: justify;
+  justify-content: auto;
+  margin: 1cm;
+}
+
+.contact-me {
+  display: none;
+  padding: 32px;
+  clear: left
+}
+
+footer {
+  display: block;
+  background-color: white;
+  padding: 0.5cm 1cm 0.2cm 1cm;
+}
+
+a {
+  color: #184E77;
+  text-decoration: none;
+  transition: 1s;
+}
+
+a:hover {
+  font-size: 115%;
+}
+
+
+.credits {
+  display: none;
+}
+
+.footer-link {
+  display: none;
+}
+
+.btn {
+  display: none;
+}
+
+.copyrights {
+  display: none;
+}

@@ -1,0 +1,216 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  min-width: 300px;
+  width: 100%;
+  background-color: #52B69A;
+  color: white;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+  border: None;
+  border-top: 6px dotted;
+  width: 5%;
+  margin: 50px auto;
+  clear: both;
+  color: white;
+}
+
+@media print {
+    .pagebreak { page-break-before: always; }
+}
+
+.print-header {
+  display: none;
+}
+
+.top-container {
+  width: 100%;
+  background-image: linear-gradient(#184E77 0% 10%, #34A0A4 85%, #52B69A);
+  position: relative;
+  display: inline-block;
+  padding-top: 100px;
+}
+
+.first-header {
+  position: relative;+
+  z-index: 1;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 15%;
+  top: 15%;
+  transition: 1.5s;
+  z-index: 1;
+}
+
+h1 {
+  font-family: 'DM Mono', monospace;
+}
+
+h2 {
+  font-family: 'Courier Prime', monospace;
+  color: #D9ED92;
+  z-index: 2;
+}
+
+h3 {
+  font-family: 'Courier Prime', monospace;
+}
+
+.sub-header {
+  font-family: 'Courier Prime', monospace;
+  color: #D9ED92;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 10%;
+  transition: 1s;
+}
+
+.mountain {
+  max-width: 100%;
+}
+
+.top-container:hover .top-cloud {
+  right: 75%;
+}
+
+.top-container:hover .bottom-cloud {
+  left: 75%;
+}
+
+.hello-container {
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 0 10vw;
+  text-align: left;
+}
+
+.hello-container h2 {
+  padding-bottom: 10px;
+}
+
+.ty {
+  padding-top: 5px;
+}
+
+
+.bio-exp {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 10px;
+  justify-content: center;
+  column-gap: 50px;
+}
+
+.bio {
+  width: 350px;
+  text-align: justify;
+  justify-content: auto;
+  margin-right: 20px;
+}
+
+.exp-box {
+  margin: 30px 0;
+}
+
+.experience-header {
+  text-align: left;
+  margin: 30px 0;
+}
+
+.date-exp {
+  text-align: right;
+}
+
+.info-exp {
+  max-width: 400px;
+  text-align: left;
+}
+
+.info-exp-text {
+  padding-top: 0px;
+  text-align: justify;
+  text-justify: auto;
+}
+
+.skills {
+}
+
+.skills-row-left {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  vertical-align: middle;
+  gap: 20px 60px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.skills-row-right {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px 60px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.skill-box {
+  display: inline-block;
+  width: 400px;
+  margin: 15px 50px;
+  text-align: left;
+}
+
+.skill-icon {
+  width: 100px;
+  height: 100px;
+}
+
+.education {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 0 10vw;
+  text-align: left;
+  text-align: justify;
+  justify-content: auto;
+} h3 {
+  margin: 15px;
+}
+
+.contact-me {
+  display: block;
+  padding: 32px;
+  clear: left
+}
+
+footer {
+  display: block;
+  background-color: #34A0A4;
+  padding: 32px;
+}
+
+.credits {
+  font-size:10px;
+}
+
+a {
+  color: #D9ED92;
+  text-decoration: none;
+  transition: 1s;
+}
+
+a:hover {
+  font-size: 115%;
+}
